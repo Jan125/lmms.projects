@@ -1,0 +1,1206 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.3.0-alpha.1.231+g49b1f83e4" creator="LMMS" version="23" type="song">
+  <head timesig_denominator="4" mastervol="100" timesig_numerator="4" bpm="210" masterpitch="0"/>
+  <song>
+    <trackcontainer minimized="0" width="1027" y="1" visible="1" height="600" maximized="0" x="7" type="song">
+      <track name="Tempo" muted="0" solo="0" mutedBeforeSolo="0" type="5">
+        <automationtrack/>
+      </track>
+      <track name="SGM-V2" muted="1" solo="0" mutedBeforeSolo="1" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="1" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="0" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="48" bank="0" gain="0.82" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:SGM-V2.01.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="63" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="0" key="65" vol="100" len="192" pan="0"/>
+          <note pos="0" key="63" vol="100" len="192" pan="0"/>
+          <note pos="0" key="60" vol="100" len="144" pan="0"/>
+          <note pos="144" key="60" vol="100" len="48" pan="0"/>
+          <note pos="192" key="65" vol="100" len="192" pan="0"/>
+          <note pos="192" key="62" vol="100" len="192" pan="0"/>
+          <note pos="192" key="58" vol="100" len="144" pan="0"/>
+          <note pos="336" key="56" vol="100" len="48" pan="0"/>
+          <note pos="384" key="64" vol="100" len="72" pan="0"/>
+          <note pos="384" key="60" vol="100" len="72" pan="0"/>
+          <note pos="384" key="55" vol="100" len="72" pan="0"/>
+          <note pos="384" key="52" vol="100" len="72" pan="0"/>
+          <note pos="456" key="62" vol="100" len="72" pan="0"/>
+          <note pos="456" key="60" vol="100" len="72" pan="0"/>
+          <note pos="456" key="56" vol="100" len="72" pan="0"/>
+          <note pos="456" key="50" vol="100" len="72" pan="0"/>
+          <note pos="528" key="62" vol="100" len="48" pan="0"/>
+          <note pos="528" key="56" vol="100" len="48" pan="0"/>
+          <note pos="528" key="50" vol="100" len="48" pan="0"/>
+          <note pos="576" key="63" vol="100" len="192" pan="0"/>
+          <note pos="576" key="60" vol="100" len="144" pan="0"/>
+          <note pos="576" key="56" vol="100" len="192" pan="0"/>
+          <note pos="576" key="53" vol="100" len="192" pan="0"/>
+          <note pos="720" key="60" vol="100" len="48" pan="0"/>
+          <note pos="768" key="62" vol="100" len="144" pan="0"/>
+          <note pos="768" key="58" vol="100" len="144" pan="0"/>
+          <note pos="768" key="56" vol="100" len="144" pan="0"/>
+          <note pos="768" key="53" vol="100" len="144" pan="0"/>
+          <note pos="912" key="63" vol="100" len="96" pan="0"/>
+          <note pos="912" key="58" vol="100" len="96" pan="0"/>
+          <note pos="912" key="55" vol="100" len="96" pan="0"/>
+          <note pos="1008" key="62" vol="100" len="144" pan="0"/>
+          <note pos="1008" key="58" vol="100" len="144" pan="0"/>
+          <note pos="1008" key="53" vol="100" len="120" pan="0"/>
+          <note pos="1104" key="50" vol="100" len="24" pan="0"/>
+          <note pos="1128" key="53" vol="100" len="24" pan="0"/>
+          <note pos="1152" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="58" vol="100" len="144" pan="0"/>
+          <note pos="1152" key="56" vol="100" len="144" pan="0"/>
+          <note pos="1152" key="50" vol="100" len="144" pan="0"/>
+          <note pos="1200" key="63" vol="100" len="24" pan="0"/>
+          <note pos="1224" key="62" vol="100" len="72" pan="0"/>
+          <note pos="1296" key="60" vol="100" len="240" pan="0"/>
+          <note pos="1296" key="56" vol="100" len="240" pan="0"/>
+          <note pos="1296" key="51" vol="100" len="240" pan="0"/>
+          <note pos="1536" key="65" vol="100" len="192" pan="0"/>
+          <note pos="1536" key="63" vol="100" len="192" pan="0"/>
+          <note pos="1536" key="60" vol="100" len="144" pan="0"/>
+          <note pos="1680" key="60" vol="100" len="48" pan="0"/>
+          <note pos="1728" key="65" vol="100" len="192" pan="0"/>
+          <note pos="1728" key="62" vol="100" len="192" pan="0"/>
+          <note pos="1728" key="58" vol="100" len="192" pan="0"/>
+          <note pos="1872" key="68" vol="100" len="48" pan="0"/>
+          <note pos="1920" key="67" vol="100" len="144" pan="0"/>
+          <note pos="1920" key="64" vol="100" len="72" pan="0"/>
+          <note pos="1920" key="60" vol="100" len="144" pan="0"/>
+          <note pos="1920" key="55" vol="100" len="144" pan="0"/>
+          <note pos="1992" key="63" vol="100" len="72" pan="0"/>
+          <note pos="2064" key="72" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="68" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="65" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="60" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="70" vol="100" len="144" pan="0"/>
+          <note pos="2304" key="67" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="65" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="62" vol="100" len="240" pan="0"/>
+          <note pos="2448" key="72" vol="100" len="96" pan="0"/>
+          <note pos="2544" key="70" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="65" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="62" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="58" vol="100" len="96" pan="0"/>
+          <note pos="2640" key="55" vol="100" len="24" pan="0"/>
+          <note pos="2664" key="60" vol="100" len="24" pan="0"/>
+          <note pos="2688" key="64" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="60" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="55" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="52" vol="100" len="144" pan="0"/>
+          <note pos="2832" key="60" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="55" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="52" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="48" vol="100" len="240" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="7680" muted="0" type="1">
+          <note pos="0" key="60" vol="100" len="192" pan="0"/>
+          <note pos="0" key="56" vol="100" len="192" pan="0"/>
+          <note pos="0" key="51" vol="100" len="192" pan="0"/>
+          <note pos="192" key="58" vol="100" len="144" pan="0"/>
+          <note pos="192" key="55" vol="100" len="144" pan="0"/>
+          <note pos="192" key="51" vol="100" len="144" pan="0"/>
+          <note pos="336" key="60" vol="100" len="48" pan="0"/>
+          <note pos="336" key="56" vol="100" len="48" pan="0"/>
+          <note pos="336" key="53" vol="100" len="48" pan="0"/>
+          <note pos="384" key="63" vol="100" len="72" pan="0"/>
+          <note pos="384" key="58" vol="100" len="72" pan="0"/>
+          <note pos="384" key="53" vol="100" len="72" pan="0"/>
+          <note pos="456" key="62" vol="100" len="72" pan="0"/>
+          <note pos="456" key="56" vol="100" len="72" pan="0"/>
+          <note pos="456" key="50" vol="100" len="72" pan="0"/>
+          <note pos="528" key="60" vol="100" len="48" pan="0"/>
+          <note pos="528" key="53" vol="100" len="48" pan="0"/>
+          <note pos="528" key="50" vol="100" len="48" pan="0"/>
+          <note pos="576" key="56" vol="100" len="192" pan="0"/>
+          <note pos="576" key="51" vol="100" len="192" pan="0"/>
+          <note pos="576" key="49" vol="100" len="192" pan="0"/>
+          <note pos="768" key="60" vol="100" len="192" pan="0"/>
+          <note pos="768" key="53" vol="100" len="192" pan="0"/>
+          <note pos="768" key="50" vol="100" len="192" pan="0"/>
+          <note pos="960" key="58" vol="100" len="144" pan="0"/>
+          <note pos="960" key="55" vol="100" len="144" pan="0"/>
+          <note pos="960" key="51" vol="100" len="144" pan="0"/>
+          <note pos="1104" key="60" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="56" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="53" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="63" vol="100" len="72" pan="0"/>
+          <note pos="1152" key="58" vol="100" len="72" pan="0"/>
+          <note pos="1152" key="53" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="62" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="56" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="50" vol="100" len="72" pan="0"/>
+          <note pos="1296" key="60" vol="100" len="48" pan="0"/>
+          <note pos="1296" key="53" vol="100" len="48" pan="0"/>
+          <note pos="1296" key="50" vol="100" len="48" pan="0"/>
+          <note pos="1344" key="61" vol="100" len="192" pan="0"/>
+          <note pos="1344" key="56" vol="100" len="192" pan="0"/>
+          <note pos="1344" key="53" vol="100" len="192" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="0" muted="0" type="1">
+          <note pos="0" key="65" vol="100" len="192" pan="0"/>
+          <note pos="0" key="63" vol="100" len="192" pan="0"/>
+          <note pos="0" key="60" vol="100" len="144" pan="0"/>
+          <note pos="144" key="60" vol="100" len="48" pan="0"/>
+          <note pos="192" key="65" vol="100" len="192" pan="0"/>
+          <note pos="192" key="62" vol="100" len="192" pan="0"/>
+          <note pos="192" key="58" vol="100" len="144" pan="0"/>
+          <note pos="336" key="56" vol="100" len="48" pan="0"/>
+          <note pos="384" key="64" vol="100" len="72" pan="0"/>
+          <note pos="384" key="60" vol="100" len="72" pan="0"/>
+          <note pos="384" key="55" vol="100" len="72" pan="0"/>
+          <note pos="384" key="52" vol="100" len="72" pan="0"/>
+          <note pos="456" key="62" vol="100" len="72" pan="0"/>
+          <note pos="456" key="60" vol="100" len="72" pan="0"/>
+          <note pos="456" key="56" vol="100" len="72" pan="0"/>
+          <note pos="456" key="50" vol="100" len="72" pan="0"/>
+          <note pos="528" key="62" vol="100" len="48" pan="0"/>
+          <note pos="528" key="56" vol="100" len="48" pan="0"/>
+          <note pos="528" key="50" vol="100" len="48" pan="0"/>
+          <note pos="576" key="63" vol="100" len="192" pan="0"/>
+          <note pos="576" key="60" vol="100" len="144" pan="0"/>
+          <note pos="576" key="56" vol="100" len="192" pan="0"/>
+          <note pos="576" key="53" vol="100" len="192" pan="0"/>
+          <note pos="720" key="60" vol="100" len="48" pan="0"/>
+          <note pos="768" key="62" vol="100" len="144" pan="0"/>
+          <note pos="768" key="58" vol="100" len="144" pan="0"/>
+          <note pos="768" key="56" vol="100" len="144" pan="0"/>
+          <note pos="768" key="53" vol="100" len="144" pan="0"/>
+          <note pos="912" key="63" vol="100" len="96" pan="0"/>
+          <note pos="912" key="58" vol="100" len="96" pan="0"/>
+          <note pos="912" key="55" vol="100" len="96" pan="0"/>
+          <note pos="1008" key="62" vol="100" len="144" pan="0"/>
+          <note pos="1008" key="58" vol="100" len="144" pan="0"/>
+          <note pos="1008" key="53" vol="100" len="120" pan="0"/>
+          <note pos="1104" key="50" vol="100" len="24" pan="0"/>
+          <note pos="1128" key="53" vol="100" len="24" pan="0"/>
+          <note pos="1152" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="58" vol="100" len="144" pan="0"/>
+          <note pos="1152" key="56" vol="100" len="144" pan="0"/>
+          <note pos="1152" key="50" vol="100" len="144" pan="0"/>
+          <note pos="1200" key="63" vol="100" len="24" pan="0"/>
+          <note pos="1224" key="62" vol="100" len="72" pan="0"/>
+          <note pos="1296" key="60" vol="100" len="240" pan="0"/>
+          <note pos="1296" key="56" vol="100" len="240" pan="0"/>
+          <note pos="1296" key="51" vol="100" len="240" pan="0"/>
+          <note pos="1536" key="65" vol="100" len="192" pan="0"/>
+          <note pos="1536" key="63" vol="100" len="192" pan="0"/>
+          <note pos="1536" key="60" vol="100" len="144" pan="0"/>
+          <note pos="1680" key="60" vol="100" len="48" pan="0"/>
+          <note pos="1728" key="65" vol="100" len="192" pan="0"/>
+          <note pos="1728" key="62" vol="100" len="192" pan="0"/>
+          <note pos="1728" key="58" vol="100" len="192" pan="0"/>
+          <note pos="1872" key="68" vol="100" len="48" pan="0"/>
+          <note pos="1920" key="67" vol="100" len="144" pan="0"/>
+          <note pos="1920" key="64" vol="100" len="72" pan="0"/>
+          <note pos="1920" key="60" vol="100" len="144" pan="0"/>
+          <note pos="1920" key="55" vol="100" len="144" pan="0"/>
+          <note pos="1992" key="63" vol="100" len="72" pan="0"/>
+          <note pos="2064" key="72" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="68" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="65" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="60" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="70" vol="100" len="144" pan="0"/>
+          <note pos="2304" key="67" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="65" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="62" vol="100" len="240" pan="0"/>
+          <note pos="2448" key="72" vol="100" len="96" pan="0"/>
+          <note pos="2544" key="70" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="65" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="62" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="58" vol="100" len="96" pan="0"/>
+          <note pos="2640" key="55" vol="100" len="24" pan="0"/>
+          <note pos="2664" key="60" vol="100" len="24" pan="0"/>
+          <note pos="2688" key="64" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="60" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="55" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="52" vol="100" len="144" pan="0"/>
+          <note pos="2832" key="60" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="55" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="52" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="48" vol="100" len="240" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6144" muted="0" type="1">
+          <note pos="0" key="62" vol="100" len="192" pan="0"/>
+          <note pos="0" key="55" vol="100" len="192" pan="0"/>
+          <note pos="0" key="53" vol="100" len="192" pan="0"/>
+          <note pos="192" key="60" vol="100" len="144" pan="0"/>
+          <note pos="192" key="56" vol="100" len="144" pan="0"/>
+          <note pos="192" key="51" vol="100" len="144" pan="0"/>
+          <note pos="336" key="62" vol="100" len="48" pan="0"/>
+          <note pos="336" key="58" vol="100" len="48" pan="0"/>
+          <note pos="336" key="55" vol="100" len="48" pan="0"/>
+          <note pos="384" key="65" vol="100" len="72" pan="0"/>
+          <note pos="384" key="60" vol="100" len="72" pan="0"/>
+          <note pos="384" key="55" vol="100" len="72" pan="0"/>
+          <note pos="456" key="64" vol="100" len="72" pan="0"/>
+          <note pos="456" key="58" vol="100" len="72" pan="0"/>
+          <note pos="456" key="52" vol="100" len="72" pan="0"/>
+          <note pos="528" key="62" vol="100" len="48" pan="0"/>
+          <note pos="528" key="55" vol="100" len="48" pan="0"/>
+          <note pos="528" key="52" vol="100" len="48" pan="0"/>
+          <note pos="576" key="58" vol="100" len="192" pan="0"/>
+          <note pos="576" key="53" vol="100" len="192" pan="0"/>
+          <note pos="576" key="51" vol="100" len="192" pan="0"/>
+          <note pos="768" key="62" vol="100" len="192" pan="0"/>
+          <note pos="768" key="55" vol="100" len="192" pan="0"/>
+          <note pos="768" key="52" vol="100" len="192" pan="0"/>
+          <note pos="960" key="60" vol="100" len="144" pan="0"/>
+          <note pos="960" key="57" vol="100" len="144" pan="0"/>
+          <note pos="960" key="53" vol="100" len="144" pan="0"/>
+          <note pos="1104" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="58" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="55" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="65" vol="100" len="72" pan="0"/>
+          <note pos="1152" key="60" vol="100" len="72" pan="0"/>
+          <note pos="1152" key="55" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="64" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="58" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="52" vol="100" len="72" pan="0"/>
+          <note pos="1296" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1296" key="55" vol="100" len="48" pan="0"/>
+          <note pos="1296" key="52" vol="100" len="48" pan="0"/>
+          <note pos="1344" key="63" vol="100" len="192" pan="0"/>
+          <note pos="1344" key="58" vol="100" len="192" pan="0"/>
+          <note pos="1344" key="55" vol="100" len="192" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="Touhou" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="1" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="3" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="0" bank="0" gain="0.68" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:Touhou.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="63" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="0" key="65" vol="100" len="192" pan="0"/>
+          <note pos="0" key="63" vol="100" len="192" pan="0"/>
+          <note pos="0" key="60" vol="100" len="144" pan="0"/>
+          <note pos="144" key="60" vol="100" len="48" pan="0"/>
+          <note pos="192" key="65" vol="100" len="192" pan="0"/>
+          <note pos="192" key="62" vol="100" len="192" pan="0"/>
+          <note pos="192" key="58" vol="100" len="144" pan="0"/>
+          <note pos="336" key="56" vol="100" len="48" pan="0"/>
+          <note pos="384" key="64" vol="100" len="72" pan="0"/>
+          <note pos="384" key="60" vol="100" len="72" pan="0"/>
+          <note pos="384" key="55" vol="100" len="72" pan="0"/>
+          <note pos="384" key="52" vol="100" len="72" pan="0"/>
+          <note pos="456" key="62" vol="100" len="72" pan="0"/>
+          <note pos="456" key="60" vol="100" len="72" pan="0"/>
+          <note pos="456" key="56" vol="100" len="72" pan="0"/>
+          <note pos="456" key="50" vol="100" len="72" pan="0"/>
+          <note pos="528" key="62" vol="100" len="48" pan="0"/>
+          <note pos="528" key="56" vol="100" len="48" pan="0"/>
+          <note pos="528" key="50" vol="100" len="48" pan="0"/>
+          <note pos="576" key="63" vol="100" len="192" pan="0"/>
+          <note pos="576" key="60" vol="100" len="144" pan="0"/>
+          <note pos="576" key="56" vol="100" len="192" pan="0"/>
+          <note pos="576" key="53" vol="100" len="192" pan="0"/>
+          <note pos="720" key="60" vol="100" len="48" pan="0"/>
+          <note pos="768" key="62" vol="100" len="144" pan="0"/>
+          <note pos="768" key="58" vol="100" len="144" pan="0"/>
+          <note pos="768" key="56" vol="100" len="144" pan="0"/>
+          <note pos="768" key="53" vol="100" len="144" pan="0"/>
+          <note pos="912" key="63" vol="100" len="96" pan="0"/>
+          <note pos="912" key="58" vol="100" len="96" pan="0"/>
+          <note pos="912" key="55" vol="100" len="96" pan="0"/>
+          <note pos="1008" key="62" vol="100" len="144" pan="0"/>
+          <note pos="1008" key="58" vol="100" len="144" pan="0"/>
+          <note pos="1008" key="53" vol="100" len="120" pan="0"/>
+          <note pos="1104" key="50" vol="100" len="24" pan="0"/>
+          <note pos="1128" key="53" vol="100" len="24" pan="0"/>
+          <note pos="1152" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="58" vol="100" len="144" pan="0"/>
+          <note pos="1152" key="56" vol="100" len="144" pan="0"/>
+          <note pos="1152" key="50" vol="100" len="144" pan="0"/>
+          <note pos="1200" key="63" vol="100" len="24" pan="0"/>
+          <note pos="1224" key="62" vol="100" len="72" pan="0"/>
+          <note pos="1296" key="60" vol="100" len="240" pan="0"/>
+          <note pos="1296" key="56" vol="100" len="240" pan="0"/>
+          <note pos="1296" key="51" vol="100" len="240" pan="0"/>
+          <note pos="1536" key="65" vol="100" len="192" pan="0"/>
+          <note pos="1536" key="63" vol="100" len="192" pan="0"/>
+          <note pos="1536" key="60" vol="100" len="144" pan="0"/>
+          <note pos="1680" key="60" vol="100" len="48" pan="0"/>
+          <note pos="1728" key="65" vol="100" len="192" pan="0"/>
+          <note pos="1728" key="62" vol="100" len="192" pan="0"/>
+          <note pos="1728" key="58" vol="100" len="192" pan="0"/>
+          <note pos="1872" key="68" vol="100" len="48" pan="0"/>
+          <note pos="1920" key="67" vol="100" len="144" pan="0"/>
+          <note pos="1920" key="64" vol="100" len="72" pan="0"/>
+          <note pos="1920" key="60" vol="100" len="144" pan="0"/>
+          <note pos="1920" key="55" vol="100" len="144" pan="0"/>
+          <note pos="1992" key="63" vol="100" len="72" pan="0"/>
+          <note pos="2064" key="72" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="68" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="65" vol="100" len="240" pan="0"/>
+          <note pos="2064" key="60" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="70" vol="100" len="144" pan="0"/>
+          <note pos="2304" key="67" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="65" vol="100" len="240" pan="0"/>
+          <note pos="2304" key="62" vol="100" len="240" pan="0"/>
+          <note pos="2448" key="72" vol="100" len="96" pan="0"/>
+          <note pos="2544" key="70" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="65" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="62" vol="100" len="144" pan="0"/>
+          <note pos="2544" key="58" vol="100" len="96" pan="0"/>
+          <note pos="2640" key="55" vol="100" len="24" pan="0"/>
+          <note pos="2664" key="60" vol="100" len="24" pan="0"/>
+          <note pos="2688" key="64" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="60" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="55" vol="100" len="144" pan="0"/>
+          <note pos="2688" key="52" vol="100" len="144" pan="0"/>
+          <note pos="2832" key="60" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="55" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="52" vol="100" len="240" pan="0"/>
+          <note pos="2832" key="48" vol="100" len="240" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6144" muted="0" type="1">
+          <note pos="0" key="62" vol="100" len="192" pan="0"/>
+          <note pos="0" key="55" vol="100" len="192" pan="0"/>
+          <note pos="0" key="53" vol="100" len="192" pan="0"/>
+          <note pos="192" key="60" vol="100" len="144" pan="0"/>
+          <note pos="192" key="56" vol="100" len="144" pan="0"/>
+          <note pos="192" key="51" vol="100" len="144" pan="0"/>
+          <note pos="336" key="62" vol="100" len="48" pan="0"/>
+          <note pos="336" key="58" vol="100" len="48" pan="0"/>
+          <note pos="336" key="55" vol="100" len="48" pan="0"/>
+          <note pos="384" key="65" vol="100" len="72" pan="0"/>
+          <note pos="384" key="60" vol="100" len="72" pan="0"/>
+          <note pos="384" key="55" vol="100" len="72" pan="0"/>
+          <note pos="456" key="64" vol="100" len="72" pan="0"/>
+          <note pos="456" key="58" vol="100" len="72" pan="0"/>
+          <note pos="456" key="52" vol="100" len="72" pan="0"/>
+          <note pos="528" key="62" vol="100" len="48" pan="0"/>
+          <note pos="528" key="55" vol="100" len="48" pan="0"/>
+          <note pos="528" key="52" vol="100" len="48" pan="0"/>
+          <note pos="576" key="58" vol="100" len="192" pan="0"/>
+          <note pos="576" key="53" vol="100" len="192" pan="0"/>
+          <note pos="576" key="51" vol="100" len="192" pan="0"/>
+          <note pos="768" key="62" vol="100" len="192" pan="0"/>
+          <note pos="768" key="55" vol="100" len="192" pan="0"/>
+          <note pos="768" key="52" vol="100" len="192" pan="0"/>
+          <note pos="960" key="60" vol="100" len="144" pan="0"/>
+          <note pos="960" key="57" vol="100" len="144" pan="0"/>
+          <note pos="960" key="53" vol="100" len="144" pan="0"/>
+          <note pos="1104" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="58" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="55" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="65" vol="100" len="72" pan="0"/>
+          <note pos="1152" key="60" vol="100" len="72" pan="0"/>
+          <note pos="1152" key="55" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="64" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="58" vol="100" len="72" pan="0"/>
+          <note pos="1224" key="52" vol="100" len="72" pan="0"/>
+          <note pos="1296" key="62" vol="100" len="48" pan="0"/>
+          <note pos="1296" key="55" vol="100" len="48" pan="0"/>
+          <note pos="1296" key="52" vol="100" len="48" pan="0"/>
+          <note pos="1344" key="63" vol="100" len="192" pan="0"/>
+          <note pos="1344" key="58" vol="100" len="192" pan="0"/>
+          <note pos="1344" key="55" vol="100" len="192" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="Touhou" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="1" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="1" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="68" bank="0" gain="1.5" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:Touhou.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="63" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="0" key="65" vol="100" len="96" pan="0"/>
+          <note pos="96" key="67" vol="100" len="48" pan="0"/>
+          <note pos="144" key="68" vol="100" len="48" pan="0"/>
+          <note pos="192" key="70" vol="100" len="48" pan="0"/>
+          <note pos="240" key="68" vol="100" len="48" pan="0"/>
+          <note pos="288" key="67" vol="100" len="48" pan="0"/>
+          <note pos="336" key="65" vol="100" len="48" pan="0"/>
+          <note pos="384" key="64" vol="100" len="36" pan="0"/>
+          <note pos="420" key="62" vol="100" len="12" pan="0"/>
+          <note pos="432" key="60" vol="100" len="48" pan="0"/>
+          <note pos="480" key="64" vol="100" len="48" pan="0"/>
+          <note pos="528" key="72" vol="100" len="48" pan="0"/>
+          <note pos="576" key="65" vol="100" len="84" pan="0"/>
+          <note pos="672" key="65" vol="100" len="36" pan="0"/>
+          <note pos="708" key="64" vol="100" len="12" pan="0"/>
+          <note pos="720" key="63" vol="100" len="48" pan="0"/>
+          <note pos="768" key="62" vol="100" len="36" pan="0"/>
+          <note pos="804" key="69" vol="100" len="12" pan="0"/>
+          <note pos="816" key="70" vol="100" len="48" pan="0"/>
+          <note pos="864" key="65" vol="100" len="48" pan="0"/>
+          <note pos="912" key="70" vol="100" len="132" pan="0"/>
+          <note pos="1056" key="65" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="63" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="62" vol="100" len="36" pan="0"/>
+          <note pos="1188" key="69" vol="100" len="12" pan="0"/>
+          <note pos="1200" key="70" vol="100" len="48" pan="0"/>
+          <note pos="1248" key="65" vol="100" len="36" pan="0"/>
+          <note pos="1284" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1296" key="68" vol="100" len="96" pan="0"/>
+          <note pos="1392" key="65" vol="100" len="132" pan="0"/>
+          <note pos="1536" key="65" vol="100" len="96" pan="0"/>
+          <note pos="1632" key="67" vol="100" len="48" pan="0"/>
+          <note pos="1680" key="68" vol="100" len="48" pan="0"/>
+          <note pos="1728" key="70" vol="100" len="48" pan="0"/>
+          <note pos="1776" key="68" vol="100" len="48" pan="0"/>
+          <note pos="1824" key="67" vol="100" len="48" pan="0"/>
+          <note pos="1872" key="65" vol="100" len="48" pan="0"/>
+          <note pos="1920" key="64" vol="100" len="36" pan="0"/>
+          <note pos="1956" key="62" vol="100" len="12" pan="0"/>
+          <note pos="1968" key="60" vol="100" len="36" pan="0"/>
+          <note pos="2004" key="62" vol="100" len="12" pan="0"/>
+          <note pos="2016" key="63" vol="100" len="48" pan="0"/>
+          <note pos="2064" key="64" vol="100" len="48" pan="0"/>
+          <note pos="2112" key="65" vol="100" len="84" pan="0"/>
+          <note pos="2208" key="65" vol="100" len="48" pan="0"/>
+          <note pos="2256" key="63" vol="100" len="48" pan="0"/>
+          <note pos="2304" key="62" vol="100" len="48" pan="0"/>
+          <note pos="2352" key="65" vol="100" len="48" pan="0"/>
+          <note pos="2400" key="70" vol="100" len="36" pan="0"/>
+          <note pos="2436" key="73" vol="100" len="12" pan="0"/>
+          <note pos="2448" key="74" vol="100" len="96" pan="0"/>
+          <note pos="2544" key="70" vol="100" len="48" pan="0"/>
+          <note pos="2592" key="65" vol="100" len="48" pan="0"/>
+          <note pos="2640" key="63" vol="100" len="36" pan="0"/>
+          <note pos="2676" key="65" vol="100" len="12" pan="0"/>
+          <note pos="2688" key="67" vol="100" len="96" pan="0"/>
+          <note pos="2784" key="64" vol="100" len="48" pan="0"/>
+          <note pos="2832" key="60" vol="100" len="216" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="GeneralUser GS v1" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="0" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="2" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="8" bank="128" gain="0.3" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:GeneralUser GS v1.471.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="127" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="3840" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="4608" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="5376" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6144" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6912" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="drums_ken_ardency_mono" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="0" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="2" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="0" bank="128" gain="0.8" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:drums_ken_ardency_mono.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="127" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="3840" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="4608" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="5376" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6144" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6912" muted="0" type="1">
+          <note pos="0" key="46" vol="100" len="12" pan="0"/>
+          <note pos="0" key="36" vol="100" len="12" pan="0"/>
+          <note pos="96" key="42" vol="100" len="12" pan="0"/>
+          <note pos="96" key="38" vol="100" len="12" pan="0"/>
+          <note pos="144" key="44" vol="100" len="12" pan="0"/>
+          <note pos="144" key="36" vol="100" len="12" pan="0"/>
+          <note pos="192" key="36" vol="100" len="12" pan="0"/>
+          <note pos="288" key="42" vol="100" len="12" pan="0"/>
+          <note pos="288" key="38" vol="100" len="12" pan="0"/>
+          <note pos="336" key="44" vol="100" len="12" pan="0"/>
+          <note pos="384" key="36" vol="100" len="12" pan="0"/>
+          <note pos="432" key="46" vol="100" len="12" pan="0"/>
+          <note pos="480" key="42" vol="100" len="12" pan="0"/>
+          <note pos="480" key="38" vol="100" len="12" pan="0"/>
+          <note pos="528" key="44" vol="100" len="12" pan="0"/>
+          <note pos="528" key="36" vol="100" len="12" pan="0"/>
+          <note pos="576" key="40" vol="100" len="12" pan="0"/>
+          <note pos="576" key="36" vol="100" len="12" pan="0"/>
+          <note pos="624" key="37" vol="100" len="12" pan="0"/>
+          <note pos="672" key="46" vol="100" len="12" pan="0"/>
+          <note pos="720" key="44" vol="100" len="12" pan="0"/>
+          <note pos="720" key="36" vol="100" len="12" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="SGM-V2" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="1" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="4" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="45" bank="0" gain="2.12" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:SGM-V2.01.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="63" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="48" key="72" vol="100" len="12" pan="0"/>
+          <note pos="96" key="65" vol="100" len="12" pan="0"/>
+          <note pos="144" key="68" vol="100" len="12" pan="0"/>
+          <note pos="288" key="72" vol="100" len="12" pan="0"/>
+          <note pos="336" key="70" vol="100" len="12" pan="0"/>
+          <note pos="384" key="67" vol="100" len="12" pan="0"/>
+          <note pos="432" key="68" vol="100" len="12" pan="0"/>
+          <note pos="480" key="67" vol="100" len="12" pan="0"/>
+          <note pos="528" key="63" vol="100" len="12" pan="0"/>
+          <note pos="576" key="65" vol="100" len="12" pan="0"/>
+          <note pos="672" key="72" vol="100" len="12" pan="0"/>
+          <note pos="720" key="68" vol="100" len="12" pan="0"/>
+          <note pos="768" key="65" vol="100" len="12" pan="0"/>
+          <note pos="864" key="67" vol="100" len="12" pan="0"/>
+          <note pos="912" key="68" vol="100" len="12" pan="0"/>
+          <note pos="1008" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1056" key="65" vol="100" len="12" pan="0"/>
+          <note pos="1248" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1296" key="68" vol="100" len="12" pan="0"/>
+          <note pos="1392" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1440" key="65" vol="100" len="12" pan="0"/>
+          <note pos="1488" key="63" vol="100" len="12" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="4608" muted="0" type="1">
+          <note pos="48" key="72" vol="100" len="12" pan="0"/>
+          <note pos="96" key="65" vol="100" len="12" pan="0"/>
+          <note pos="144" key="68" vol="100" len="12" pan="0"/>
+          <note pos="288" key="72" vol="100" len="12" pan="0"/>
+          <note pos="336" key="70" vol="100" len="12" pan="0"/>
+          <note pos="384" key="72" vol="100" len="12" pan="0"/>
+          <note pos="432" key="70" vol="100" len="12" pan="0"/>
+          <note pos="480" key="68" vol="100" len="12" pan="0"/>
+          <note pos="528" key="67" vol="100" len="12" pan="0"/>
+          <note pos="576" key="65" vol="100" len="12" pan="0"/>
+          <note pos="672" key="72" vol="100" len="12" pan="0"/>
+          <note pos="720" key="68" vol="100" len="12" pan="0"/>
+          <note pos="768" key="65" vol="100" len="12" pan="0"/>
+          <note pos="864" key="67" vol="100" len="12" pan="0"/>
+          <note pos="912" key="68" vol="100" len="12" pan="0"/>
+          <note pos="1008" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1056" key="65" vol="100" len="12" pan="0"/>
+          <note pos="1248" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1296" key="68" vol="100" len="12" pan="0"/>
+          <note pos="1392" key="67" vol="100" len="12" pan="0"/>
+          <note pos="1440" key="65" vol="100" len="12" pan="0"/>
+          <note pos="1488" key="63" vol="100" len="12" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="SGM-V2" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="1" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="0" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="35" bank="0" gain="2" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:SGM-V2.01.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="63" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="3072" muted="0" type="1">
+          <note pos="0" key="29" vol="100" len="48" pan="0"/>
+          <note pos="48" key="41" vol="100" len="24" pan="0"/>
+          <note pos="96" key="36" vol="100" len="24" pan="0"/>
+          <note pos="144" key="32" vol="100" len="24" pan="0"/>
+          <note pos="192" key="34" vol="100" len="24" pan="0"/>
+          <note pos="240" key="38" vol="100" len="24" pan="0"/>
+          <note pos="288" key="41" vol="100" len="24" pan="0"/>
+          <note pos="336" key="38" vol="100" len="24" pan="0"/>
+          <note pos="384" key="40" vol="100" len="24" pan="0"/>
+          <note pos="432" key="38" vol="100" len="24" pan="0"/>
+          <note pos="480" key="36" vol="100" len="24" pan="0"/>
+          <note pos="528" key="34" vol="100" len="24" pan="0"/>
+          <note pos="576" key="29" vol="100" len="96" pan="0"/>
+          <note pos="672" key="29" vol="100" len="24" pan="0"/>
+          <note pos="720" key="32" vol="100" len="24" pan="0"/>
+          <note pos="768" key="38" vol="100" len="48" pan="0"/>
+          <note pos="816" key="34" vol="100" len="24" pan="0"/>
+          <note pos="864" key="31" vol="100" len="24" pan="0"/>
+          <note pos="912" key="29" vol="100" len="144" pan="0"/>
+          <note pos="1056" key="32" vol="100" len="24" pan="0"/>
+          <note pos="1104" key="34" vol="100" len="24" pan="0"/>
+          <note pos="1152" key="41" vol="100" len="48" pan="0"/>
+          <note pos="1200" key="36" vol="100" len="24" pan="0"/>
+          <note pos="1248" key="34" vol="100" len="24" pan="0"/>
+          <note pos="1296" key="36" vol="100" len="96" pan="0"/>
+          <note pos="1392" key="29" vol="100" len="24" pan="0"/>
+          <note pos="1440" key="32" vol="100" len="24" pan="0"/>
+          <note pos="1488" key="36" vol="100" len="24" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="4608" muted="0" type="1">
+          <note pos="0" key="29" vol="100" len="48" pan="0"/>
+          <note pos="48" key="41" vol="100" len="24" pan="0"/>
+          <note pos="96" key="36" vol="100" len="24" pan="0"/>
+          <note pos="144" key="32" vol="100" len="24" pan="0"/>
+          <note pos="192" key="34" vol="100" len="24" pan="0"/>
+          <note pos="240" key="38" vol="100" len="24" pan="0"/>
+          <note pos="288" key="41" vol="100" len="24" pan="0"/>
+          <note pos="336" key="38" vol="100" len="24" pan="0"/>
+          <note pos="384" key="40" vol="100" len="24" pan="0"/>
+          <note pos="432" key="38" vol="100" len="24" pan="0"/>
+          <note pos="480" key="36" vol="100" len="24" pan="0"/>
+          <note pos="528" key="32" vol="100" len="24" pan="0"/>
+          <note pos="576" key="29" vol="100" len="96" pan="0"/>
+          <note pos="672" key="29" vol="100" len="24" pan="0"/>
+          <note pos="720" key="32" vol="100" len="24" pan="0"/>
+          <note pos="768" key="41" vol="100" len="48" pan="0"/>
+          <note pos="816" key="38" vol="100" len="24" pan="0"/>
+          <note pos="864" key="34" vol="100" len="24" pan="0"/>
+          <note pos="912" key="29" vol="100" len="144" pan="0"/>
+          <note pos="1056" key="32" vol="100" len="24" pan="0"/>
+          <note pos="1104" key="38" vol="100" len="24" pan="0"/>
+          <note pos="1152" key="40" vol="100" len="48" pan="0"/>
+          <note pos="1200" key="36" vol="100" len="24" pan="0"/>
+          <note pos="1248" key="34" vol="100" len="24" pan="0"/>
+          <note pos="1296" key="36" vol="100" len="144" pan="0"/>
+          <note pos="1440" key="27" vol="100" len="96" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6144" muted="0" type="1">
+          <note pos="0" key="29" vol="100" len="36" pan="0"/>
+          <note pos="48" key="29" vol="100" len="24" pan="0"/>
+          <note pos="96" key="29" vol="100" len="12" pan="0"/>
+          <note pos="144" key="29" vol="100" len="24" pan="0"/>
+          <note pos="192" key="32" vol="100" len="36" pan="0"/>
+          <note pos="240" key="32" vol="100" len="24" pan="0"/>
+          <note pos="288" key="32" vol="100" len="12" pan="0"/>
+          <note pos="336" key="34" vol="100" len="24" pan="0"/>
+          <note pos="384" key="36" vol="100" len="36" pan="0"/>
+          <note pos="432" key="38" vol="100" len="24" pan="0"/>
+          <note pos="480" key="34" vol="100" len="12" pan="0"/>
+          <note pos="528" key="31" vol="100" len="24" pan="0"/>
+          <note pos="576" key="27" vol="100" len="36" pan="0"/>
+          <note pos="624" key="27" vol="100" len="24" pan="0"/>
+          <note pos="672" key="27" vol="100" len="12" pan="0"/>
+          <note pos="720" key="27" vol="100" len="24" pan="0"/>
+        </midiclip>
+        <midiclip name="" steps="16" pos="6912" muted="0" type="1">
+          <note pos="0" key="31" vol="100" len="36" pan="0"/>
+          <note pos="48" key="31" vol="100" len="24" pan="0"/>
+          <note pos="96" key="31" vol="100" len="12" pan="0"/>
+          <note pos="144" key="31" vol="100" len="24" pan="0"/>
+          <note pos="192" key="29" vol="100" len="36" pan="0"/>
+          <note pos="240" key="29" vol="100" len="24" pan="0"/>
+          <note pos="288" key="29" vol="100" len="12" pan="0"/>
+          <note pos="336" key="31" vol="100" len="24" pan="0"/>
+          <note pos="384" key="34" vol="100" len="36" pan="0"/>
+          <note pos="432" key="36" vol="100" len="24" pan="0"/>
+          <note pos="480" key="31" vol="100" len="12" pan="0"/>
+          <note pos="528" key="28" vol="100" len="24" pan="0"/>
+          <note pos="576" key="27" vol="100" len="36" pan="0"/>
+          <note pos="624" key="27" vol="100" len="24" pan="0"/>
+          <note pos="672" key="27" vol="100" len="12" pan="0"/>
+          <note pos="720" key="27" vol="100" len="24" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="Touhou" muted="0" solo="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack scale="0" enabled="0" keymap="0" usemasterpitch="1" vol="100" pitch="0" pitchrange="1" basenote="69" firstkey="0" lastkey="127" pan="0" mixch="1" enablecc="0" range_import="1">
+          <midicontrollers cc70="0" cc87="0" cc6="0" cc1="0" cc115="0" cc107="0" cc81="0" cc94="0" cc24="0" cc52="0" cc100="0" cc93="0" cc118="0" cc2="0" cc3="0" cc19="0" cc97="0" cc102="0" cc74="0" cc51="0" cc20="0" cc55="0" cc91="0" cc126="0" cc36="0" cc54="0" cc104="0" cc13="0" cc41="0" cc39="0" cc77="0" cc103="0" cc11="0" cc30="0" cc58="0" cc68="0" cc64="0" cc99="0" cc113="0" cc82="0" cc0="0" cc96="0" cc21="0" cc109="0" cc12="0" cc59="0" cc43="0" cc53="0" cc40="0" cc63="0" cc78="0" cc37="0" cc22="0" cc34="0" cc27="0" cc121="0" cc124="0" cc28="0" cc42="0" cc76="0" cc98="0" cc88="0" cc62="0" cc45="0" cc92="0" cc117="0" cc7="0" cc112="0" cc123="0" cc29="0" cc46="0" cc106="0" cc25="0" cc23="0" cc48="0" cc65="0" cc66="0" cc80="0" cc15="0" cc18="0" cc50="0" cc111="0" cc127="0" cc26="0" cc10="0" cc47="0" cc89="0" cc35="0" cc67="0" cc72="0" cc31="0" cc4="0" cc60="0" cc101="0" cc122="0" cc120="0" cc114="0" cc32="0" cc95="0" cc33="0" cc61="0" cc125="0" cc57="0" cc83="0" cc16="0" cc79="0" cc84="0" cc14="0" cc73="0" cc17="0" cc116="0" cc44="0" cc56="0" cc90="0" cc110="0" cc8="0" cc75="0" cc108="0" cc38="0" cc5="0" cc71="0" cc105="0" cc69="0" cc86="0" cc49="0" cc119="0" cc85="0" cc9="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbWidth="0.5" reverbOn="0" reverbLevel="0.9" reverbDamping="0" chorusNum="3" chorusLevel="2" patch="70" bank="0" gain="1.5" chorusSpeed="0.3" chorusDepth="8" src="usersoundfont:Touhou.sf2" chorusOn="0" reverbRoomSize="0.2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fcut="14000" fres="0.5" ftype="0">
+            <elvol hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elcut hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+            <elres hold="0.5" lpdel="0" amt="0" lshp="0" lspd_syncmode="0" att="0" lamt="0" dec="0.5" x100="0" rel="0.1" pdel="0" userwavefile="" lspd_numerator="4" latt="0" lspd_denominator="4" ctlenvamt="0" sustain="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime_denominator="4" arpdir="0" arpmode="0" arptime="200" arptime_numerator="4" arpgate="100" arptime_syncmode="0" arp="0" arpcycle="0" arprange="1" arprepeats="1" arp-enabled="0" arpskip="0" arpmiss="0"/>
+          <midiport inports="" basevelocity="63" readable="1" fixedinputvelocity="-1" writable="0" outputprogram="1" outputchannel="1" outputcontroller="0" inputchannel="0" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" steps="16" pos="0" muted="0" type="1">
+          <note pos="0" key="41" vol="100" len="96" pan="0"/>
+          <note pos="96" key="43" vol="100" len="48" pan="0"/>
+          <note pos="144" key="44" vol="100" len="48" pan="0"/>
+          <note pos="192" key="46" vol="100" len="48" pan="0"/>
+          <note pos="240" key="44" vol="100" len="48" pan="0"/>
+          <note pos="288" key="43" vol="100" len="48" pan="0"/>
+          <note pos="336" key="41" vol="100" len="48" pan="0"/>
+          <note pos="384" key="40" vol="100" len="36" pan="0"/>
+          <note pos="420" key="38" vol="100" len="12" pan="0"/>
+          <note pos="432" key="36" vol="100" len="48" pan="0"/>
+          <note pos="480" key="40" vol="100" len="48" pan="0"/>
+          <note pos="528" key="48" vol="100" len="48" pan="0"/>
+          <note pos="576" key="41" vol="100" len="84" pan="0"/>
+          <note pos="672" key="41" vol="100" len="36" pan="0"/>
+          <note pos="708" key="40" vol="100" len="12" pan="0"/>
+          <note pos="720" key="39" vol="100" len="48" pan="0"/>
+          <note pos="768" key="38" vol="100" len="36" pan="0"/>
+          <note pos="804" key="45" vol="100" len="12" pan="0"/>
+          <note pos="816" key="46" vol="100" len="48" pan="0"/>
+          <note pos="864" key="41" vol="100" len="48" pan="0"/>
+          <note pos="912" key="46" vol="100" len="132" pan="0"/>
+          <note pos="1056" key="41" vol="100" len="48" pan="0"/>
+          <note pos="1104" key="39" vol="100" len="48" pan="0"/>
+          <note pos="1152" key="38" vol="100" len="36" pan="0"/>
+          <note pos="1188" key="45" vol="100" len="12" pan="0"/>
+          <note pos="1200" key="46" vol="100" len="48" pan="0"/>
+          <note pos="1248" key="41" vol="100" len="36" pan="0"/>
+          <note pos="1284" key="43" vol="100" len="12" pan="0"/>
+          <note pos="1296" key="44" vol="100" len="96" pan="0"/>
+          <note pos="1392" key="41" vol="100" len="132" pan="0"/>
+          <note pos="1536" key="41" vol="100" len="96" pan="0"/>
+          <note pos="1632" key="43" vol="100" len="48" pan="0"/>
+          <note pos="1680" key="44" vol="100" len="48" pan="0"/>
+          <note pos="1728" key="46" vol="100" len="48" pan="0"/>
+          <note pos="1776" key="44" vol="100" len="48" pan="0"/>
+          <note pos="1824" key="43" vol="100" len="48" pan="0"/>
+          <note pos="1872" key="41" vol="100" len="48" pan="0"/>
+          <note pos="1920" key="40" vol="100" len="36" pan="0"/>
+          <note pos="1956" key="38" vol="100" len="12" pan="0"/>
+          <note pos="1968" key="36" vol="100" len="36" pan="0"/>
+          <note pos="2004" key="38" vol="100" len="12" pan="0"/>
+          <note pos="2016" key="39" vol="100" len="48" pan="0"/>
+          <note pos="2064" key="40" vol="100" len="48" pan="0"/>
+          <note pos="2112" key="41" vol="100" len="84" pan="0"/>
+          <note pos="2208" key="41" vol="100" len="48" pan="0"/>
+          <note pos="2256" key="39" vol="100" len="48" pan="0"/>
+          <note pos="2304" key="38" vol="100" len="48" pan="0"/>
+          <note pos="2352" key="41" vol="100" len="48" pan="0"/>
+          <note pos="2400" key="46" vol="100" len="36" pan="0"/>
+          <note pos="2436" key="49" vol="100" len="12" pan="0"/>
+          <note pos="2448" key="50" vol="100" len="96" pan="0"/>
+          <note pos="2544" key="46" vol="100" len="48" pan="0"/>
+          <note pos="2592" key="41" vol="100" len="48" pan="0"/>
+          <note pos="2640" key="39" vol="100" len="36" pan="0"/>
+          <note pos="2676" key="41" vol="100" len="12" pan="0"/>
+          <note pos="2688" key="43" vol="100" len="96" pan="0"/>
+          <note pos="2784" key="40" vol="100" len="48" pan="0"/>
+          <note pos="2832" key="36" vol="100" len="216" pan="0"/>
+        </midiclip>
+      </track>
+    </trackcontainer>
+    <track name="Automation track" muted="0" solo="0" mutedBeforeSolo="0" type="6">
+      <automationtrack/>
+      <automationclip name="Numerator" pos="0" mute="0" prog="0" len="192" tens="1"/>
+      <automationclip name="Denominator" pos="0" mute="0" prog="0" len="192" tens="1"/>
+      <automationclip name="Tempo" pos="0" mute="0" prog="0" len="192" tens="1"/>
+      <automationclip name="Master volume" pos="0" mute="0" prog="0" len="192" tens="1"/>
+      <automationclip name="Master pitch" pos="0" mute="0" prog="0" len="192" tens="1"/>
+    </track>
+    <mixer minimized="0" width="1893" y="600" visible="1" height="333" maximized="0" x="1">
+      <mixerchannel name="Master" soloed="0" muted="0" num="0" volume="1">
+        <fxchain numofeffects="0" enabled="0"/>
+      </mixerchannel>
+      <mixerchannel name="Faggot (I am allowed to say that!)" soloed="0" muted="0" num="1" volume="1">
+        <fxchain numofeffects="1" enabled="1">
+          <effect name="vsteffect" on="1" gate="0" autoquit_denominator="4" autoquit_syncmode="0" wet="1" autoquit="1" autoquit_numerator="4">
+            <vsteffectcontrols param4="4:Lo Cut:0" guivisible="0" numparams="8" program="0" param0="0:Size:0.72" param7="7:Level:0.5" param1="1:Damping:0.35" param3="3:Hi Damp:0.5" param6="6:Mix:0.2" plugin="Effects\Classic Reverb\Classic Reverb.dll" param2="2:Predelay:0.5" param5="5:Early Ref.:0"/>
+            <key>
+              <attribute name="file" value="Effects\Classic Reverb\Classic Reverb.dll"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </mixerchannel>
+      <mixerchannel name="GeneralUser GS v1" soloed="0" muted="0" num="2" volume="0.814">
+        <fxchain numofeffects="1" enabled="1">
+          <effect name="vsteffect" on="1" gate="0" autoquit_denominator="4" autoquit_syncmode="0" wet="1" autoquit="1" autoquit_numerator="4">
+            <vsteffectcontrols param4="4:Lo Cut:1" guivisible="0" numparams="8" program="0" param0="0:Size:0.8" param7="7:Level:0.5" param1="1:Damping:0.3" param3="3:Hi Damp:0.31" param6="6:Mix:0.18" plugin="Effects\Classic Reverb\Classic Reverb.dll" param2="2:Predelay:0.5" param5="5:Early Ref.:0"/>
+            <key>
+              <attribute name="file" value="Effects\Classic Reverb\Classic Reverb.dll"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </mixerchannel>
+      <mixerchannel name="Touhou" soloed="0" muted="0" num="3" volume="1">
+        <fxchain numofeffects="1" enabled="1">
+          <effect name="vsteffect" on="1" gate="0" autoquit_denominator="4" autoquit_syncmode="0" wet="1" autoquit="1" autoquit_numerator="4">
+            <vsteffectcontrols param4="4:Lo Cut:0" guivisible="0" numparams="8" program="0" param0="0:Size:1" param7="7:Level:0.5" param1="1:Damping:0.13" param3="3:Hi Damp:0.5" param6="6:Mix:0.18" plugin="Effects\Classic Reverb\Classic Reverb.dll" param2="2:Predelay:0.5" param5="5:Early Ref.:1"/>
+            <key>
+              <attribute name="file" value="Effects\Classic Reverb\Classic Reverb.dll"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </mixerchannel>
+      <mixerchannel name="SGM-V2" soloed="0" muted="0" num="4" volume="1">
+        <fxchain numofeffects="1" enabled="1">
+          <effect name="vsteffect" on="1" gate="0" autoquit_denominator="4" autoquit_syncmode="0" wet="1" autoquit="1" autoquit_numerator="4">
+            <vsteffectcontrols param4="4:Lo Cut:0.3" guivisible="0" numparams="8" program="0" param0="0:Size:1" param7="7:Level:0.5" param1="1:Damping:0.3" param3="3:Hi Damp:0.5" param6="6:Mix:0.3" plugin="Effects\Classic Reverb\Classic Reverb.dll" param2="2:Predelay:0.5" param5="5:Early Ref.:0.6"/>
+            <key>
+              <attribute name="file" value="Effects\Classic Reverb\Classic Reverb.dll"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </mixerchannel>
+    </mixer>
+    <ControllerRackView minimized="0" width="350" y="487" visible="0" height="200" maximized="0" x="550"/>
+    <pianoroll minimized="0" width="970" y="137" visible="0" height="598" maximized="0" x="55"/>
+    <automationeditor minimized="0" width="860" y="1" visible="0" height="400" maximized="0" x="1"/>
+    <projectnotes minimized="0" width="686" y="10" visible="0" height="400" maximized="0" x="700"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">&lt;&lt;&lt;&lt;&lt;&lt;</span></p></body></html>]]></projectnotes>
+    <timeline stopbehaviour="1" lpstate="1" lp1pos="9216" lp0pos="0"/>
+    <controllers/>
+    <scales>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+    </scales>
+    <keymaps>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+      <keymap last_key="127" base_freq="440" first_key="0" base_key="69" middle_key="60" description="empty"/>
+    </keymaps>
+  </song>
+</lmms-project>

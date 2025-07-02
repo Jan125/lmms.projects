@@ -1,0 +1,1186 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" creatorversion="1.3.0-alpha.1.231+g49b1f83e4" version="23" type="song">
+  <head timesig_numerator="4" masterpitch="0" bpm="136" timesig_denominator="4" mastervol="100"/>
+  <song>
+    <trackcontainer y="20" x="75" visible="1" width="1033" minimized="0" maximized="0" type="song" height="600">
+      <track solo="0" name="Pattern 0" muted="0" mutedBeforeSolo="0" type="1">
+        <patterntrack>
+          <trackcontainer y="5" x="610" visible="0" width="700" minimized="0" maximized="0" type="patternstore" height="300"/>
+        </patterntrack>
+        <patternclip name="cHiphop" len="384" muted="0" pos="0"/>
+        <patternclip name="cPop" len="384" muted="0" pos="1152"/>
+        <patternclip name="cPunk" len="384" muted="0" pos="384"/>
+        <patternclip name="cOrchestral" len="384" muted="0" pos="768"/>
+        <patternclip name="Rock1" len="384" muted="0" pos="4992"/>
+        <patternclip name="Rock2" len="384" muted="0" pos="5376"/>
+      </track>
+      <track solo="0" name="Orpheus_1" muted="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack mixch="0" firstkey="0" range_import="1" pitchrange="1" basenote="69" enabled="0" enablecc="0" usemasterpitch="1" keymap="0" vol="100" pitch="0" pan="0" lastkey="127" scale="0">
+          <midicontrollers cc34="0" cc0="0" cc54="0" cc59="0" cc89="0" cc107="0" cc6="0" cc30="0" cc126="0" cc22="0" cc71="0" cc77="0" cc19="0" cc44="0" cc14="0" cc27="0" cc80="0" cc36="0" cc26="0" cc3="0" cc48="0" cc105="0" cc35="0" cc10="0" cc124="0" cc7="0" cc41="0" cc60="0" cc73="0" cc16="0" cc78="0" cc53="0" cc38="0" cc114="0" cc87="0" cc101="0" cc108="0" cc31="0" cc88="0" cc125="0" cc76="0" cc120="0" cc99="0" cc98="0" cc117="0" cc121="0" cc113="0" cc127="0" cc94="0" cc118="0" cc20="0" cc85="0" cc52="0" cc63="0" cc69="0" cc81="0" cc49="0" cc67="0" cc91="0" cc51="0" cc55="0" cc65="0" cc40="0" cc12="0" cc15="0" cc111="0" cc29="0" cc50="0" cc39="0" cc97="0" cc9="0" cc75="0" cc115="0" cc11="0" cc58="0" cc112="0" cc25="0" cc122="0" cc4="0" cc84="0" cc1="0" cc82="0" cc93="0" cc24="0" cc32="0" cc106="0" cc86="0" cc47="0" cc96="0" cc64="0" cc109="0" cc102="0" cc104="0" cc116="0" cc83="0" cc2="0" cc79="0" cc17="0" cc110="0" cc33="0" cc92="0" cc103="0" cc66="0" cc45="0" cc21="0" cc62="0" cc5="0" cc100="0" cc56="0" cc18="0" cc90="0" cc95="0" cc123="0" cc8="0" cc42="0" cc57="0" cc46="0" cc37="0" cc72="0" cc74="0" cc43="0" cc23="0" cc13="0" cc70="0" cc68="0" cc61="0" cc119="0" cc28="0"/>
+          <instrument name="sf2player">
+            <sf2player chorusLevel="2" chorusNum="3" chorusSpeed="0.3" patch="25" reverbLevel="0.9" reverbRoomSize="0.2" reverbDamping="0" chorusOn="0" src="usersoundfont:Orpheus_1.047e.sf2" gain="1.2" reverbOn="0" reverbWidth="0.5" chorusDepth="8" bank="128">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+            <elvol att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elcut att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elres att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp="0" arp-enabled="0" arprepeats="1" arptime_denominator="4" arpskip="0" arpdir="0" arprange="1" arptime="200" arpcycle="0" arptime_syncmode="0" arptime_numerator="4" arpmode="0" arpgate="100" arpmiss="0"/>
+          <midiport outputprogram="1" fixedinputvelocity="-1" fixedoutputvelocity="-1" outputcontroller="0" writable="0" inputcontroller="0" readable="1" inports="" outputchannel="1" basevelocity="63" inputchannel="0" fixedoutputnote="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" muted="0" pos="0" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="44"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="36" key="46"/>
+          <note vol="100" pan="0" len="12" pos="48" key="37"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="38"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="132" key="44"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="156" key="44"/>
+          <note vol="100" pan="0" len="12" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="180" key="37"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="204" key="44"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="228" key="46"/>
+          <note vol="100" pan="0" len="12" pos="240" key="37"/>
+          <note vol="100" pan="0" len="12" pos="252" key="44"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="276" key="44"/>
+          <note vol="100" pan="0" len="12" pos="288" key="38"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="46"/>
+          <note vol="100" pan="0" len="12" pos="348" key="37"/>
+          <note vol="100" pan="0" len="12" pos="360" key="44"/>
+          <note vol="100" pan="0" len="12" pos="372" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="384" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="42"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="46"/>
+          <note vol="100" pan="0" len="12" pos="48" key="38"/>
+          <note vol="100" pan="0" len="12" pos="96" key="42"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="46"/>
+          <note vol="100" pan="0" len="12" pos="144" key="38"/>
+          <note vol="100" pan="0" len="12" pos="192" key="42"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="46"/>
+          <note vol="100" pan="0" len="12" pos="240" key="38"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="288" key="42"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="38"/>
+          <note vol="100" pan="0" len="12" pos="360" key="46"/>
+          <note vol="100" pan="0" len="12" pos="360" key="42"/>
+          <note vol="100" pan="0" len="12" pos="360" key="37"/>
+          <note vol="100" pan="0" len="12" pos="372" key="42"/>
+          <note vol="100" pan="0" len="12" pos="372" key="38"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="768" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="37"/>
+          <note vol="100" pan="0" len="12" pos="24" key="38"/>
+          <note vol="100" pan="0" len="12" pos="36" key="42"/>
+          <note vol="100" pan="0" len="12" pos="48" key="46"/>
+          <note vol="100" pan="0" len="12" pos="60" key="42"/>
+          <note vol="100" pan="0" len="12" pos="72" key="38"/>
+          <note vol="100" pan="0" len="12" pos="84" key="37"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="108" key="37"/>
+          <note vol="100" pan="0" len="12" pos="120" key="38"/>
+          <note vol="100" pan="0" len="12" pos="132" key="42"/>
+          <note vol="100" pan="0" len="12" pos="144" key="46"/>
+          <note vol="100" pan="0" len="12" pos="156" key="42"/>
+          <note vol="100" pan="0" len="12" pos="168" key="38"/>
+          <note vol="100" pan="0" len="12" pos="180" key="37"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="204" key="37"/>
+          <note vol="100" pan="0" len="12" pos="216" key="38"/>
+          <note vol="100" pan="0" len="12" pos="228" key="42"/>
+          <note vol="100" pan="0" len="12" pos="240" key="46"/>
+          <note vol="100" pan="0" len="12" pos="252" key="42"/>
+          <note vol="100" pan="0" len="12" pos="264" key="38"/>
+          <note vol="100" pan="0" len="12" pos="276" key="37"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="37"/>
+          <note vol="100" pan="0" len="12" pos="312" key="38"/>
+          <note vol="100" pan="0" len="12" pos="324" key="42"/>
+          <note vol="100" pan="0" len="12" pos="336" key="46"/>
+          <note vol="100" pan="0" len="12" pos="348" key="42"/>
+          <note vol="100" pan="0" len="12" pos="360" key="38"/>
+          <note vol="100" pan="0" len="12" pos="372" key="37"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1152" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="42"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="36" key="42"/>
+          <note vol="100" pan="0" len="12" pos="48" key="38"/>
+          <note vol="100" pan="0" len="12" pos="72" key="42"/>
+          <note vol="100" pan="0" len="12" pos="96" key="42"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="42"/>
+          <note vol="100" pan="0" len="12" pos="144" key="38"/>
+          <note vol="100" pan="0" len="12" pos="192" key="42"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="228" key="42"/>
+          <note vol="100" pan="0" len="12" pos="240" key="38"/>
+          <note vol="100" pan="0" len="12" pos="264" key="42"/>
+          <note vol="100" pan="0" len="12" pos="288" key="42"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="42"/>
+          <note vol="100" pan="0" len="12" pos="336" key="42"/>
+          <note vol="100" pan="0" len="12" pos="336" key="38"/>
+          <note vol="100" pan="0" len="12" pos="348" key="42"/>
+          <note vol="100" pan="0" len="12" pos="360" key="42"/>
+          <note vol="100" pan="0" len="12" pos="372" key="42"/>
+        </midiclip>
+      </track>
+      <track solo="0" name="GeneralUser GS v1" muted="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack mixch="0" firstkey="0" range_import="1" pitchrange="1" basenote="69" enabled="0" enablecc="0" usemasterpitch="1" keymap="0" vol="100" pitch="0" pan="0" lastkey="127" scale="0">
+          <midicontrollers cc34="0" cc0="0" cc54="0" cc59="0" cc89="0" cc107="0" cc6="0" cc30="0" cc126="0" cc22="0" cc71="0" cc77="0" cc19="0" cc44="0" cc14="0" cc27="0" cc80="0" cc36="0" cc26="0" cc3="0" cc48="0" cc105="0" cc35="0" cc10="0" cc124="0" cc7="0" cc41="0" cc60="0" cc73="0" cc16="0" cc78="0" cc53="0" cc38="0" cc114="0" cc87="0" cc101="0" cc108="0" cc31="0" cc88="0" cc125="0" cc76="0" cc120="0" cc99="0" cc98="0" cc117="0" cc121="0" cc113="0" cc127="0" cc94="0" cc118="0" cc20="0" cc85="0" cc52="0" cc63="0" cc69="0" cc81="0" cc49="0" cc67="0" cc91="0" cc51="0" cc55="0" cc65="0" cc40="0" cc12="0" cc15="0" cc111="0" cc29="0" cc50="0" cc39="0" cc97="0" cc9="0" cc75="0" cc115="0" cc11="0" cc58="0" cc112="0" cc25="0" cc122="0" cc4="0" cc84="0" cc1="0" cc82="0" cc93="0" cc24="0" cc32="0" cc106="0" cc86="0" cc47="0" cc96="0" cc64="0" cc109="0" cc102="0" cc104="0" cc116="0" cc83="0" cc2="0" cc79="0" cc17="0" cc110="0" cc33="0" cc92="0" cc103="0" cc66="0" cc45="0" cc21="0" cc62="0" cc5="0" cc100="0" cc56="0" cc18="0" cc90="0" cc95="0" cc123="0" cc8="0" cc42="0" cc57="0" cc46="0" cc37="0" cc72="0" cc74="0" cc43="0" cc23="0" cc13="0" cc70="0" cc68="0" cc61="0" cc119="0" cc28="0"/>
+          <instrument name="sf2player">
+            <sf2player chorusLevel="2" chorusNum="3" chorusSpeed="0.3" patch="7" reverbLevel="0.9" reverbRoomSize="0.2" reverbDamping="0" chorusOn="0" src="usersoundfont:GeneralUser GS v1.471.sf2" gain="0.42" reverbOn="0" reverbWidth="0.5" chorusDepth="8" bank="0">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+            <elvol att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elcut att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elres att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp="0" arp-enabled="0" arprepeats="1" arptime_denominator="4" arpskip="0" arpdir="0" arprange="1" arptime="200" arpcycle="0" arptime_syncmode="0" arptime_numerator="4" arpmode="0" arpgate="100" arpmiss="0"/>
+          <midiport outputprogram="1" fixedinputvelocity="-1" fixedoutputvelocity="-1" outputcontroller="0" writable="0" inputcontroller="0" readable="1" inports="" outputchannel="1" basevelocity="63" inputchannel="0" fixedoutputnote="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" muted="0" pos="0" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="43"/>
+          <note vol="100" pan="0" len="12" pos="24" key="67"/>
+          <note vol="100" pan="0" len="12" pos="24" key="64"/>
+          <note vol="100" pan="0" len="12" pos="24" key="60"/>
+          <note vol="100" pan="0" len="24" pos="24" key="36"/>
+          <note vol="100" pan="0" len="24" pos="72" key="67"/>
+          <note vol="100" pan="0" len="24" pos="72" key="64"/>
+          <note vol="100" pan="0" len="24" pos="72" key="60"/>
+          <note vol="100" pan="0" len="12" pos="72" key="40"/>
+          <note vol="100" pan="0" len="12" pos="84" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="67"/>
+          <note vol="100" pan="0" len="12" pos="96" key="64"/>
+          <note vol="100" pan="0" len="12" pos="96" key="60"/>
+          <note vol="100" pan="0" len="24" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="24" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="192" key="67"/>
+          <note vol="100" pan="0" len="12" pos="192" key="64"/>
+          <note vol="100" pan="0" len="12" pos="192" key="60"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="24" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="264" key="67"/>
+          <note vol="100" pan="0" len="12" pos="264" key="64"/>
+          <note vol="100" pan="0" len="12" pos="264" key="60"/>
+          <note vol="100" pan="0" len="12" pos="264" key="40"/>
+          <note vol="100" pan="0" len="12" pos="276" key="43"/>
+          <note vol="100" pan="0" len="24" pos="288" key="36"/>
+          <note vol="100" pan="0" len="24" pos="336" key="67"/>
+          <note vol="100" pan="0" len="24" pos="336" key="64"/>
+          <note vol="100" pan="0" len="24" pos="336" key="60"/>
+          <note vol="100" pan="0" len="12" pos="336" key="36"/>
+          <note vol="100" pan="0" len="12" pos="360" key="67"/>
+          <note vol="100" pan="0" len="12" pos="360" key="64"/>
+          <note vol="100" pan="0" len="12" pos="360" key="60"/>
+          <note vol="100" pan="0" len="24" pos="360" key="40"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="384" steps="16" type="1">
+          <note vol="100" pan="0" len="24" pos="0" key="36"/>
+          <note vol="100" pan="0" len="24" pos="24" key="36"/>
+          <note vol="100" pan="0" len="24" pos="48" key="67"/>
+          <note vol="100" pan="0" len="24" pos="48" key="64"/>
+          <note vol="100" pan="0" len="24" pos="48" key="60"/>
+          <note vol="100" pan="0" len="24" pos="48" key="43"/>
+          <note vol="100" pan="0" len="24" pos="96" key="36"/>
+          <note vol="100" pan="0" len="24" pos="120" key="36"/>
+          <note vol="100" pan="0" len="24" pos="144" key="67"/>
+          <note vol="100" pan="0" len="24" pos="144" key="64"/>
+          <note vol="100" pan="0" len="24" pos="144" key="60"/>
+          <note vol="100" pan="0" len="24" pos="144" key="40"/>
+          <note vol="100" pan="0" len="24" pos="192" key="36"/>
+          <note vol="100" pan="0" len="24" pos="216" key="36"/>
+          <note vol="100" pan="0" len="24" pos="240" key="67"/>
+          <note vol="100" pan="0" len="24" pos="240" key="64"/>
+          <note vol="100" pan="0" len="24" pos="240" key="60"/>
+          <note vol="100" pan="0" len="24" pos="240" key="43"/>
+          <note vol="100" pan="0" len="24" pos="264" key="36"/>
+          <note vol="100" pan="0" len="24" pos="288" key="36"/>
+          <note vol="100" pan="0" len="24" pos="312" key="36"/>
+          <note vol="100" pan="0" len="24" pos="336" key="67"/>
+          <note vol="100" pan="0" len="24" pos="336" key="64"/>
+          <note vol="100" pan="0" len="24" pos="336" key="60"/>
+          <note vol="100" pan="0" len="24" pos="336" key="40"/>
+          <note vol="100" pan="0" len="12" pos="360" key="67"/>
+          <note vol="100" pan="0" len="12" pos="360" key="64"/>
+          <note vol="100" pan="0" len="12" pos="360" key="60"/>
+          <note vol="100" pan="0" len="24" pos="360" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="768" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="67"/>
+          <note vol="100" pan="0" len="12" pos="24" key="64"/>
+          <note vol="100" pan="0" len="12" pos="24" key="60"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="36"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="67"/>
+          <note vol="100" pan="0" len="12" pos="96" key="64"/>
+          <note vol="100" pan="0" len="12" pos="96" key="60"/>
+          <note vol="100" pan="0" len="12" pos="96" key="40"/>
+          <note vol="100" pan="0" len="12" pos="120" key="40"/>
+          <note vol="100" pan="0" len="12" pos="144" key="40"/>
+          <note vol="100" pan="0" len="12" pos="168" key="40"/>
+          <note vol="100" pan="0" len="12" pos="192" key="43"/>
+          <note vol="100" pan="0" len="12" pos="216" key="67"/>
+          <note vol="100" pan="0" len="12" pos="216" key="64"/>
+          <note vol="100" pan="0" len="12" pos="216" key="60"/>
+          <note vol="100" pan="0" len="12" pos="216" key="43"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="43"/>
+          <note vol="100" pan="0" len="12" pos="288" key="67"/>
+          <note vol="100" pan="0" len="12" pos="288" key="64"/>
+          <note vol="100" pan="0" len="12" pos="288" key="60"/>
+          <note vol="100" pan="0" len="12" pos="288" key="40"/>
+          <note vol="100" pan="0" len="12" pos="312" key="40"/>
+          <note vol="100" pan="0" len="12" pos="336" key="40"/>
+          <note vol="100" pan="0" len="12" pos="360" key="40"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1152" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="67"/>
+          <note vol="100" pan="0" len="12" pos="24" key="64"/>
+          <note vol="100" pan="0" len="12" pos="24" key="60"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="72" key="67"/>
+          <note vol="100" pan="0" len="12" pos="72" key="64"/>
+          <note vol="100" pan="0" len="12" pos="72" key="60"/>
+          <note vol="100" pan="0" len="12" pos="120" key="67"/>
+          <note vol="100" pan="0" len="12" pos="120" key="64"/>
+          <note vol="100" pan="0" len="12" pos="120" key="60"/>
+          <note vol="100" pan="0" len="24" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="168" key="67"/>
+          <note vol="100" pan="0" len="12" pos="168" key="64"/>
+          <note vol="100" pan="0" len="12" pos="168" key="60"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="67"/>
+          <note vol="100" pan="0" len="12" pos="216" key="64"/>
+          <note vol="100" pan="0" len="12" pos="216" key="60"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="264" key="67"/>
+          <note vol="100" pan="0" len="12" pos="264" key="64"/>
+          <note vol="100" pan="0" len="12" pos="264" key="60"/>
+          <note vol="100" pan="0" len="12" pos="312" key="67"/>
+          <note vol="100" pan="0" len="12" pos="312" key="64"/>
+          <note vol="100" pan="0" len="12" pos="312" key="60"/>
+          <note vol="100" pan="0" len="24" pos="336" key="36"/>
+          <note vol="100" pan="0" len="12" pos="360" key="67"/>
+          <note vol="100" pan="0" len="12" pos="360" key="64"/>
+          <note vol="100" pan="0" len="12" pos="360" key="60"/>
+        </midiclip>
+      </track>
+      <track solo="0" name="DecentSampler" muted="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack mixch="0" firstkey="0" range_import="1" pitchrange="1" basenote="69" enabled="0" enablecc="0" usemasterpitch="1" keymap="0" vol="88" pitch="0" pan="0" lastkey="127" scale="0">
+          <midicontrollers cc34="0" cc0="0" cc54="0" cc59="0" cc89="0" cc107="0" cc6="0" cc30="0" cc126="0" cc22="0" cc71="0" cc77="0" cc19="0" cc44="0" cc14="0" cc27="0" cc80="0" cc36="0" cc26="0" cc3="0" cc48="0" cc105="0" cc35="0" cc10="0" cc124="0" cc7="0" cc41="0" cc60="0" cc73="0" cc16="0" cc78="0" cc53="0" cc38="0" cc114="0" cc87="0" cc101="0" cc108="0" cc31="0" cc88="0" cc125="0" cc76="0" cc120="0" cc99="0" cc98="0" cc117="0" cc121="0" cc113="0" cc127="0" cc94="0" cc118="0" cc20="0" cc85="0" cc52="0" cc63="0" cc69="0" cc81="0" cc49="0" cc67="0" cc91="0" cc51="0" cc55="0" cc65="0" cc40="0" cc12="0" cc15="0" cc111="0" cc29="0" cc50="0" cc39="0" cc97="0" cc9="0" cc75="0" cc115="0" cc11="0" cc58="0" cc112="0" cc25="0" cc122="0" cc4="0" cc84="0" cc1="0" cc82="0" cc93="0" cc24="0" cc32="0" cc106="0" cc86="0" cc47="0" cc96="0" cc64="0" cc109="0" cc102="0" cc104="0" cc116="0" cc83="0" cc2="0" cc79="0" cc17="0" cc110="0" cc33="0" cc92="0" cc103="0" cc66="0" cc45="0" cc21="0" cc62="0" cc5="0" cc100="0" cc56="0" cc18="0" cc90="0" cc95="0" cc123="0" cc8="0" cc42="0" cc57="0" cc46="0" cc37="0" cc72="0" cc74="0" cc43="0" cc23="0" cc13="0" cc70="0" cc68="0" cc61="0" cc119="0" cc28="0"/>
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/DecentSampler/DecentSampler.dll" guivisible="0" chunk="VkMyIRMeAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8RGVjZW50U2FtcGxlciBfc2FtcGxlUGF0aD0iQzpcVXNlcnNcZGlub1xBcHBEYXRhXExvY2FsXFRlbXBcRGVjZW50U2FtcGxlclx0ZW1wX2Q5NjU4MjA1IiBfcHJlc2V0TmFtZT0iQmFzcyIgX2xpYnJhcnlVcmw9ImZpbGU6Ly8vQyUzQS9Vc2Vycy9kaW5vL0FwcERhdGEvTG9jYWwvVGVtcC9EZWNlbnRTYW1wbGVyL3RlbXBfZDk2NTgyMDUvQmFzcy5kc3ByZXNldCIgX2xpYnJhcnlDYW5vbmljYWxVcmw9ImZpbGU6Ly8vQyUzQS9WU1QzMi9EZWNlbnRTYW1wbGVyL09tbmktODQlMjAxLjEuemlwIiBfc2FtcGxlTGlicmFyeUlkPSItMSIgX2xpYnJhcnlCb29rbWFyaz0iMC4iIF90dW5pbmdBNjlGcmVxdWVuY3k9IjQ0MC4wIj48dWkgYmdJbWFnZT0iUmVzb3VyY2VzL2JhY2tncm91bmRfYmFzcy5qcGciIHdpZHRoPSI4MTIiIGhlaWdodD0iMzc1IiBsYXlvdXRNb2RlPSJyZWxhdGl2ZSIgYmdNb2RlPSJ0b3BfbGVmdCI+PHRhYiBuYW1lPSJtYWluIj48Y29udHJvbCB4PSI0MTciIHk9IjM3IiB3aWR0aD0iNDkiIGhlaWdodD0iNDkiIHBhcmFtZXRlck5hbWU9IlN1c3RhaW4iIHR5cGU9ImZsb2F0IiBtaW5WYWx1ZT0iMC4wMyIgbWF4VmFsdWU9IjAuNSIgdGV4dENvbG9yPSJGRjAwMDAwMCIgdmFsdWU9IjAuMDMiIHN0eWxlPSJjdXN0b21fc2tpbl92ZXJ0aWNhbF9kcmFnIiBjdXN0b21Ta2luSW1hZ2U9IlJlc291cmNlcy9Lbm9iLnBuZyIgY3VzdG9tU2tpbk51bUZyYW1lcz0iMTAxIiBjdXN0b21Ta2luSW1hZ2VPcmllbnRhdGlvbj0idmVydGljYWwiIG1vdXNlRHJhZ1NlbnNpdGl2aXR5PSIxMDAiIF9pbmRleD0iMCIgX3VpZD0iQXhnWFQ0elEwdnIiPjxiaW5kaW5nIHR5cGU9ImFtcCIgbGV2ZWw9Imluc3RydW1lbnQiIHBvc2l0aW9uPSIwIiBwYXJhbWV0ZXI9IkVOVl9SRUxFQVNFIi8+PC9jb250cm9sPjxjb250cm9sIHg9IjQxNyIgeT0iMTQwIiB3aWR0aD0iNDkiIGhlaWdodD0iNDkiIHBhcmFtZXRlck5hbWU9Ikxvd3Bhc3MiIHR5cGU9ImZsb2F0IiBtaW5WYWx1ZT0iMTUwIiBtYXhWYWx1ZT0iMTUwMDAiIHRleHRDb2xvcj0iRkYwMDAwMDAiIHZhbHVlPSIxNTAwMC4wIiBzdHlsZT0iY3VzdG9tX3NraW5fdmVydGljYWxfZHJhZyIgY3VzdG9tU2tpbkltYWdlPSJSZXNvdXJjZXMvS25vYi5wbmciIGN1c3RvbVNraW5OdW1GcmFtZXM9IjEwMSIgY3VzdG9tU2tpbkltYWdlT3JpZW50YXRpb249InZlcnRpY2FsIiBtb3VzZURyYWdTZW5zaXRpdml0eT0iMTAwIiBfaW5kZXg9IjEiIF91aWQ9InlrSG1STHp6U2lTIj48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBwb3NpdGlvbj0iMCIgcGFyYW1ldGVyPSJGWF9GSUxURVJfRlJFUVVFTkNZIi8+PC9jb250cm9sPjxjb250cm9sIHg9IjUxMCIgeT0iMTQwIiB3aWR0aD0iNDkiIGhlaWdodD0iNDkiIHBhcmFtZXRlck5hbWU9IlJldmVyYiIgdHlwZT0icGVyY2VudCIgbWluVmFsdWU9IjAiIG1heFZhbHVlPSIxMDAiIHRleHRDb2xvcj0iRkYwMDAwMDAiIHZhbHVlPSIwLjAiIHN0eWxlPSJjdXN0b21fc2tpbl92ZXJ0aWNhbF9kcmFnIiBjdXN0b21Ta2luSW1hZ2U9IlJlc291cmNlcy9Lbm9iLnBuZyIgY3VzdG9tU2tpbk51bUZyYW1lcz0iMTAxIiBjdXN0b21Ta2luSW1hZ2VPcmllbnRhdGlvbj0idmVydGljYWwiIG1vdXNlRHJhZ1NlbnNpdGl2aXR5PSIxMDAiIF9pbmRleD0iMiIgX3VpZD0idGVDWEdPUkZUYUciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIHBvc2l0aW9uPSIxIiBwYXJhbWV0ZXI9IkZYX01JWCIgZmFjdG9yPSIwLjAxIi8+PC9jb250cm9sPjxidXR0b24geD0iMzIzIiB5PSIxNDUiIHdpZHRoPSI0NSIgaGVpZ2h0PSI0MSIgc3R5bGU9ImltYWdlIiB2YWx1ZT0iMCIgX2luZGV4PSIzIj48c3RhdGUgbmFtZT0iT2ZmIiBtYWluSW1hZ2U9IlJlc291cmNlcy9idXR0b25fYmx1ZS1vZmYucG5nIiBob3ZlckltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb2ZmLnBuZyIgY2xpY2tJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyI+PGJpbmRpbmcgdHlwZT0iZWZmZWN0IiBsZXZlbD0iaW5zdHJ1bWVudCIgZWZmZWN0SW5kZXg9IjAiIHBhcmFtZXRlcj0iRU5BQkxFRCIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSJmYWxzZSIvPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIxIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0iZmFsc2UiLz48YmluZGluZyB0eXBlPSJjb250cm9sIiBsZXZlbD0idWkiIHBvc2l0aW9uPSI0IiBwYXJhbWV0ZXI9IlBBVEgiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0iUmVzb3VyY2VzL2xpZ2h0X29mZi5wbmciLz48L3N0YXRlPjxzdGF0ZSBuYW1lPSJPbiIgbWFpbkltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb24ucG5nIiBob3ZlckltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb24ucG5nIiBjbGlja0ltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb2ZmLnBuZyI+PGJpbmRpbmcgdHlwZT0iZWZmZWN0IiBsZXZlbD0iaW5zdHJ1bWVudCIgZWZmZWN0SW5kZXg9IjAiIHBhcmFtZXRlcj0iRU5BQkxFRCIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSJ0cnVlIi8+PGJpbmRpbmcgdHlwZT0iZWZmZWN0IiBsZXZlbD0iaW5zdHJ1bWVudCIgZWZmZWN0SW5kZXg9IjEiIHBhcmFtZXRlcj0iRU5BQkxFRCIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSJ0cnVlIi8+PGJpbmRpbmcgdHlwZT0iY29udHJvbCIgbGV2ZWw9InVpIiBwb3NpdGlvbj0iNCIgcGFyYW1ldGVyPSJQQVRIIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9IlJlc291cmNlcy9saWdodF9vbi5wbmciLz48L3N0YXRlPjwvYnV0dG9uPjxpbWFnZSB4PSIzMDIiIHk9IjExOSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiBwYXRoPSJSZXNvdXJjZXMvbGlnaHRfb2ZmLnBuZyIgYXNwZWN0UmF0aW9Nb2RlPSJwcmVzZXJ2ZSIgX2luZGV4PSI0Ii8+PC90YWI+PGtleWJvYXJkPjxjb2xvciBsb05vdGU9IjI0IiBoaU5vdGU9IjQyIiBjb2xvcj0iRkYyMjIyMjIiLz48L2tleWJvYXJkPjwvdWk+PGdyb3VwcyBhdHRhY2s9IjAuMDAwIiBkZWNheT0iMCIgc3VzdGFpbj0iMSIgcmVsZWFzZT0iMC4wMyIgdm9sdW1lPSIxIiBhbXBWZWxUcmFjaz0iMCI+PGdyb3VwIHRhZ3M9Im1vbm9waG9uaWMiIHNpbGVuY2luZ01vZGU9Im5vcm1hbCIgc2lsZW5jZWRCeVRhZ3M9Im1vbm9waG9uaWMiPjxzYW1wbGUgbG9Ob3RlPSIyNCIgaGlOb3RlPSIyNCIgcm9vdE5vdGU9IjI0IiBwYXRoPSJTYW1wbGVzXEJhc3NcQmFzc18wQy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNjg0MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjI1IiBoaU5vdGU9IjI1IiByb290Tm90ZT0iMjUiIHBhdGg9IlNhbXBsZXNcQmFzc1xCYXNzXzBDIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNjg0MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjI2IiBoaU5vdGU9IjI2IiByb290Tm90ZT0iMjYiIHBhdGg9IlNhbXBsZXNcQmFzc1xCYXNzXzBELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMjciIGhpTm90ZT0iMjciIHJvb3ROb3RlPSIyNyIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMEQjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMjgiIGhpTm90ZT0iMjgiIHJvb3ROb3RlPSIyOCIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMEUud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMjY4NDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIyOSIgaGlOb3RlPSIyOSIgcm9vdE5vdGU9IjI5IiBwYXRoPSJTYW1wbGVzXEJhc3NcQmFzc18wRi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNjg0MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjMwIiBoaU5vdGU9IjMwIiByb290Tm90ZT0iMzAiIHBhdGg9IlNhbXBsZXNcQmFzc1xCYXNzXzBGIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNjg0MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjMxIiBoaU5vdGU9IjMxIiByb290Tm90ZT0iMzEiIHBhdGg9IlNhbXBsZXNcQmFzc1xCYXNzXzBHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzIiIGhpTm90ZT0iMzIiIHJvb3ROb3RlPSIzMiIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMEcjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzMiIGhpTm90ZT0iMzMiIHJvb3ROb3RlPSIzMyIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMEEud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMjY4NDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIzNCIgaGlOb3RlPSIzNCIgcm9vdE5vdGU9IjM0IiBwYXRoPSJTYW1wbGVzXEJhc3NcQmFzc18wQSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMjY4NDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIzNSIgaGlOb3RlPSIzNSIgcm9vdE5vdGU9IjM1IiBwYXRoPSJTYW1wbGVzXEJhc3NcQmFzc18wQi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNjg0MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjM2IiBoaU5vdGU9IjM2IiByb290Tm90ZT0iMzYiIHBhdGg9IlNhbXBsZXNcQmFzc1xCYXNzXzFDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzciIGhpTm90ZT0iMzciIHJvb3ROb3RlPSIzNyIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMUMjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzgiIGhpTm90ZT0iMzgiIHJvb3ROb3RlPSIzOCIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMUQud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMjY4NDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIzOSIgaGlOb3RlPSIzOSIgcm9vdE5vdGU9IjM5IiBwYXRoPSJTYW1wbGVzXEJhc3NcQmFzc18xRCMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMjY4NDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0MCIgaGlOb3RlPSI0MCIgcm9vdE5vdGU9IjQwIiBwYXRoPSJTYW1wbGVzXEJhc3NcQmFzc18xRS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNjg0MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQxIiBoaU5vdGU9IjQxIiByb290Tm90ZT0iNDEiIHBhdGg9IlNhbXBsZXNcQmFzc1xCYXNzXzFGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDIiIGhpTm90ZT0iNDIiIHJvb3ROb3RlPSI0MiIgcGF0aD0iU2FtcGxlc1xCYXNzXEJhc3NfMUYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI2ODQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48ZWZmZWN0cy8+PC9ncm91cD48L2dyb3Vwcz48ZWZmZWN0cz48ZWZmZWN0IHR5cGU9Imxvd3Bhc3MiIGZyZXF1ZW5jeT0iMTUwMDAuMCIgZW5hYmxlZD0iMCIvPjxlZmZlY3QgdHlwZT0iY29udm9sdXRpb24iIHdldExldmVsPSIwLjAiIGlyRmlsZT0iSVIvU3BhY2Uud2F2IiBtaXg9IjAuMCIgZW5hYmxlZD0iMCIvPjwvZWZmZWN0cz48bWlkaS8+PG1vZHVsYXRvcnMvPjx0YWdzPjx0YWcgbmFtZT0ibW9ub3Bob25pYyIgcG9seXBob255PSIxIi8+PC90YWdzPjxub3RlU2VxdWVuY2VzLz48L0RlY2VudFNhbXBsZXI+AA==">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+            <elvol att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elcut att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elres att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp="0" arp-enabled="0" arprepeats="1" arptime_denominator="4" arpskip="0" arpdir="0" arprange="1" arptime="200" arpcycle="0" arptime_syncmode="0" arptime_numerator="4" arpmode="0" arpgate="100" arpmiss="0"/>
+          <midiport outputprogram="1" fixedinputvelocity="-1" fixedoutputvelocity="-1" outputcontroller="0" writable="0" inputcontroller="0" readable="1" inports="" outputchannel="1" basevelocity="63" inputchannel="0" fixedoutputnote="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" muted="0" pos="0" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="32"/>
+          <note vol="100" pan="0" len="12" pos="12" key="39"/>
+          <note vol="100" pan="0" len="24" pos="24" key="32"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="84" key="39"/>
+          <note vol="100" pan="0" len="24" pos="96" key="32"/>
+          <note vol="100" pan="0" len="12" pos="144" key="32"/>
+          <note vol="100" pan="0" len="24" pos="168" key="32"/>
+          <note vol="100" pan="0" len="12" pos="192" key="32"/>
+          <note vol="100" pan="0" len="24" pos="216" key="32"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="276" key="39"/>
+          <note vol="100" pan="0" len="24" pos="288" key="32"/>
+          <note vol="100" pan="0" len="12" pos="336" key="32"/>
+          <note vol="100" pan="0" len="24" pos="360" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="384" steps="16" type="1">
+          <note vol="100" pan="0" len="24" pos="0" key="32"/>
+          <note vol="100" pan="0" len="24" pos="24" key="32"/>
+          <note vol="100" pan="0" len="24" pos="48" key="39"/>
+          <note vol="100" pan="0" len="24" pos="96" key="32"/>
+          <note vol="100" pan="0" len="24" pos="120" key="32"/>
+          <note vol="100" pan="0" len="24" pos="144" key="36"/>
+          <note vol="100" pan="0" len="24" pos="192" key="32"/>
+          <note vol="100" pan="0" len="24" pos="216" key="32"/>
+          <note vol="100" pan="0" len="24" pos="240" key="39"/>
+          <note vol="100" pan="0" len="24" pos="264" key="32"/>
+          <note vol="100" pan="0" len="24" pos="288" key="32"/>
+          <note vol="100" pan="0" len="24" pos="312" key="32"/>
+          <note vol="100" pan="0" len="24" pos="336" key="36"/>
+          <note vol="100" pan="0" len="24" pos="360" key="32"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="768" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="32"/>
+          <note vol="100" pan="0" len="12" pos="24" key="32"/>
+          <note vol="100" pan="0" len="12" pos="48" key="32"/>
+          <note vol="100" pan="0" len="12" pos="72" key="32"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="192" key="39"/>
+          <note vol="100" pan="0" len="12" pos="216" key="39"/>
+          <note vol="100" pan="0" len="12" pos="240" key="39"/>
+          <note vol="100" pan="0" len="12" pos="264" key="39"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="36"/>
+          <note vol="100" pan="0" len="12" pos="360" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1152" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="32"/>
+          <note vol="100" pan="0" len="12" pos="24" key="32"/>
+          <note vol="100" pan="0" len="24" pos="144" key="32"/>
+          <note vol="100" pan="0" len="12" pos="192" key="32"/>
+          <note vol="100" pan="0" len="12" pos="216" key="32"/>
+          <note vol="100" pan="0" len="24" pos="336" key="32"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="4992" steps="16" type="1">
+          <note vol="100" pan="0" len="48" pos="0" key="32"/>
+          <note vol="100" pan="0" len="24" pos="72" key="32"/>
+          <note vol="100" pan="0" len="48" pos="96" key="39"/>
+          <note vol="100" pan="0" len="48" pos="192" key="32"/>
+          <note vol="100" pan="0" len="24" pos="264" key="32"/>
+          <note vol="100" pan="0" len="48" pos="288" key="39"/>
+          <note vol="100" pan="0" len="24" pos="336" key="36"/>
+          <note vol="100" pan="0" len="24" pos="360" key="39"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="5952" steps="16" type="1">
+          <note vol="100" pan="0" len="48" pos="0" key="24"/>
+          <note vol="100" pan="0" len="48" pos="48" key="24"/>
+          <note vol="100" pan="0" len="48" pos="96" key="24"/>
+          <note vol="100" pan="0" len="12" pos="144" key="24"/>
+          <note vol="100" pan="0" len="12" pos="156" key="24"/>
+          <note vol="100" pan="0" len="24" pos="168" key="24"/>
+          <note vol="100" pan="0" len="48" pos="192" key="24"/>
+          <note vol="100" pan="0" len="48" pos="240" key="24"/>
+          <note vol="100" pan="0" len="48" pos="288" key="24"/>
+          <note vol="100" pan="0" len="24" pos="336" key="24"/>
+          <note vol="100" pan="0" len="24" pos="360" key="24"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1536" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="32"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="39"/>
+          <note vol="100" pan="0" len="12" pos="72" key="32"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="39"/>
+          <note vol="100" pan="0" len="12" pos="144" key="32"/>
+          <note vol="100" pan="0" len="12" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="192" key="32"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="39"/>
+          <note vol="100" pan="0" len="12" pos="264" key="39"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="32"/>
+          <note vol="100" pan="0" len="12" pos="336" key="32"/>
+          <note vol="100" pan="0" len="12" pos="360" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="3264" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="32"/>
+          <note vol="100" pan="0" len="12" pos="48" key="39"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="32"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="39"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="6912" steps="16" type="1">
+          <note vol="100" pan="0" len="48" pos="0" key="25"/>
+          <note vol="100" pan="0" len="12" pos="48" key="25"/>
+          <note vol="100" pan="0" len="48" pos="72" key="25"/>
+          <note vol="100" pan="0" len="24" pos="240" key="25"/>
+          <note vol="100" pan="0" len="24" pos="264" key="27"/>
+          <note vol="100" pan="0" len="24" pos="288" key="28"/>
+          <note vol="100" pan="0" len="24" pos="312" key="27"/>
+          <note vol="100" pan="0" len="24" pos="336" key="25"/>
+          <note vol="100" pan="0" len="36" pos="384" key="27"/>
+          <note vol="100" pan="0" len="36" pos="456" key="28"/>
+          <note vol="100" pan="0" len="36" pos="528" key="27"/>
+          <note vol="100" pan="0" len="24" pos="672" key="28"/>
+          <note vol="100" pan="0" len="24" pos="696" key="27"/>
+          <note vol="100" pan="0" len="24" pos="720" key="25"/>
+          <note vol="100" pan="0" len="24" pos="768" key="33"/>
+          <note vol="100" pan="0" len="24" pos="816" key="28"/>
+          <note vol="100" pan="0" len="24" pos="888" key="33"/>
+          <note vol="100" pan="0" len="24" pos="960" key="25"/>
+          <note vol="100" pan="0" len="72" pos="1152" key="28"/>
+          <note vol="100" pan="0" len="24" pos="1248" key="31"/>
+          <note vol="100" pan="0" len="24" pos="1272" key="30"/>
+          <note vol="100" pan="0" len="24" pos="1296" key="28"/>
+          <note vol="100" pan="0" len="24" pos="1344" key="31"/>
+          <note vol="100" pan="0" len="24" pos="1368" key="30"/>
+          <note vol="100" pan="0" len="24" pos="1392" key="28"/>
+          <note vol="100" pan="0" len="24" pos="1440" key="24"/>
+          <note vol="100" pan="0" len="24" pos="1488" key="26"/>
+        </midiclip>
+      </track>
+      <track solo="0" name="DecentSampler" muted="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack mixch="1" firstkey="0" range_import="1" pitchrange="1" basenote="69" enabled="0" enablecc="0" usemasterpitch="1" keymap="0" vol="74.4" pitch="0" pan="0" lastkey="127" scale="0">
+          <midicontrollers cc34="0" cc0="0" cc54="0" cc59="0" cc89="0" cc107="0" cc6="0" cc30="0" cc126="0" cc22="0" cc71="0" cc77="0" cc19="0" cc44="0" cc14="0" cc27="0" cc80="0" cc36="0" cc26="0" cc3="0" cc48="0" cc105="0" cc35="0" cc10="0" cc124="0" cc7="0" cc41="0" cc60="0" cc73="0" cc16="0" cc78="0" cc53="0" cc38="0" cc114="0" cc87="0" cc101="0" cc108="0" cc31="0" cc88="0" cc125="0" cc76="0" cc120="0" cc99="0" cc98="0" cc117="0" cc121="0" cc113="0" cc127="0" cc94="0" cc118="0" cc20="0" cc85="0" cc52="0" cc63="0" cc69="0" cc81="0" cc49="0" cc67="0" cc91="0" cc51="0" cc55="0" cc65="0" cc40="0" cc12="0" cc15="0" cc111="0" cc29="0" cc50="0" cc39="0" cc97="0" cc9="0" cc75="0" cc115="0" cc11="0" cc58="0" cc112="0" cc25="0" cc122="0" cc4="0" cc84="0" cc1="0" cc82="0" cc93="0" cc24="0" cc32="0" cc106="0" cc86="0" cc47="0" cc96="0" cc64="0" cc109="0" cc102="0" cc104="0" cc116="0" cc83="0" cc2="0" cc79="0" cc17="0" cc110="0" cc33="0" cc92="0" cc103="0" cc66="0" cc45="0" cc21="0" cc62="0" cc5="0" cc100="0" cc56="0" cc18="0" cc90="0" cc95="0" cc123="0" cc8="0" cc42="0" cc57="0" cc46="0" cc37="0" cc72="0" cc74="0" cc43="0" cc23="0" cc13="0" cc70="0" cc68="0" cc61="0" cc119="0" cc28="0"/>
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/DecentSampler/DecentSampler.dll" guivisible="0" chunk="VkMyIT5VAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8RGVjZW50U2FtcGxlciBfc2FtcGxlUGF0aD0iQzpcVXNlcnNcZGlub1xBcHBEYXRhXExvY2FsXFRlbXBcRGVjZW50U2FtcGxlclx0ZW1wX2ZhYWJkMTBkIiBfcHJlc2V0TmFtZT0iQ2hvcmRzIiBfbGlicmFyeVVybD0iZmlsZTovLy9DJTNBL1VzZXJzL2Rpbm8vQXBwRGF0YS9Mb2NhbC9UZW1wL0RlY2VudFNhbXBsZXIvdGVtcF9mYWFiZDEwZC9DaG9yZHMuZHNwcmVzZXQiIF9saWJyYXJ5Q2Fub25pY2FsVXJsPSJmaWxlOi8vL0MlM0EvVlNUMzIvRGVjZW50U2FtcGxlci9PbW5pLTg0JTIwMS4xLnppcCIgX3NhbXBsZUxpYnJhcnlJZD0iLTEiIF9saWJyYXJ5Qm9va21hcms9IjAuIiBfdHVuaW5nQTY5RnJlcXVlbmN5PSI0NDAuMCI+PHVpIGJnSW1hZ2U9IlJlc291cmNlcy9iYWNrZ3JvdW5kX2Nob3Jkcy5qcGciIHdpZHRoPSI4MTIiIGhlaWdodD0iMzc1IiBsYXlvdXRNb2RlPSJyZWxhdGl2ZSIgYmdNb2RlPSJ0b3BfbGVmdCI+PHRhYj48Y29udHJvbCB4PSI0MTciIHk9IjE0MCIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJMb3dwYXNzIiB0eXBlPSJmbG9hdCIgbWluVmFsdWU9IjE1MCIgbWF4VmFsdWU9IjE1MDAwIiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMTUwMDAuMCIgc3R5bGU9ImN1c3RvbV9za2luX3ZlcnRpY2FsX2RyYWciIGN1c3RvbVNraW5JbWFnZT0iUmVzb3VyY2VzL0tub2IucG5nIiBjdXN0b21Ta2luTnVtRnJhbWVzPSIxMDEiIGN1c3RvbVNraW5JbWFnZU9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgbW91c2VEcmFnU2Vuc2l0aXZpdHk9IjEwMCIgX2luZGV4PSIwIiBfdWlkPSJIbTB5UzN4WEIyVCI+PGJpbmRpbmcgdHlwZT0iZWZmZWN0IiBsZXZlbD0iaW5zdHJ1bWVudCIgcG9zaXRpb249IjAiIHBhcmFtZXRlcj0iRlhfRklMVEVSX0ZSRVFVRU5DWSIvPjwvY29udHJvbD48Y29udHJvbCB4PSI1MTAiIHk9IjE0MCIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJSZXZlcmIiIHR5cGU9InBlcmNlbnQiIG1pblZhbHVlPSIwIiBtYXhWYWx1ZT0iMTAwIiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMC4wIiBzdHlsZT0iY3VzdG9tX3NraW5fdmVydGljYWxfZHJhZyIgY3VzdG9tU2tpbkltYWdlPSJSZXNvdXJjZXMvS25vYi5wbmciIGN1c3RvbVNraW5OdW1GcmFtZXM9IjEwMSIgY3VzdG9tU2tpbkltYWdlT3JpZW50YXRpb249InZlcnRpY2FsIiBtb3VzZURyYWdTZW5zaXRpdml0eT0iMTAwIiBfaW5kZXg9IjEiIF91aWQ9InhKZ2YxUlEwNklUIj48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBwb3NpdGlvbj0iMSIgcGFyYW1ldGVyPSJGWF9NSVgiIGZhY3Rvcj0iMC4wMSIvPjwvY29udHJvbD48YnV0dG9uIHg9IjMyMyIgeT0iMTQ1IiB3aWR0aD0iNDUiIGhlaWdodD0iNDEiIHN0eWxlPSJpbWFnZSIgdmFsdWU9IjAiIF9pbmRleD0iMiI+PHN0YXRlIG5hbWU9Ik9mZiIgbWFpbkltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb2ZmLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9mZi5wbmciIGNsaWNrSW1hZ2U9IlJlc291cmNlcy9idXR0b25fYmx1ZS1vbi5wbmciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIwIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0iZmFsc2UiLz48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBlZmZlY3RJbmRleD0iMSIgcGFyYW1ldGVyPSJFTkFCTEVEIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9ImZhbHNlIi8+PGJpbmRpbmcgdHlwZT0iY29udHJvbCIgbGV2ZWw9InVpIiBwb3NpdGlvbj0iMyIgcGFyYW1ldGVyPSJQQVRIIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9IlJlc291cmNlcy9saWdodF9vZmYucG5nIi8+PC9zdGF0ZT48c3RhdGUgbmFtZT0iT24iIG1haW5JbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyIgY2xpY2tJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9mZi5wbmciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIwIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0idHJ1ZSIvPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIxIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0idHJ1ZSIvPjxiaW5kaW5nIHR5cGU9ImNvbnRyb2wiIGxldmVsPSJ1aSIgcG9zaXRpb249IjMiIHBhcmFtZXRlcj0iUEFUSCIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSJSZXNvdXJjZXMvbGlnaHRfb24ucG5nIi8+PC9zdGF0ZT48L2J1dHRvbj48aW1hZ2UgeD0iMzAyIiB5PSIxMTkiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgcGF0aD0iUmVzb3VyY2VzL2xpZ2h0X29mZi5wbmciIGFzcGVjdFJhdGlvTW9kZT0icHJlc2VydmUiIF9pbmRleD0iMyIvPjwvdGFiPjxrZXlib2FyZD48Y29sb3IgbG9Ob3RlPSIzNiIgaGlOb3RlPSI0NyIgY29sb3I9IkZGREMyNjI2Ii8+PGNvbG9yIGxvTm90ZT0iNDgiIGhpTm90ZT0iNTkiIGNvbG9yPSJGRjI1NjNFYiIvPjxjb2xvciBsb05vdGU9IjYwIiBoaU5vdGU9IjcxIiBjb2xvcj0iRkY2NUEzMEQiLz48Y29sb3IgbG9Ob3RlPSI3MiIgaGlOb3RlPSI4MyIgY29sb3I9IkZGQzAyNkQzIi8+PGNvbG9yIGxvTm90ZT0iODQiIGhpTm90ZT0iOTUiIGNvbG9yPSJGRkVBNTgwQyIvPjxjb2xvciBsb05vdGU9Ijk2IiBoaU5vdGU9IjEwNyIgY29sb3I9IkZGMDU5NjY5Ii8+PGNvbG9yIGxvTm90ZT0iMTA4IiBoaU5vdGU9IjExOSIgY29sb3I9IkZGQ0E4QTA0Ii8+PC9rZXlib2FyZD48L3VpPjxncm91cHMgYXR0YWNrPSIwLjAwMCIgZGVjYXk9IjAiIHN1c3RhaW49IjEuMCIgcmVsZWFzZT0iMC4xIiB2b2x1bWU9IjEiIGFtcFZlbFRyYWNrPSIwIj48Z3JvdXAgdGFncz0ibW9ub3Bob25pYyIgc2lsZW5jaW5nTW9kZT0ibm9ybWFsIj48c2FtcGxlIGxvTm90ZT0iMzYiIGhpTm90ZT0iMzYiIHJvb3ROb3RlPSIzNiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzFDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjM3IiBoaU5vdGU9IjM3IiByb290Tm90ZT0iMzciIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18xQyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzgiIGhpTm90ZT0iMzgiIHJvb3ROb3RlPSIzOCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzFELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjM5IiBoaU5vdGU9IjM5IiByb290Tm90ZT0iMzkiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18xRCMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDAiIGhpTm90ZT0iNDAiIHJvb3ROb3RlPSI0MCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzFFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQxIiBoaU5vdGU9IjQxIiByb290Tm90ZT0iNDEiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18xRi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0MiIgaGlOb3RlPSI0MiIgcm9vdE5vdGU9IjQyIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfMUYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQzIiBoaU5vdGU9IjQzIiByb290Tm90ZT0iNDMiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18xRy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NCIgaGlOb3RlPSI0NCIgcm9vdE5vdGU9IjQ0IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfMUcjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQ1IiBoaU5vdGU9IjQ1IiByb290Tm90ZT0iNDUiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18xQS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NiIgaGlOb3RlPSI0NiIgcm9vdE5vdGU9IjQ2IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfMUEjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQ3IiBoaU5vdGU9IjQ3IiByb290Tm90ZT0iNDciIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18xQi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0OCIgaGlOb3RlPSI0OCIgcm9vdE5vdGU9IjQ4IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfMkMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDkiIGhpTm90ZT0iNDkiIHJvb3ROb3RlPSI0OSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzJDIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MCIgaGlOb3RlPSI1MCIgcm9vdE5vdGU9IjUwIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfMkQud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTEiIGhpTm90ZT0iNTEiIHJvb3ROb3RlPSI1MSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzJEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MiIgaGlOb3RlPSI1MiIgcm9vdE5vdGU9IjUyIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfMkUud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTMiIGhpTm90ZT0iNTMiIHJvb3ROb3RlPSI1MyIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzJGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU0IiBoaU5vdGU9IjU0IiByb290Tm90ZT0iNTQiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18yRiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTUiIGhpTm90ZT0iNTUiIHJvb3ROb3RlPSI1NSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzJHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU2IiBoaU5vdGU9IjU2IiByb290Tm90ZT0iNTYiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18yRyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTciIGhpTm90ZT0iNTciIHJvb3ROb3RlPSI1NyIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzJBLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU4IiBoaU5vdGU9IjU4IiByb290Tm90ZT0iNTgiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18yQSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTkiIGhpTm90ZT0iNTkiIHJvb3ROb3RlPSI1OSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzJCLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjYwIiBoaU5vdGU9IjYwIiByb290Tm90ZT0iNjAiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18zQy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2MSIgaGlOb3RlPSI2MSIgcm9vdE5vdGU9IjYxIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfM0MjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjYyIiBoaU5vdGU9IjYyIiByb290Tm90ZT0iNjIiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18zRC53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2MyIgaGlOb3RlPSI2MyIgcm9vdE5vdGU9IjYzIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfM0QjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjY0IiBoaU5vdGU9IjY0IiByb290Tm90ZT0iNjQiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc18zRS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2NSIgaGlOb3RlPSI2NSIgcm9vdE5vdGU9IjY1IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfM0Yud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjYiIGhpTm90ZT0iNjYiIHJvb3ROb3RlPSI2NiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzNGIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2NyIgaGlOb3RlPSI2NyIgcm9vdE5vdGU9IjY3IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfM0cud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjgiIGhpTm90ZT0iNjgiIHJvb3ROb3RlPSI2OCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzNHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2OSIgaGlOb3RlPSI2OSIgcm9vdE5vdGU9IjY5IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfM0Eud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzAiIGhpTm90ZT0iNzAiIHJvb3ROb3RlPSI3MCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzNBIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3MSIgaGlOb3RlPSI3MSIgcm9vdE5vdGU9IjcxIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfM0Iud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzIiIGhpTm90ZT0iNzIiIHJvb3ROb3RlPSI3MiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzRDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjczIiBoaU5vdGU9IjczIiByb290Tm90ZT0iNzMiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc180QyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzQiIGhpTm90ZT0iNzQiIHJvb3ROb3RlPSI3NCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzRELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijc1IiBoaU5vdGU9Ijc1IiByb290Tm90ZT0iNzUiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc180RCMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzYiIGhpTm90ZT0iNzYiIHJvb3ROb3RlPSI3NiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzRFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijc3IiBoaU5vdGU9Ijc3IiByb290Tm90ZT0iNzciIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc180Ri53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3OCIgaGlOb3RlPSI3OCIgcm9vdE5vdGU9Ijc4IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNEYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijc5IiBoaU5vdGU9Ijc5IiByb290Tm90ZT0iNzkiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc180Ry53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4MCIgaGlOb3RlPSI4MCIgcm9vdE5vdGU9IjgwIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNEcjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjgxIiBoaU5vdGU9IjgxIiByb290Tm90ZT0iODEiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc180QS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4MiIgaGlOb3RlPSI4MiIgcm9vdE5vdGU9IjgyIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNEEjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjgzIiBoaU5vdGU9IjgzIiByb290Tm90ZT0iODMiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc180Qi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4NCIgaGlOb3RlPSI4NCIgcm9vdE5vdGU9Ijg0IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNUMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODUiIGhpTm90ZT0iODUiIHJvb3ROb3RlPSI4NSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzVDIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4NiIgaGlOb3RlPSI4NiIgcm9vdE5vdGU9Ijg2IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNUQud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODciIGhpTm90ZT0iODciIHJvb3ROb3RlPSI4NyIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzVEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4OCIgaGlOb3RlPSI4OCIgcm9vdE5vdGU9Ijg4IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNUUud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODkiIGhpTm90ZT0iODkiIHJvb3ROb3RlPSI4OSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzVGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjkwIiBoaU5vdGU9IjkwIiByb290Tm90ZT0iOTAiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc181RiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTEiIGhpTm90ZT0iOTEiIHJvb3ROb3RlPSI5MSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzVHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjkyIiBoaU5vdGU9IjkyIiByb290Tm90ZT0iOTIiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc181RyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTMiIGhpTm90ZT0iOTMiIHJvb3ROb3RlPSI5MyIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzVBLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijk0IiBoaU5vdGU9Ijk0IiByb290Tm90ZT0iOTQiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc181QSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTUiIGhpTm90ZT0iOTUiIHJvb3ROb3RlPSI5NSIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzVCLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijk2IiBoaU5vdGU9Ijk2IiByb290Tm90ZT0iOTYiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc182Qy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5NyIgaGlOb3RlPSI5NyIgcm9vdE5vdGU9Ijk3IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNkMjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijk4IiBoaU5vdGU9Ijk4IiByb290Tm90ZT0iOTgiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc182RC53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5OSIgaGlOb3RlPSI5OSIgcm9vdE5vdGU9Ijk5IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNkQjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjEwMCIgaGlOb3RlPSIxMDAiIHJvb3ROb3RlPSIxMDAiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc182RS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMDEiIGhpTm90ZT0iMTAxIiByb290Tm90ZT0iMTAxIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNkYud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTAyIiBoaU5vdGU9IjEwMiIgcm9vdE5vdGU9IjEwMiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzZGIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMDMiIGhpTm90ZT0iMTAzIiByb290Tm90ZT0iMTAzIiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNkcud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTA0IiBoaU5vdGU9IjEwNCIgcm9vdE5vdGU9IjEwNCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzZHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMDUiIGhpTm90ZT0iMTA1IiByb290Tm90ZT0iMTA1IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNkEud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTA2IiBoaU5vdGU9IjEwNiIgcm9vdE5vdGU9IjEwNiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzZBIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMDciIGhpTm90ZT0iMTA3IiByb290Tm90ZT0iMTA3IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfNkIud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTA4IiBoaU5vdGU9IjEwOCIgcm9vdE5vdGU9IjEwOCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzdDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjEwOSIgaGlOb3RlPSIxMDkiIHJvb3ROb3RlPSIxMDkiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc183QyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTEwIiBoaU5vdGU9IjExMCIgcm9vdE5vdGU9IjExMCIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzdELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjExMSIgaGlOb3RlPSIxMTEiIHJvb3ROb3RlPSIxMTEiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc183RCMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iNTI4MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTEyIiBoaU5vdGU9IjExMiIgcm9vdE5vdGU9IjExMiIgcGF0aD0iU2FtcGxlc1xDaG9yZHNcQ2hvcmRzXzdFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjExMyIgaGlOb3RlPSIxMTMiIHJvb3ROb3RlPSIxMTMiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc183Ri53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMTQiIGhpTm90ZT0iMTE0IiByb290Tm90ZT0iMTE0IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfN0YjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjExNSIgaGlOb3RlPSIxMTUiIHJvb3ROb3RlPSIxMTUiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc183Ry53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMTYiIGhpTm90ZT0iMTE2IiByb290Tm90ZT0iMTE2IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfN0cjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjExNyIgaGlOb3RlPSIxMTciIHJvb3ROb3RlPSIxMTciIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc183QS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMTgiIGhpTm90ZT0iMTE4IiByb290Tm90ZT0iMTE4IiBwYXRoPSJTYW1wbGVzXENob3Jkc1xDaG9yZHNfN0EjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjUyODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjExOSIgaGlOb3RlPSIxMTkiIHJvb3ROb3RlPSIxMTkiIHBhdGg9IlNhbXBsZXNcQ2hvcmRzXENob3Jkc183Qi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSI1MjgwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxlZmZlY3RzLz48L2dyb3VwPjwvZ3JvdXBzPjxlZmZlY3RzPjxlZmZlY3QgdHlwZT0ibG93cGFzcyIgZnJlcXVlbmN5PSIxNTAwMC4wIiBlbmFibGVkPSIwIi8+PGVmZmVjdCB0eXBlPSJjb252b2x1dGlvbiIgd2V0TGV2ZWw9IjAuMCIgaXJGaWxlPSJJUi9TcGFjZS53YXYiIG1peD0iMC4wIiBlbmFibGVkPSIwIi8+PC9lZmZlY3RzPjxtaWRpLz48bW9kdWxhdG9ycy8+PHRhZ3M+PHRhZyBuYW1lPSJtb25vcGhvbmljIiBwb2x5cGhvbnk9IjEiLz48L3RhZ3M+PG5vdGVTZXF1ZW5jZXMvPjwvRGVjZW50U2FtcGxlcj4A">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+            <elvol att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elcut att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elres att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp="0" arp-enabled="0" arprepeats="1" arptime_denominator="4" arpskip="0" arpdir="0" arprange="1" arptime="200" arpcycle="0" arptime_syncmode="0" arptime_numerator="4" arpmode="0" arpgate="100" arpmiss="0"/>
+          <midiport outputprogram="1" fixedinputvelocity="-1" fixedoutputvelocity="-1" outputcontroller="0" writable="0" inputcontroller="0" readable="1" inports="" outputchannel="1" basevelocity="63" inputchannel="0" fixedoutputnote="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" muted="0" pos="0" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="24" key="44"/>
+          <note vol="100" pan="0" len="24" pos="72" key="44"/>
+          <note vol="100" pan="0" len="12" pos="96" key="44"/>
+          <note vol="100" pan="0" len="12" pos="192" key="44"/>
+          <note vol="100" pan="0" len="12" pos="264" key="44"/>
+          <note vol="100" pan="0" len="24" pos="336" key="44"/>
+          <note vol="100" pan="0" len="12" pos="360" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="384" steps="16" type="1">
+          <note vol="100" pan="0" len="24" pos="48" key="44"/>
+          <note vol="100" pan="0" len="24" pos="144" key="44"/>
+          <note vol="100" pan="0" len="24" pos="240" key="44"/>
+          <note vol="100" pan="0" len="24" pos="336" key="44"/>
+          <note vol="100" pan="0" len="12" pos="360" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="768" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="24" key="44"/>
+          <note vol="100" pan="0" len="12" pos="96" key="44"/>
+          <note vol="100" pan="0" len="12" pos="216" key="44"/>
+          <note vol="100" pan="0" len="12" pos="288" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1152" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="24" key="44"/>
+          <note vol="100" pan="0" len="12" pos="72" key="44"/>
+          <note vol="100" pan="0" len="12" pos="120" key="44"/>
+          <note vol="100" pan="0" len="12" pos="168" key="44"/>
+          <note vol="100" pan="0" len="12" pos="216" key="44"/>
+          <note vol="100" pan="0" len="12" pos="264" key="44"/>
+          <note vol="100" pan="0" len="12" pos="312" key="44"/>
+          <note vol="100" pan="0" len="12" pos="360" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="4992" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="48" key="44"/>
+          <note vol="100" pan="0" len="12" pos="72" key="44"/>
+          <note vol="100" pan="0" len="12" pos="144" key="44"/>
+          <note vol="100" pan="0" len="12" pos="240" key="44"/>
+          <note vol="100" pan="0" len="12" pos="264" key="44"/>
+          <note vol="100" pan="0" len="12" pos="336" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="5952" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="60" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="132" key="36"/>
+          <note vol="100" pan="0" len="12" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="252" key="36"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="324" key="36"/>
+          <note vol="100" pan="0" len="12" pos="348" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1536" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="44"/>
+          <note vol="100" pan="0" len="12" pos="12" key="44"/>
+          <note vol="100" pan="0" len="12" pos="24" key="44"/>
+          <note vol="100" pan="0" len="12" pos="36" key="44"/>
+          <note vol="100" pan="0" len="12" pos="96" key="44"/>
+          <note vol="100" pan="0" len="12" pos="108" key="44"/>
+          <note vol="100" pan="0" len="12" pos="120" key="44"/>
+          <note vol="100" pan="0" len="12" pos="132" key="44"/>
+          <note vol="100" pan="0" len="12" pos="192" key="44"/>
+          <note vol="100" pan="0" len="12" pos="204" key="44"/>
+          <note vol="100" pan="0" len="12" pos="216" key="44"/>
+          <note vol="100" pan="0" len="12" pos="228" key="44"/>
+          <note vol="100" pan="0" len="24" pos="264" key="44"/>
+          <note vol="100" pan="0" len="24" pos="288" key="44"/>
+          <note vol="100" pan="0" len="24" pos="312" key="44"/>
+          <note vol="100" pan="0" len="12" pos="360" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="3264" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="44"/>
+          <note vol="100" pan="0" len="12" pos="72" key="44"/>
+          <note vol="100" pan="0" len="12" pos="96" key="44"/>
+          <note vol="100" pan="0" len="12" pos="144" key="44"/>
+          <note vol="100" pan="0" len="12" pos="192" key="44"/>
+          <note vol="100" pan="0" len="12" pos="240" key="44"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="6912" steps="16" type="1">
+          <note vol="100" pan="0" len="384" pos="0" key="49"/>
+          <note vol="100" pan="0" len="384" pos="384" key="47"/>
+          <note vol="100" pan="0" len="384" pos="768" key="73"/>
+          <note vol="100" pan="0" len="384" pos="1152" key="84"/>
+        </midiclip>
+      </track>
+      <track solo="0" name="DecentSampler" muted="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack mixch="0" firstkey="0" range_import="1" pitchrange="1" basenote="69" enabled="0" enablecc="0" usemasterpitch="1" keymap="0" vol="200" pitch="0" pan="0" lastkey="127" scale="0">
+          <midicontrollers cc34="0" cc0="0" cc54="0" cc59="0" cc89="0" cc107="0" cc6="0" cc30="0" cc126="0" cc22="0" cc71="0" cc77="0" cc19="0" cc44="0" cc14="0" cc27="0" cc80="0" cc36="0" cc26="0" cc3="0" cc48="0" cc105="0" cc35="0" cc10="0" cc124="0" cc7="0" cc41="0" cc60="0" cc73="0" cc16="0" cc78="0" cc53="0" cc38="0" cc114="0" cc87="0" cc101="0" cc108="0" cc31="0" cc88="0" cc125="0" cc76="0" cc120="0" cc99="0" cc98="0" cc117="0" cc121="0" cc113="0" cc127="0" cc94="0" cc118="0" cc20="0" cc85="0" cc52="0" cc63="0" cc69="0" cc81="0" cc49="0" cc67="0" cc91="0" cc51="0" cc55="0" cc65="0" cc40="0" cc12="0" cc15="0" cc111="0" cc29="0" cc50="0" cc39="0" cc97="0" cc9="0" cc75="0" cc115="0" cc11="0" cc58="0" cc112="0" cc25="0" cc122="0" cc4="0" cc84="0" cc1="0" cc82="0" cc93="0" cc24="0" cc32="0" cc106="0" cc86="0" cc47="0" cc96="0" cc64="0" cc109="0" cc102="0" cc104="0" cc116="0" cc83="0" cc2="0" cc79="0" cc17="0" cc110="0" cc33="0" cc92="0" cc103="0" cc66="0" cc45="0" cc21="0" cc62="0" cc5="0" cc100="0" cc56="0" cc18="0" cc90="0" cc95="0" cc123="0" cc8="0" cc42="0" cc57="0" cc46="0" cc37="0" cc72="0" cc74="0" cc43="0" cc23="0" cc13="0" cc70="0" cc68="0" cc61="0" cc119="0" cc28="0"/>
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/DecentSampler/DecentSampler.dll" guivisible="0" chunk="VkMyIZkjAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8RGVjZW50U2FtcGxlciBfc2FtcGxlUGF0aD0iQzpcVXNlcnNcZGlub1xBcHBEYXRhXExvY2FsXFRlbXBcRGVjZW50U2FtcGxlclx0ZW1wXzI4Nzg1NDY0IiBfcHJlc2V0TmFtZT0iRHJ1bXMiIF9saWJyYXJ5VXJsPSJmaWxlOi8vL0MlM0EvVXNlcnMvZGluby9BcHBEYXRhL0xvY2FsL1RlbXAvRGVjZW50U2FtcGxlci90ZW1wXzI4Nzg1NDY0L0RydW1zLmRzcHJlc2V0IiBfbGlicmFyeUNhbm9uaWNhbFVybD0iZmlsZTovLy9DJTNBL1ZTVDMyL0RlY2VudFNhbXBsZXIvT21uaS04NCUyMDEuMS56aXAiIF9zYW1wbGVMaWJyYXJ5SWQ9Ii0xIiBfbGlicmFyeUJvb2ttYXJrPSIwLiIgX3R1bmluZ0E2OUZyZXF1ZW5jeT0iNDQwLjAiPjx1aSBiZ0ltYWdlPSJSZXNvdXJjZXMvYmFja2dyb3VuZF9kcnVtcy5qcGciIHdpZHRoPSI4MTIiIGhlaWdodD0iMzc1IiBsYXlvdXRNb2RlPSJyZWxhdGl2ZSIgYmdNb2RlPSJ0b3BfbGVmdCI+PHRhYiBuYW1lPSJtYWluIj48YnV0dG9uIHg9IjQxNyIgeT0iNDAiIHdpZHRoPSI0NSIgaGVpZ2h0PSI0MSIgc3R5bGU9ImltYWdlIiB2YWx1ZT0iMCIgX2luZGV4PSIwIj48c3RhdGUgbmFtZT0iTW9ub3Bob25pYyIgbWFpbkltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX3JlZC1vZmYucG5nIiBob3ZlckltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX3JlZC1vZmYucG5nIiBjbGlja0ltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX3JlZC1vbi5wbmciPjxiaW5kaW5nIHR5cGU9ImFtcCIgbGV2ZWw9Imdyb3VwIiBwb3NpdGlvbj0iMCIgcGFyYW1ldGVyPSJBTVBfVkVMX1RSQUNLIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9IjAiLz48YmluZGluZyB0eXBlPSJjb250cm9sIiBsZXZlbD0idWkiIHBvc2l0aW9uPSIxIiBwYXJhbWV0ZXI9IlBBVEgiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0iUmVzb3VyY2VzL2xpZ2h0X29mZi5wbmciLz48L3N0YXRlPjxzdGF0ZSBuYW1lPSJQb2x5cGhvbmljIiBtYWluSW1hZ2U9IlJlc291cmNlcy9idXR0b25fcmVkLW9uLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9yZWQtb24ucG5nIiBjbGlja0ltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX3JlZC1vZmYucG5nIj48YmluZGluZyB0eXBlPSJhbXAiIGxldmVsPSJncm91cCIgcG9zaXRpb249IjAiIHBhcmFtZXRlcj0iQU1QX1ZFTF9UUkFDSyIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSIxIi8+PGJpbmRpbmcgdHlwZT0iY29udHJvbCIgbGV2ZWw9InVpIiBwb3NpdGlvbj0iMSIgcGFyYW1ldGVyPSJQQVRIIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9IlJlc291cmNlcy9saWdodF9vbi5wbmciLz48L3N0YXRlPjwvYnV0dG9uPjxpbWFnZSB4PSIzNTIiIHk9IjUwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHBhdGg9IlJlc291cmNlcy9saWdodF9vZmYucG5nIiBhc3BlY3RSYXRpb01vZGU9InByZXNlcnZlIiBfaW5kZXg9IjEiLz48Y29udHJvbCB4PSI0MTciIHk9IjE0MCIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJMb3dwYXNzIiB0eXBlPSJmbG9hdCIgbWluVmFsdWU9IjE1MCIgbWF4VmFsdWU9IjE1MDAwIiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMTUwMDAuMCIgc3R5bGU9ImN1c3RvbV9za2luX3ZlcnRpY2FsX2RyYWciIGN1c3RvbVNraW5JbWFnZT0iUmVzb3VyY2VzL0tub2IucG5nIiBjdXN0b21Ta2luTnVtRnJhbWVzPSIxMDEiIGN1c3RvbVNraW5JbWFnZU9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgbW91c2VEcmFnU2Vuc2l0aXZpdHk9IjEwMCIgX2luZGV4PSIyIiBfdWlkPSJNV3lDVFhKVUZvZSI+PGJpbmRpbmcgdHlwZT0iZWZmZWN0IiBsZXZlbD0iaW5zdHJ1bWVudCIgcG9zaXRpb249IjAiIHBhcmFtZXRlcj0iRlhfRklMVEVSX0ZSRVFVRU5DWSIvPjwvY29udHJvbD48Y29udHJvbCB4PSI1MTAiIHk9IjE0MCIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJSZXZlcmIiIHR5cGU9InBlcmNlbnQiIG1pblZhbHVlPSIwIiBtYXhWYWx1ZT0iMTAwIiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMC4wIiBzdHlsZT0iY3VzdG9tX3NraW5fdmVydGljYWxfZHJhZyIgY3VzdG9tU2tpbkltYWdlPSJSZXNvdXJjZXMvS25vYi5wbmciIGN1c3RvbVNraW5OdW1GcmFtZXM9IjEwMSIgY3VzdG9tU2tpbkltYWdlT3JpZW50YXRpb249InZlcnRpY2FsIiBtb3VzZURyYWdTZW5zaXRpdml0eT0iMTAwIiBfaW5kZXg9IjMiIF91aWQ9IkZoaUN6aWQ5cUhJIj48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBwb3NpdGlvbj0iMSIgcGFyYW1ldGVyPSJGWF9NSVgiIGZhY3Rvcj0iMC4wMSIvPjwvY29udHJvbD48YnV0dG9uIHg9IjMyMyIgeT0iMTQ1IiB3aWR0aD0iNDUiIGhlaWdodD0iNDEiIHN0eWxlPSJpbWFnZSIgdmFsdWU9IjAiIF9pbmRleD0iNCI+PHN0YXRlIG5hbWU9Ik9mZiIgbWFpbkltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb2ZmLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9mZi5wbmciIGNsaWNrSW1hZ2U9IlJlc291cmNlcy9idXR0b25fYmx1ZS1vbi5wbmciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIwIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0iZmFsc2UiLz48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBlZmZlY3RJbmRleD0iMSIgcGFyYW1ldGVyPSJFTkFCTEVEIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9ImZhbHNlIi8+PGJpbmRpbmcgdHlwZT0iY29udHJvbCIgbGV2ZWw9InVpIiBwb3NpdGlvbj0iNSIgcGFyYW1ldGVyPSJQQVRIIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9IlJlc291cmNlcy9saWdodF9vZmYucG5nIi8+PC9zdGF0ZT48c3RhdGUgbmFtZT0iT24iIG1haW5JbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyIgY2xpY2tJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9mZi5wbmciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIwIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0idHJ1ZSIvPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIxIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0idHJ1ZSIvPjxiaW5kaW5nIHR5cGU9ImNvbnRyb2wiIGxldmVsPSJ1aSIgcG9zaXRpb249IjUiIHBhcmFtZXRlcj0iUEFUSCIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSJSZXNvdXJjZXMvbGlnaHRfb24ucG5nIi8+PC9zdGF0ZT48L2J1dHRvbj48aW1hZ2UgeD0iMzAyIiB5PSIxMTkiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgcGF0aD0iUmVzb3VyY2VzL2xpZ2h0X29mZi5wbmciIGFzcGVjdFJhdGlvTW9kZT0icHJlc2VydmUiIF9pbmRleD0iNSIvPjwvdGFiPjxrZXlib2FyZD48Y29sb3IgbG9Ob3RlPSIzNiIgaGlOb3RlPSI0MiIgY29sb3I9IkZGREMyNjI2Ii8+PGNvbG9yIGxvTm90ZT0iNDMiIGhpTm90ZT0iNDgiIGNvbG9yPSJGRjI1NjNlYiIvPjxjb2xvciBsb05vdGU9IjQ5IiBoaU5vdGU9IjU0IiBjb2xvcj0iRkYxNmEzNGEiLz48Y29sb3IgbG9Ob3RlPSI1NSIgaGlOb3RlPSI1NyIgY29sb3I9IkZGYzAyNmQzIi8+PC9rZXlib2FyZD48L3VpPjxncm91cHMgYXR0YWNrPSIwLjAwMCIgZGVjYXk9IjAiIHN1c3RhaW49IjEuMCIgcmVsZWFzZT0iNSIgdm9sdW1lPSIxIj48Z3JvdXAgdWlkPSJkcnVtcyIgYW1wVmVsVHJhY2s9IjAiPjxzYW1wbGUgbG9Ob3RlPSIzNiIgaGlOb3RlPSIzNiIgcm9vdE5vdGU9IjM2IiBwYXRoPSJTYW1wbGVzXERydW1zXEtpY2tfMUMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTE5ODMiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIzNyIgaGlOb3RlPSIzNyIgcm9vdE5vdGU9IjM3IiBwYXRoPSJTYW1wbGVzXERydW1zXEtpY2tfMUMjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjEyMDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzgiIGhpTm90ZT0iMzgiIHJvb3ROb3RlPSIzOCIgcGF0aD0iU2FtcGxlc1xEcnVtc1xLaWNrXzFELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjEyMDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMzkiIGhpTm90ZT0iMzkiIHJvb3ROb3RlPSIzOSIgcGF0aD0iU2FtcGxlc1xEcnVtc1xLaWNrXzFEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxMjAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQwIiBoaU5vdGU9IjQwIiByb290Tm90ZT0iNDAiIHBhdGg9IlNhbXBsZXNcRHJ1bXNcS2lja18xRS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxODAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQxIiBoaU5vdGU9IjQxIiByb290Tm90ZT0iNDEiIHBhdGg9IlNhbXBsZXNcRHJ1bXNcS2lja18xRi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxMjAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQyIiBoaU5vdGU9IjQyIiByb290Tm90ZT0iNDIiIHBhdGg9IlNhbXBsZXNcRHJ1bXNcS2lja18xRiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTIwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0MyIgaGlOb3RlPSI0MyIgcm9vdE5vdGU9IjQzIiBwYXRoPSJTYW1wbGVzXERydW1zXFNuYXJlXzFHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjI0OTgiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NCIgaGlOb3RlPSI0NCIgcm9vdE5vdGU9IjQ0IiBwYXRoPSJTYW1wbGVzXERydW1zXFNuYXJlXzFHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNTAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDUiIGhpTm90ZT0iNDUiIHJvb3ROb3RlPSI0NSIgcGF0aD0iU2FtcGxlc1xEcnVtc1xTbmFyZV8xQS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyNDUwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDYiIGhpTm90ZT0iNDYiIHJvb3ROb3RlPSI0NiIgcGF0aD0iU2FtcGxlc1xEcnVtc1xTbmFyZV8xQSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMjg3MCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQ3IiBoaU5vdGU9IjQ3IiByb290Tm90ZT0iNDciIHBhdGg9IlNhbXBsZXNcRHJ1bXNcU25hcmVfMUIud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTE1NDUiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0OCIgaGlOb3RlPSI0OCIgcm9vdE5vdGU9IjQ4IiBwYXRoPSJTYW1wbGVzXERydW1zXFNuYXJlXzJDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjEzNzQwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDkiIGhpTm90ZT0iNDkiIHJvb3ROb3RlPSI0OSIgcGF0aD0iU2FtcGxlc1xEcnVtc1xIaUhhdF8yQyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTI1NSIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjUwIiBoaU5vdGU9IjUwIiByb290Tm90ZT0iNTAiIHBhdGg9IlNhbXBsZXNcRHJ1bXNcSGlIYXRfMkQud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTU5MiIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjUxIiBoaU5vdGU9IjUxIiByb290Tm90ZT0iNTEiIHBhdGg9IlNhbXBsZXNcRHJ1bXNcSGlIYXRfMkQjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjIxMTIiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MiIgaGlOb3RlPSI1MiIgcm9vdE5vdGU9IjUyIiBwYXRoPSJTYW1wbGVzXERydW1zXEhpSGF0XzJFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjQ4NjMiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MyIgaGlOb3RlPSI1MyIgcm9vdE5vdGU9IjUzIiBwYXRoPSJTYW1wbGVzXERydW1zXEhpSGF0XzJGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjEyNjU1IiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTQiIGhpTm90ZT0iNTQiIHJvb3ROb3RlPSI1NCIgcGF0aD0iU2FtcGxlc1xEcnVtc1xIaUhhdF8yRiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTMxNjciIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1NSIgaGlOb3RlPSI1NSIgcm9vdE5vdGU9IjU1IiBwYXRoPSJTYW1wbGVzXERydW1zXENsYXZlXzJHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE5NTAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1NiIgaGlOb3RlPSI1NiIgcm9vdE5vdGU9IjU2IiBwYXRoPSJTYW1wbGVzXERydW1zXENsYXZlXzJHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIyMDM0IiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTciIGhpTm90ZT0iNTciIHJvb3ROb3RlPSI1NyIgcGF0aD0iU2FtcGxlc1xEcnVtc1xDbGF2ZV8yQS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxMDg3MyIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PGVmZmVjdHMvPjwvZ3JvdXA+PC9ncm91cHM+PGVmZmVjdHM+PGVmZmVjdCB0eXBlPSJsb3dwYXNzIiBmcmVxdWVuY3k9IjE1MDAwLjAiIGVuYWJsZWQ9IjAiLz48ZWZmZWN0IHR5cGU9ImNvbnZvbHV0aW9uIiB3ZXRMZXZlbD0iMC4wIiBpckZpbGU9IklSL1NwYWNlLndhdiIgbWl4PSIwLjAiIGVuYWJsZWQ9IjAiLz48L2VmZmVjdHM+PG1pZGk+PHZlbG9jaXR5PjxiaW5kaW5nIG1vZEFtb3VudD0iMC41IiBsZXZlbD0iZ3JvdXAiIHBhcmFtZXRlcj0iQU1QX1ZPTFVNRSIgdHlwZT0iYW1wIi8+PC92ZWxvY2l0eT48L21pZGk+PG1vZHVsYXRvcnMvPjx0YWdzLz48bm90ZVNlcXVlbmNlcy8+PC9EZWNlbnRTYW1wbGVyPgA=">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+            <elvol att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elcut att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elres att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp="0" arp-enabled="0" arprepeats="1" arptime_denominator="4" arpskip="0" arpdir="0" arprange="1" arptime="200" arpcycle="0" arptime_syncmode="0" arptime_numerator="4" arpmode="0" arpgate="100" arpmiss="0"/>
+          <midiport outputprogram="1" fixedinputvelocity="-1" fixedoutputvelocity="-1" outputcontroller="0" writable="0" inputcontroller="0" readable="1" inports="" outputchannel="1" basevelocity="63" inputchannel="0" fixedoutputnote="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" muted="0" pos="0" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="49"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="36" key="54"/>
+          <note vol="100" pan="0" len="12" pos="48" key="55"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="46"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="132" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="156" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="180" key="55"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="204" key="49"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="228" key="54"/>
+          <note vol="100" pan="0" len="12" pos="240" key="55"/>
+          <note vol="100" pan="0" len="12" pos="252" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="276" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="46"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="54"/>
+          <note vol="100" pan="0" len="12" pos="348" key="55"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="372" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="384" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="50"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="53"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="50"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="53"/>
+          <note vol="100" pan="0" len="12" pos="144" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="50"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="53"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="288" key="50"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="43"/>
+          <note vol="100" pan="0" len="12" pos="360" key="55"/>
+          <note vol="100" pan="0" len="12" pos="360" key="53"/>
+          <note vol="100" pan="0" len="12" pos="360" key="50"/>
+          <note vol="100" pan="0" len="12" pos="372" key="50"/>
+          <note vol="100" pan="0" len="12" pos="372" key="43"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="768" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="55"/>
+          <note vol="100" pan="0" len="12" pos="24" key="43"/>
+          <note vol="100" pan="0" len="12" pos="36" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="53"/>
+          <note vol="100" pan="0" len="12" pos="60" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="43"/>
+          <note vol="100" pan="0" len="12" pos="84" key="55"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="108" key="55"/>
+          <note vol="100" pan="0" len="12" pos="120" key="43"/>
+          <note vol="100" pan="0" len="12" pos="132" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="53"/>
+          <note vol="100" pan="0" len="12" pos="156" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="43"/>
+          <note vol="100" pan="0" len="12" pos="180" key="55"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="204" key="55"/>
+          <note vol="100" pan="0" len="12" pos="216" key="43"/>
+          <note vol="100" pan="0" len="12" pos="228" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="53"/>
+          <note vol="100" pan="0" len="12" pos="252" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="43"/>
+          <note vol="100" pan="0" len="12" pos="276" key="55"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="55"/>
+          <note vol="100" pan="0" len="12" pos="312" key="43"/>
+          <note vol="100" pan="0" len="12" pos="324" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="53"/>
+          <note vol="100" pan="0" len="12" pos="348" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="43"/>
+          <note vol="100" pan="0" len="12" pos="372" key="55"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1152" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="36" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="228" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="43"/>
+          <note vol="100" pan="0" len="12" pos="348" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="372" key="49"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="4992" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="43"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="43"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="43"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1536" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="72" key="43"/>
+          <note vol="100" pan="0" len="12" pos="84" key="55"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="55"/>
+          <note vol="100" pan="0" len="12" pos="120" key="43"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="53"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="43"/>
+          <note vol="100" pan="0" len="12" pos="276" key="55"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="55"/>
+          <note vol="100" pan="0" len="12" pos="312" key="43"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="53"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="348" key="36"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="43"/>
+          <note vol="100" pan="0" len="12" pos="372" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="3264" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="39"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="39"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="6912" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="43"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="49"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="324" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="7296" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="43"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="49"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="324" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="7680" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="43"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="49"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="324" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="8064" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="43"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="49"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="324" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+        </midiclip>
+      </track>
+      <track solo="0" name="DecentSampler" muted="0" mutedBeforeSolo="0" type="0">
+        <instrumenttrack mixch="0" firstkey="0" range_import="1" pitchrange="1" basenote="69" enabled="0" enablecc="0" usemasterpitch="1" keymap="0" vol="99.2" pitch="0" pan="0" lastkey="127" scale="0">
+          <midicontrollers cc34="0" cc0="0" cc54="0" cc59="0" cc89="0" cc107="0" cc6="0" cc30="0" cc126="0" cc22="0" cc71="0" cc77="0" cc19="0" cc44="0" cc14="0" cc27="0" cc80="0" cc36="0" cc26="0" cc3="0" cc48="0" cc105="0" cc35="0" cc10="0" cc124="0" cc7="0" cc41="0" cc60="0" cc73="0" cc16="0" cc78="0" cc53="0" cc38="0" cc114="0" cc87="0" cc101="0" cc108="0" cc31="0" cc88="0" cc125="0" cc76="0" cc120="0" cc99="0" cc98="0" cc117="0" cc121="0" cc113="0" cc127="0" cc94="0" cc118="0" cc20="0" cc85="0" cc52="0" cc63="0" cc69="0" cc81="0" cc49="0" cc67="0" cc91="0" cc51="0" cc55="0" cc65="0" cc40="0" cc12="0" cc15="0" cc111="0" cc29="0" cc50="0" cc39="0" cc97="0" cc9="0" cc75="0" cc115="0" cc11="0" cc58="0" cc112="0" cc25="0" cc122="0" cc4="0" cc84="0" cc1="0" cc82="0" cc93="0" cc24="0" cc32="0" cc106="0" cc86="0" cc47="0" cc96="0" cc64="0" cc109="0" cc102="0" cc104="0" cc116="0" cc83="0" cc2="0" cc79="0" cc17="0" cc110="0" cc33="0" cc92="0" cc103="0" cc66="0" cc45="0" cc21="0" cc62="0" cc5="0" cc100="0" cc56="0" cc18="0" cc90="0" cc95="0" cc123="0" cc8="0" cc42="0" cc57="0" cc46="0" cc37="0" cc72="0" cc74="0" cc43="0" cc23="0" cc13="0" cc70="0" cc68="0" cc61="0" cc119="0" cc28="0"/>
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/DecentSampler/DecentSampler.dll" guivisible="0" chunk="VkMyIUx9AAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8RGVjZW50U2FtcGxlciBfc2FtcGxlUGF0aD0iQzpcVXNlcnNcZGlub1xBcHBEYXRhXExvY2FsXFRlbXBcRGVjZW50U2FtcGxlclx0ZW1wXzc2M2FlNWYzIiBfcHJlc2V0TmFtZT0iU29uaWNTdHJpbmdzIiBfbGlicmFyeVVybD0iZmlsZTovLy9DJTNBL1VzZXJzL2Rpbm8vQXBwRGF0YS9Mb2NhbC9UZW1wL0RlY2VudFNhbXBsZXIvdGVtcF83NjNhZTVmMy9Tb25pY1N0cmluZ3MuZHNwcmVzZXQiIF9saWJyYXJ5Q2Fub25pY2FsVXJsPSJmaWxlOi8vL0MlM0EvVlNUMzIvRGVjZW50U2FtcGxlci9PbW5pLTg0JTIwMS4xLnppcCIgX3NhbXBsZUxpYnJhcnlJZD0iLTEiIF9saWJyYXJ5Qm9va21hcms9IjAuIiBfdHVuaW5nQTY5RnJlcXVlbmN5PSI0NDAuMCI+PHVpIGJnSW1hZ2U9IlJlc291cmNlcy9iYWNrZ3JvdW5kX3Nvbmljc3RyaW5ncy5qcGciIHdpZHRoPSI4MTIiIGhlaWdodD0iMzc1IiBsYXlvdXRNb2RlPSJyZWxhdGl2ZSIgYmdNb2RlPSJ0b3BfbGVmdCI+PHRhYiBuYW1lPSJtYWluIj48Y29udHJvbCB4PSIzMjMiIHk9IjM3IiB3aWR0aD0iNDkiIGhlaWdodD0iNDkiIHBhcmFtZXRlck5hbWU9IlZvaWNlMSIgdHlwZT0iZmxvYXQiIG1pblZhbHVlPSIwIiBtYXhWYWx1ZT0iMiIgdGV4dENvbG9yPSJGRjAwMDAwMCIgdmFsdWU9IjEuMCIgc3R5bGU9ImN1c3RvbV9za2luX3ZlcnRpY2FsX2RyYWciIGN1c3RvbVNraW5JbWFnZT0iUmVzb3VyY2VzL0tub2IucG5nIiBjdXN0b21Ta2luTnVtRnJhbWVzPSIxMDEiIGN1c3RvbVNraW5JbWFnZU9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgbW91c2VEcmFnU2Vuc2l0aXZpdHk9IjEwMCIgX2luZGV4PSIwIiBfdWlkPSJxZkpjbVNHalZ6RSI+PGJpbmRpbmcgdHlwZT0iYW1wIiBsZXZlbD0iZ3JvdXAiIHBvc2l0aW9uPSIwIiBwYXJhbWV0ZXI9IkFNUF9WT0xVTUUiLz48L2NvbnRyb2w+PGNvbnRyb2wgeD0iNDE3IiB5PSIzNyIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJWb2ljZTIiIHR5cGU9ImZsb2F0IiBtaW5WYWx1ZT0iMCIgbWF4VmFsdWU9IjIiIHRleHRDb2xvcj0iRkYwMDAwMDAiIHZhbHVlPSIxLjAiIHN0eWxlPSJjdXN0b21fc2tpbl92ZXJ0aWNhbF9kcmFnIiBjdXN0b21Ta2luSW1hZ2U9IlJlc291cmNlcy9Lbm9iLnBuZyIgY3VzdG9tU2tpbk51bUZyYW1lcz0iMTAxIiBjdXN0b21Ta2luSW1hZ2VPcmllbnRhdGlvbj0idmVydGljYWwiIG1vdXNlRHJhZ1NlbnNpdGl2aXR5PSIxMDAiIF9pbmRleD0iMSIgX3VpZD0iUXVLQWppY2VTbE4iPjxiaW5kaW5nIHR5cGU9ImFtcCIgbGV2ZWw9Imdyb3VwIiBwb3NpdGlvbj0iMSIgcGFyYW1ldGVyPSJBTVBfVk9MVU1FIi8+PC9jb250cm9sPjxjb250cm9sIHg9IjUxMSIgeT0iMzciIHdpZHRoPSI0OSIgaGVpZ2h0PSI0OSIgcGFyYW1ldGVyTmFtZT0iU3VzdGFpbiIgdHlwZT0iZmxvYXQiIG1pblZhbHVlPSIuMjUiIG1heFZhbHVlPSI2IiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMS4wIiBzdHlsZT0iY3VzdG9tX3NraW5fdmVydGljYWxfZHJhZyIgY3VzdG9tU2tpbkltYWdlPSJSZXNvdXJjZXMvS25vYi5wbmciIGN1c3RvbVNraW5OdW1GcmFtZXM9IjEwMSIgY3VzdG9tU2tpbkltYWdlT3JpZW50YXRpb249InZlcnRpY2FsIiBtb3VzZURyYWdTZW5zaXRpdml0eT0iMTAwIiBfaW5kZXg9IjIiIF91aWQ9Im5KVm9JcWl6YldjIj48YmluZGluZyB0eXBlPSJhbXAiIGxldmVsPSJpbnN0cnVtZW50IiBwb3NpdGlvbj0iMCIgcGFyYW1ldGVyPSJFTlZfREVDQVkiLz48YmluZGluZyB0eXBlPSJhbXAiIGxldmVsPSJpbnN0cnVtZW50IiBwb3NpdGlvbj0iMCIgcGFyYW1ldGVyPSJFTlZfUkVMRUFTRSIvPjwvY29udHJvbD48Y29udHJvbCB4PSI0MTciIHk9IjE0MCIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJMb3dwYXNzIiB0eXBlPSJmbG9hdCIgbWluVmFsdWU9IjE1MCIgbWF4VmFsdWU9IjE1MDAwIiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMTUwMDAuMCIgc3R5bGU9ImN1c3RvbV9za2luX3ZlcnRpY2FsX2RyYWciIGN1c3RvbVNraW5JbWFnZT0iUmVzb3VyY2VzL0tub2IucG5nIiBjdXN0b21Ta2luTnVtRnJhbWVzPSIxMDEiIGN1c3RvbVNraW5JbWFnZU9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIgbW91c2VEcmFnU2Vuc2l0aXZpdHk9IjEwMCIgX2luZGV4PSIzIiBfdWlkPSJ4WlI5Y2VWVGt2cSI+PGJpbmRpbmcgdHlwZT0iZWZmZWN0IiBsZXZlbD0iaW5zdHJ1bWVudCIgcG9zaXRpb249IjAiIHBhcmFtZXRlcj0iRlhfRklMVEVSX0ZSRVFVRU5DWSIvPjwvY29udHJvbD48Y29udHJvbCB4PSI1MTAiIHk9IjE0MCIgd2lkdGg9IjQ5IiBoZWlnaHQ9IjQ5IiBwYXJhbWV0ZXJOYW1lPSJSZXZlcmIiIHR5cGU9InBlcmNlbnQiIG1pblZhbHVlPSIwIiBtYXhWYWx1ZT0iMTAwIiB0ZXh0Q29sb3I9IkZGMDAwMDAwIiB2YWx1ZT0iMC4wIiBzdHlsZT0iY3VzdG9tX3NraW5fdmVydGljYWxfZHJhZyIgY3VzdG9tU2tpbkltYWdlPSJSZXNvdXJjZXMvS25vYi5wbmciIGN1c3RvbVNraW5OdW1GcmFtZXM9IjEwMSIgY3VzdG9tU2tpbkltYWdlT3JpZW50YXRpb249InZlcnRpY2FsIiBtb3VzZURyYWdTZW5zaXRpdml0eT0iMTAwIiBfaW5kZXg9IjQiIF91aWQ9IkZ2SUVQU0lRZVZtIj48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBwb3NpdGlvbj0iMSIgcGFyYW1ldGVyPSJGWF9NSVgiIGZhY3Rvcj0iMC4wMSIvPjwvY29udHJvbD48YnV0dG9uIHg9IjMyMyIgeT0iMTQ1IiB3aWR0aD0iNDUiIGhlaWdodD0iNDEiIHN0eWxlPSJpbWFnZSIgdmFsdWU9IjAiIF9pbmRleD0iNSI+PHN0YXRlIG5hbWU9Ik9mZiIgbWFpbkltYWdlPSJSZXNvdXJjZXMvYnV0dG9uX2JsdWUtb2ZmLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9mZi5wbmciIGNsaWNrSW1hZ2U9IlJlc291cmNlcy9idXR0b25fYmx1ZS1vbi5wbmciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIwIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0iZmFsc2UiLz48YmluZGluZyB0eXBlPSJlZmZlY3QiIGxldmVsPSJpbnN0cnVtZW50IiBlZmZlY3RJbmRleD0iMSIgcGFyYW1ldGVyPSJFTkFCTEVEIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9ImZhbHNlIi8+PGJpbmRpbmcgdHlwZT0iY29udHJvbCIgbGV2ZWw9InVpIiBwb3NpdGlvbj0iNiIgcGFyYW1ldGVyPSJQQVRIIiB0cmFuc2xhdGlvbj0iZml4ZWRfdmFsdWUiIHRyYW5zbGF0aW9uVmFsdWU9IlJlc291cmNlcy9saWdodF9vZmYucG5nIi8+PC9zdGF0ZT48c3RhdGUgbmFtZT0iT24iIG1haW5JbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyIgaG92ZXJJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9uLnBuZyIgY2xpY2tJbWFnZT0iUmVzb3VyY2VzL2J1dHRvbl9ibHVlLW9mZi5wbmciPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIwIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0idHJ1ZSIvPjxiaW5kaW5nIHR5cGU9ImVmZmVjdCIgbGV2ZWw9Imluc3RydW1lbnQiIGVmZmVjdEluZGV4PSIxIiBwYXJhbWV0ZXI9IkVOQUJMRUQiIHRyYW5zbGF0aW9uPSJmaXhlZF92YWx1ZSIgdHJhbnNsYXRpb25WYWx1ZT0idHJ1ZSIvPjxiaW5kaW5nIHR5cGU9ImNvbnRyb2wiIGxldmVsPSJ1aSIgcG9zaXRpb249IjYiIHBhcmFtZXRlcj0iUEFUSCIgdHJhbnNsYXRpb249ImZpeGVkX3ZhbHVlIiB0cmFuc2xhdGlvblZhbHVlPSJSZXNvdXJjZXMvbGlnaHRfb24ucG5nIi8+PC9zdGF0ZT48L2J1dHRvbj48aW1hZ2UgeD0iMzAyIiB5PSIxMTkiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgcGF0aD0iUmVzb3VyY2VzL2xpZ2h0X29mZi5wbmciIGFzcGVjdFJhdGlvTW9kZT0icHJlc2VydmUiIF9pbmRleD0iNiIvPjwvdGFiPjxrZXlib2FyZD48Y29sb3IgbG9Ob3RlPSI0MiIgaGlOb3RlPSIxMDEiIGNvbG9yPSJGRmI3YjVhZSIvPjwva2V5Ym9hcmQ+PC91aT48Z3JvdXBzIGF0dGFjaz0iMC4wMDAiIGRlY2F5PSIxLjAiIHN1c3RhaW49IjAiIHJlbGVhc2U9IjEuMCIgdm9sdW1lPSIxIiBhbXBWZWxUcmFjaz0iMCI+PGdyb3VwIG1vZFZvbHVtZT0iMS4wIj48c2FtcGxlIGxvTm90ZT0iNDIiIGhpTm90ZT0iNDIiIHJvb3ROb3RlPSI0MiIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfMUYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQzIiBoaU5vdGU9IjQzIiByb290Tm90ZT0iNDMiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzFHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQ0IiBoaU5vdGU9IjQ0IiByb290Tm90ZT0iNDQiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzFHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NSIgaGlOb3RlPSI0NSIgcm9vdE5vdGU9IjQ1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8xQS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NiIgaGlOb3RlPSI0NiIgcm9vdE5vdGU9IjQ2IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8xQSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDciIGhpTm90ZT0iNDciIHJvb3ROb3RlPSI0NyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfMUIud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDgiIGhpTm90ZT0iNDgiIHJvb3ROb3RlPSI0OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfMkMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDkiIGhpTm90ZT0iNDkiIHJvb3ROb3RlPSI0OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfMkMjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjUwIiBoaU5vdGU9IjUwIiByb290Tm90ZT0iNTAiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzJELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjUxIiBoaU5vdGU9IjUxIiByb290Tm90ZT0iNTEiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzJEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MiIgaGlOb3RlPSI1MiIgcm9vdE5vdGU9IjUyIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8yRS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MyIgaGlOb3RlPSI1MyIgcm9vdE5vdGU9IjUzIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8yRi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1NCIgaGlOb3RlPSI1NCIgcm9vdE5vdGU9IjU0IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8yRiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTUiIGhpTm90ZT0iNTUiIHJvb3ROb3RlPSI1NSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfMkcud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTYiIGhpTm90ZT0iNTYiIHJvb3ROb3RlPSI1NiIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfMkcjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU3IiBoaU5vdGU9IjU3IiByb290Tm90ZT0iNTciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzJBLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU4IiBoaU5vdGU9IjU4IiByb290Tm90ZT0iNTgiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzJBIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1OSIgaGlOb3RlPSI1OSIgcm9vdE5vdGU9IjU5IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8yQi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2MCIgaGlOb3RlPSI2MCIgcm9vdE5vdGU9IjYwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8zQy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2MSIgaGlOb3RlPSI2MSIgcm9vdE5vdGU9IjYxIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8zQyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjIiIGhpTm90ZT0iNjIiIHJvb3ROb3RlPSI2MiIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfM0Qud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjMiIGhpTm90ZT0iNjMiIHJvb3ROb3RlPSI2MyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfM0QjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjY0IiBoaU5vdGU9IjY0IiByb290Tm90ZT0iNjQiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzNFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjY1IiBoaU5vdGU9IjY1IiByb290Tm90ZT0iNjUiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzNGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjY2IiBoaU5vdGU9IjY2IiByb290Tm90ZT0iNjYiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzNGIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2NyIgaGlOb3RlPSI2NyIgcm9vdE5vdGU9IjY3IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8zRy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2OCIgaGlOb3RlPSI2OCIgcm9vdE5vdGU9IjY4IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV8zRyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjkiIGhpTm90ZT0iNjkiIHJvb3ROb3RlPSI2OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfM0Eud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzAiIGhpTm90ZT0iNzAiIHJvb3ROb3RlPSI3MCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfM0EjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjcxIiBoaU5vdGU9IjcxIiByb290Tm90ZT0iNzEiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzNCLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjcyIiBoaU5vdGU9IjcyIiByb290Tm90ZT0iNzIiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzRDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjczIiBoaU5vdGU9IjczIiByb290Tm90ZT0iNzMiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzRDIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3NCIgaGlOb3RlPSI3NCIgcm9vdE5vdGU9Ijc0IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV80RC53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3NSIgaGlOb3RlPSI3NSIgcm9vdE5vdGU9Ijc1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV80RCMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzYiIGhpTm90ZT0iNzYiIHJvb3ROb3RlPSI3NiIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNEUud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzciIGhpTm90ZT0iNzciIHJvb3ROb3RlPSI3NyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNEYud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzgiIGhpTm90ZT0iNzgiIHJvb3ROb3RlPSI3OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNEYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijc5IiBoaU5vdGU9Ijc5IiByb290Tm90ZT0iNzkiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzRHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjgwIiBoaU5vdGU9IjgwIiByb290Tm90ZT0iODAiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzRHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4MSIgaGlOb3RlPSI4MSIgcm9vdE5vdGU9IjgxIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV80QS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4MiIgaGlOb3RlPSI4MiIgcm9vdE5vdGU9IjgyIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV80QSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODMiIGhpTm90ZT0iODMiIHJvb3ROb3RlPSI4MyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNEIud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODQiIGhpTm90ZT0iODQiIHJvb3ROb3RlPSI4NCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNUMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODUiIGhpTm90ZT0iODUiIHJvb3ROb3RlPSI4NSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNUMjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijg2IiBoaU5vdGU9Ijg2IiByb290Tm90ZT0iODYiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzVELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijg3IiBoaU5vdGU9Ijg3IiByb290Tm90ZT0iODciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzVEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4OCIgaGlOb3RlPSI4OCIgcm9vdE5vdGU9Ijg4IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV81RS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4OSIgaGlOb3RlPSI4OSIgcm9vdE5vdGU9Ijg5IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV81Ri53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5MCIgaGlOb3RlPSI5MCIgcm9vdE5vdGU9IjkwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV81RiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTEiIGhpTm90ZT0iOTEiIHJvb3ROb3RlPSI5MSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNUcud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTIiIGhpTm90ZT0iOTIiIHJvb3ROb3RlPSI5MiIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNUcjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjkzIiBoaU5vdGU9IjkzIiByb290Tm90ZT0iOTMiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzVBLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijk0IiBoaU5vdGU9Ijk0IiByb290Tm90ZT0iOTQiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzVBIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5NSIgaGlOb3RlPSI5NSIgcm9vdE5vdGU9Ijk1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV81Qi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5NiIgaGlOb3RlPSI5NiIgcm9vdE5vdGU9Ijk2IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV82Qy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2dyb3VwSW5kZXg9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5NyIgaGlOb3RlPSI5NyIgcm9vdE5vdGU9Ijk3IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTFcU29uaWNTdHJpbmdzMV82QyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTgiIGhpTm90ZT0iOTgiIHJvb3ROb3RlPSI5OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNkQud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9ncm91cEluZGV4PSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTkiIGhpTm90ZT0iOTkiIHJvb3ROb3RlPSI5OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UxXFNvbmljU3RyaW5nczFfNkQjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjEwMCIgaGlOb3RlPSIxMDAiIHJvb3ROb3RlPSIxMDAiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzZFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjEwMSIgaGlOb3RlPSIxMDEiIHJvb3ROb3RlPSIxMDEiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMVxTb25pY1N0cmluZ3MxXzZGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZ3JvdXBJbmRleD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PGVmZmVjdHMvPjwvZ3JvdXA+PGdyb3VwIG1vZFZvbHVtZT0iMS4wIj48c2FtcGxlIGxvTm90ZT0iNDIiIGhpTm90ZT0iNDIiIHJvb3ROb3RlPSI0MiIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfMUYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDMiIGhpTm90ZT0iNDMiIHJvb3ROb3RlPSI0MyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfMUcud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NCIgaGlOb3RlPSI0NCIgcm9vdE5vdGU9IjQ0IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8xRyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0NSIgaGlOb3RlPSI0NSIgcm9vdE5vdGU9IjQ1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8xQS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQ2IiBoaU5vdGU9IjQ2IiByb290Tm90ZT0iNDYiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzFBIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjQ3IiBoaU5vdGU9IjQ3IiByb290Tm90ZT0iNDciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzFCLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNDgiIGhpTm90ZT0iNDgiIHJvb3ROb3RlPSI0OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfMkMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI0OSIgaGlOb3RlPSI0OSIgcm9vdE5vdGU9IjQ5IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8yQyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1MCIgaGlOb3RlPSI1MCIgcm9vdE5vdGU9IjUwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8yRC53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjUxIiBoaU5vdGU9IjUxIiByb290Tm90ZT0iNTEiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzJEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjUyIiBoaU5vdGU9IjUyIiByb290Tm90ZT0iNTIiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzJFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTMiIGhpTm90ZT0iNTMiIHJvb3ROb3RlPSI1MyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfMkYud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1NCIgaGlOb3RlPSI1NCIgcm9vdE5vdGU9IjU0IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8yRiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI1NSIgaGlOb3RlPSI1NSIgcm9vdE5vdGU9IjU1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8yRy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU2IiBoaU5vdGU9IjU2IiByb290Tm90ZT0iNTYiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzJHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjU3IiBoaU5vdGU9IjU3IiByb290Tm90ZT0iNTciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzJBLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTgiIGhpTm90ZT0iNTgiIHJvb3ROb3RlPSI1OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfMkEjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNTkiIGhpTm90ZT0iNTkiIHJvb3ROb3RlPSI1OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfMkIud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2MCIgaGlOb3RlPSI2MCIgcm9vdE5vdGU9IjYwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8zQy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjYxIiBoaU5vdGU9IjYxIiByb290Tm90ZT0iNjEiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzNDIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjYyIiBoaU5vdGU9IjYyIiByb290Tm90ZT0iNjIiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzNELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjMiIGhpTm90ZT0iNjMiIHJvb3ROb3RlPSI2MyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfM0QjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjQiIGhpTm90ZT0iNjQiIHJvb3ROb3RlPSI2NCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfM0Uud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI2NSIgaGlOb3RlPSI2NSIgcm9vdE5vdGU9IjY1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8zRi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjY2IiBoaU5vdGU9IjY2IiByb290Tm90ZT0iNjYiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzNGIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjY3IiBoaU5vdGU9IjY3IiByb290Tm90ZT0iNjciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzNHLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjgiIGhpTm90ZT0iNjgiIHJvb3ROb3RlPSI2OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfM0cjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNjkiIGhpTm90ZT0iNjkiIHJvb3ROb3RlPSI2OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfM0Eud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3MCIgaGlOb3RlPSI3MCIgcm9vdE5vdGU9IjcwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8zQSMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3MSIgaGlOb3RlPSI3MSIgcm9vdE5vdGU9IjcxIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl8zQi53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjcyIiBoaU5vdGU9IjcyIiByb290Tm90ZT0iNzIiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzRDLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzMiIGhpTm90ZT0iNzMiIHJvb3ROb3RlPSI3MyIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNEMjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzQiIGhpTm90ZT0iNzQiIHJvb3ROb3RlPSI3NCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNEQud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3NSIgaGlOb3RlPSI3NSIgcm9vdE5vdGU9Ijc1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl80RCMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI3NiIgaGlOb3RlPSI3NiIgcm9vdE5vdGU9Ijc2IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl80RS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijc3IiBoaU5vdGU9Ijc3IiByb290Tm90ZT0iNzciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzRGLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzgiIGhpTm90ZT0iNzgiIHJvb3ROb3RlPSI3OCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNEYjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iNzkiIGhpTm90ZT0iNzkiIHJvb3ROb3RlPSI3OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNEcud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4MCIgaGlOb3RlPSI4MCIgcm9vdE5vdGU9IjgwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl80RyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4MSIgaGlOb3RlPSI4MSIgcm9vdE5vdGU9IjgxIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl80QS53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjgyIiBoaU5vdGU9IjgyIiByb290Tm90ZT0iODIiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzRBIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjgzIiBoaU5vdGU9IjgzIiByb290Tm90ZT0iODMiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzRCLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODQiIGhpTm90ZT0iODQiIHJvb3ROb3RlPSI4NCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNUMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4NSIgaGlOb3RlPSI4NSIgcm9vdE5vdGU9Ijg1IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl81QyMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI4NiIgaGlOb3RlPSI4NiIgcm9vdE5vdGU9Ijg2IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl81RC53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijg3IiBoaU5vdGU9Ijg3IiByb290Tm90ZT0iODciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzVEIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijg4IiBoaU5vdGU9Ijg4IiByb290Tm90ZT0iODgiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzVFLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iODkiIGhpTm90ZT0iODkiIHJvb3ROb3RlPSI4OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNUYud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5MCIgaGlOb3RlPSI5MCIgcm9vdE5vdGU9IjkwIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl81RiMud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5MSIgaGlOb3RlPSI5MSIgcm9vdE5vdGU9IjkxIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl81Ry53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjkyIiBoaU5vdGU9IjkyIiByb290Tm90ZT0iOTIiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzVHIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9IjkzIiBoaU5vdGU9IjkzIiByb290Tm90ZT0iOTMiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzVBLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTQiIGhpTm90ZT0iOTQiIHJvb3ROb3RlPSI5NCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNUEjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTUiIGhpTm90ZT0iOTUiIHJvb3ROb3RlPSI5NSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNUIud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSI5NiIgaGlOb3RlPSI5NiIgcm9vdE5vdGU9Ijk2IiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl82Qy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijk3IiBoaU5vdGU9Ijk3IiByb290Tm90ZT0iOTciIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzZDIy53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PHNhbXBsZSBsb05vdGU9Ijk4IiBoaU5vdGU9Ijk4IiByb290Tm90ZT0iOTgiIHBhdGg9IlNhbXBsZXNcU29uaWNTdHJpbmdzXFZvaWNlMlxTb25pY1N0cmluZ3MyXzZELndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iOTkiIGhpTm90ZT0iOTkiIHJvb3ROb3RlPSI5OSIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNkQjLndhdiIgbGVuZ3RoPSI4MDU4ODgiIHNhbXBsZVJhdGU9IjQ4MDAwLjAiIHBpdGNoS2V5VHJhY2s9IjAiIGxvb3BFbmFibGVkPSIwIiBfZmlsZUxlbmd0aD0iMTQ0MDAwIiBfZmlsZVNhbXBsZVJhdGU9IjQ4MDAwLjAiLz48c2FtcGxlIGxvTm90ZT0iMTAwIiBoaU5vdGU9IjEwMCIgcm9vdE5vdGU9IjEwMCIgcGF0aD0iU2FtcGxlc1xTb25pY1N0cmluZ3NcVm9pY2UyXFNvbmljU3RyaW5nczJfNkUud2F2IiBsZW5ndGg9IjgwNTg4OCIgc2FtcGxlUmF0ZT0iNDgwMDAuMCIgcGl0Y2hLZXlUcmFjaz0iMCIgbG9vcEVuYWJsZWQ9IjAiIF9maWxlTGVuZ3RoPSIxNDQwMDAiIF9maWxlU2FtcGxlUmF0ZT0iNDgwMDAuMCIvPjxzYW1wbGUgbG9Ob3RlPSIxMDEiIGhpTm90ZT0iMTAxIiByb290Tm90ZT0iMTAxIiBwYXRoPSJTYW1wbGVzXFNvbmljU3RyaW5nc1xWb2ljZTJcU29uaWNTdHJpbmdzMl82Ri53YXYiIGxlbmd0aD0iODA1ODg4IiBzYW1wbGVSYXRlPSI0ODAwMC4wIiBwaXRjaEtleVRyYWNrPSIwIiBsb29wRW5hYmxlZD0iMCIgX2ZpbGVMZW5ndGg9IjE0NDAwMCIgX2ZpbGVTYW1wbGVSYXRlPSI0ODAwMC4wIi8+PGVmZmVjdHMvPjwvZ3JvdXA+PC9ncm91cHM+PGVmZmVjdHM+PGVmZmVjdCB0eXBlPSJsb3dwYXNzIiBmcmVxdWVuY3k9IjE1MDAwLjAiIGVuYWJsZWQ9IjAiLz48ZWZmZWN0IHR5cGU9ImNvbnZvbHV0aW9uIiB3ZXRMZXZlbD0iMC4wIiBpckZpbGU9IklSL1NwYWNlLndhdiIgbWl4PSIwLjAiIGVuYWJsZWQ9IjAiLz48L2VmZmVjdHM+PG1pZGkvPjxtb2R1bGF0b3JzLz48dGFncy8+PG5vdGVTZXF1ZW5jZXMvPjwvRGVjZW50U2FtcGxlcj4A">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata ftype="0" fres="0.5" fcut="14000" fwet="0">
+            <elvol att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elcut att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+            <elres att="0" lspd="0.1" hold="0.5" pdel="0" dec="0.5" ctlenvamt="0" lamt="0" lpdel="0" amt="0" lspd_numerator="4" x100="0" latt="0" lspd_syncmode="0" userwavefile="" sustain="0.5" lspd_denominator="4" lshp="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp="0" arp-enabled="0" arprepeats="1" arptime_denominator="4" arpskip="0" arpdir="0" arprange="1" arptime="200" arpcycle="0" arptime_syncmode="0" arptime_numerator="4" arpmode="0" arpgate="100" arpmiss="0"/>
+          <midiport outputprogram="1" fixedinputvelocity="-1" fixedoutputvelocity="-1" outputcontroller="0" writable="0" inputcontroller="0" readable="1" inports="" outputchannel="1" basevelocity="63" inputchannel="0" fixedoutputnote="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" muted="0" pos="0" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="49"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="36" key="54"/>
+          <note vol="100" pan="0" len="12" pos="48" key="55"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="46"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="132" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="156" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="36"/>
+          <note vol="100" pan="0" len="12" pos="180" key="55"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="204" key="49"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="228" key="54"/>
+          <note vol="100" pan="0" len="12" pos="240" key="55"/>
+          <note vol="100" pan="0" len="12" pos="252" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="276" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="46"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="54"/>
+          <note vol="100" pan="0" len="12" pos="348" key="55"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="372" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="384" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="50"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="53"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="96" key="50"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="53"/>
+          <note vol="100" pan="0" len="12" pos="144" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="50"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="53"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="288" key="50"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="43"/>
+          <note vol="100" pan="0" len="12" pos="360" key="55"/>
+          <note vol="100" pan="0" len="12" pos="360" key="53"/>
+          <note vol="100" pan="0" len="12" pos="360" key="50"/>
+          <note vol="100" pan="0" len="12" pos="372" key="50"/>
+          <note vol="100" pan="0" len="12" pos="372" key="43"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="768" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="12" key="55"/>
+          <note vol="100" pan="0" len="12" pos="24" key="43"/>
+          <note vol="100" pan="0" len="12" pos="36" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="53"/>
+          <note vol="100" pan="0" len="12" pos="60" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="43"/>
+          <note vol="100" pan="0" len="12" pos="84" key="55"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="108" key="55"/>
+          <note vol="100" pan="0" len="12" pos="120" key="43"/>
+          <note vol="100" pan="0" len="12" pos="132" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="53"/>
+          <note vol="100" pan="0" len="12" pos="156" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="43"/>
+          <note vol="100" pan="0" len="12" pos="180" key="55"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="204" key="55"/>
+          <note vol="100" pan="0" len="12" pos="216" key="43"/>
+          <note vol="100" pan="0" len="12" pos="228" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="53"/>
+          <note vol="100" pan="0" len="12" pos="252" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="43"/>
+          <note vol="100" pan="0" len="12" pos="276" key="55"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="300" key="55"/>
+          <note vol="100" pan="0" len="12" pos="312" key="43"/>
+          <note vol="100" pan="0" len="12" pos="324" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="53"/>
+          <note vol="100" pan="0" len="12" pos="348" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="43"/>
+          <note vol="100" pan="0" len="12" pos="372" key="55"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1152" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="36" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="228" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="43"/>
+          <note vol="100" pan="0" len="12" pos="348" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="372" key="49"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="4992" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="49"/>
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="72" key="49"/>
+          <note vol="100" pan="0" len="12" pos="72" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="49"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="144" key="43"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="49"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="49"/>
+          <note vol="100" pan="0" len="12" pos="264" key="36"/>
+          <note vol="100" pan="0" len="12" pos="288" key="49"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="336" key="43"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="43"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="1536" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="24" key="49"/>
+          <note vol="100" pan="0" len="12" pos="24" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="49"/>
+          <note vol="100" pan="0" len="12" pos="48" key="43"/>
+          <note vol="100" pan="0" len="12" pos="72" key="43"/>
+          <note vol="100" pan="0" len="12" pos="84" key="55"/>
+          <note vol="100" pan="0" len="12" pos="96" key="36"/>
+          <note vol="100" pan="0" len="12" pos="120" key="55"/>
+          <note vol="100" pan="0" len="12" pos="120" key="43"/>
+          <note vol="100" pan="0" len="12" pos="120" key="36"/>
+          <note vol="100" pan="0" len="12" pos="144" key="53"/>
+          <note vol="100" pan="0" len="12" pos="144" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="49"/>
+          <note vol="100" pan="0" len="12" pos="168" key="43"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="216" key="49"/>
+          <note vol="100" pan="0" len="12" pos="216" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="49"/>
+          <note vol="100" pan="0" len="12" pos="240" key="43"/>
+          <note vol="100" pan="0" len="12" pos="264" key="43"/>
+          <note vol="100" pan="0" len="12" pos="276" key="55"/>
+          <note vol="100" pan="0" len="12" pos="288" key="36"/>
+          <note vol="100" pan="0" len="12" pos="312" key="55"/>
+          <note vol="100" pan="0" len="12" pos="312" key="43"/>
+          <note vol="100" pan="0" len="12" pos="312" key="36"/>
+          <note vol="100" pan="0" len="12" pos="336" key="53"/>
+          <note vol="100" pan="0" len="12" pos="336" key="49"/>
+          <note vol="100" pan="0" len="12" pos="348" key="36"/>
+          <note vol="100" pan="0" len="12" pos="360" key="49"/>
+          <note vol="100" pan="0" len="12" pos="360" key="43"/>
+          <note vol="100" pan="0" len="12" pos="372" key="36"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="3264" steps="16" type="1">
+          <note vol="100" pan="0" len="12" pos="0" key="36"/>
+          <note vol="100" pan="0" len="12" pos="48" key="36"/>
+          <note vol="100" pan="0" len="12" pos="96" key="39"/>
+          <note vol="100" pan="0" len="12" pos="144" key="36"/>
+          <note vol="100" pan="0" len="12" pos="192" key="36"/>
+          <note vol="100" pan="0" len="12" pos="240" key="39"/>
+        </midiclip>
+        <midiclip name="" muted="0" pos="6912" steps="16" type="1">
+          <note vol="100" pan="0" len="24" pos="0" key="52"/>
+          <note vol="100" pan="0" len="24" pos="0" key="49"/>
+          <note vol="100" pan="0" len="24" pos="192" key="49"/>
+          <note vol="100" pan="0" len="24" pos="216" key="52"/>
+          <note vol="100" pan="0" len="24" pos="240" key="56"/>
+          <note vol="100" pan="0" len="24" pos="264" key="52"/>
+          <note vol="100" pan="0" len="24" pos="264" key="49"/>
+          <note vol="100" pan="0" len="24" pos="288" key="56"/>
+          <note vol="100" pan="0" len="24" pos="288" key="52"/>
+          <note vol="100" pan="0" len="24" pos="312" key="61"/>
+          <note vol="100" pan="0" len="24" pos="312" key="56"/>
+          <note vol="100" pan="0" len="24" pos="384" key="59"/>
+          <note vol="100" pan="0" len="24" pos="384" key="56"/>
+          <note vol="100" pan="0" len="24" pos="384" key="52"/>
+          <note vol="100" pan="0" len="24" pos="384" key="51"/>
+          <note vol="100" pan="0" len="24" pos="672" key="59"/>
+          <note vol="100" pan="0" len="24" pos="696" key="57"/>
+          <note vol="100" pan="0" len="24" pos="720" key="56"/>
+          <note vol="100" pan="0" len="24" pos="768" key="57"/>
+          <note vol="100" pan="0" len="24" pos="768" key="52"/>
+          <note vol="100" pan="0" len="24" pos="768" key="49"/>
+        </midiclip>
+      </track>
+    </trackcontainer>
+    <track solo="0" name="Automation track" muted="0" mutedBeforeSolo="0" type="6">
+      <automationtrack/>
+      <automationclip prog="0" mute="0" tens="1" name="Numerator" len="192" pos="0"/>
+      <automationclip prog="0" mute="0" tens="1" name="Denominator" len="192" pos="0"/>
+      <automationclip prog="0" mute="0" tens="1" name="Tempo" len="192" pos="0"/>
+      <automationclip prog="0" mute="0" tens="1" name="Master volume" len="192" pos="0"/>
+      <automationclip prog="0" mute="0" tens="1" name="Master pitch" len="192" pos="0"/>
+    </track>
+    <mixer y="600" x="1" visible="1" width="1893" minimized="0" maximized="0" height="333">
+      <mixerchannel num="0" name="Master" muted="0" volume="1" soloed="0">
+        <fxchain enabled="0" numofeffects="0"/>
+      </mixerchannel>
+      <mixerchannel num="1" name="DecentSampler" muted="0" volume="1" soloed="0">
+        <fxchain enabled="1" numofeffects="1">
+          <effect gate="0" wet="1" name="eq" autoquit_syncmode="0" autoquit_numerator="4" autoquit="1" on="0" autoquit_denominator="4">
+            <Eq LPres="0.707" HighShelfres="1.4" HP="2" Peak2gain="0" LP12="1" Peak1bw="0.3" Outputgain="0" HPres="1.067" Highshelfactive="0" LPactive="0" Peak1active="1" HP12="0" HP48="1" AnalyseIn="1" Peak2active="0" LP48="0" Lowshelfgain="0" Peak4bw="0.3" HPactive="1" Peak3active="0" AnalyseOut="1" Peak4gain="0" HP24="0" LowShelfres="1.4" Peak2bw="0.3" Peak4active="0" LP24="0" Peak3bw="0.3" Lowshelfactive="0" HighShelfgain="0" Peak3gain="0" LP="0">
+              <Inputgain scale_type="log" id="29321" value="0"/>
+              <Peak1gain scale_type="log" id="6353" value="-18"/>
+              <HPfreq scale_type="log" id="9969" value="270.76"/>
+              <LowShelffreq scale_type="log" id="31207" value="80"/>
+              <Peak1freq scale_type="log" id="11608" value="270.716"/>
+              <Peak2freq scale_type="log" id="6012" value="250"/>
+              <Peak3freq scale_type="log" id="28514" value="2000"/>
+              <Peak4freq scale_type="log" id="31153" value="4000"/>
+              <Highshelffreq scale_type="log" id="26099" value="12000"/>
+              <LPfreq scale_type="log" id="31746" value="18000"/>
+            </Eq>
+            <key/>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </mixerchannel>
+    </mixer>
+    <ControllerRackView y="487" x="550" visible="0" width="350" minimized="0" maximized="0" height="200"/>
+    <pianoroll y="270" x="333" visible="0" width="970" minimized="0" maximized="0" height="600"/>
+    <automationeditor y="1" x="1" visible="0" width="860" minimized="0" maximized="0" height="400"/>
+    <projectnotes y="10" x="700" visible="0" width="686" minimized="0" maximized="0" height="400"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">&lt;&lt;&lt;&lt;&lt;&lt;</span></p></body></html>]]></projectnotes>
+    <timeline lp1pos="8448" lpstate="1" lp0pos="6912" stopbehaviour="1"/>
+    <controllers/>
+    <scales>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+    </scales>
+    <keymaps>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+      <keymap middle_key="60" first_key="0" base_key="69" description="empty" base_freq="440" last_key="127"/>
+    </keymaps>
+  </song>
+</lmms-project>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.3.0-alpha.1.33+g4f74151f0" version="18" creator="LMMS" type="song">
+  <head bpm="120" timesig_numerator="4" masterpitch="0" mastervol="100" timesig_denominator="4"/>
+  <song>
+    <trackcontainer x="223" height="600" y="53" maximized="0" minimized="0" width="1033" visible="1" type="song">
+      <track solo="0" mutedBeforeSolo="0" name="VST Speek" type="0" muted="0">
+        <instrumenttrack usemasterpitch="1" vol="200" pitchrange="1" fxch="2" pitch="0" basenote="57" pan="-100">
+          <instrument name="vestige">
+            <vestige chunk="c3BrM5BevLkBAQEAElRlY2hubyByZWFjdGl2YXRvci5BSEdPV0RJSE5YIFRVSCBBT0wgTk9ITiAvSExPSFMgQU9GIEFFVklZQUVZU0hOc3BrM0BIgIAAAAAABVMuQS5NFUhlbGxvIG15IE5hbWUgaXMgU0FNLnNwazNAZMiWAAAAABFFeHRyYSBUZXJyZXN0cmlhbCdIaSwgY2FuIHlvdSBzZWUgd2hlcmUgaSdtIGNvbWluZyBmcm9tID9zcGszdlJ1dAEAAAAJQmFkIFJvYm90C0V4dGVybWluYXRlc3BrMyBUl6AAAAAAD0xpdHRsZSBPbGQgTGFkeSNMZXQncyBncm9vdmUgISBNb3ZlIHlvdXIgYm9keS4gWW8uLnNwazOgUlFiAAEAAAdHb3JpbGxhO1N0b3AgdGhpcyBmdWNraW5nIGhhcmRjb3JlIGFuZCBnaXZlIG1lIHNvbWUgQ2hpY2FnbyBob3VzZSEhc3BrMydc1bABAAAADExpdHRsZSBSb2JvdBxUbyB0aGUgYmF0bW9iaWxlLCBsZXQncyBnbyEhc3BrMzxAJ/8AAAAACFBvaW5nQm95LnBvaW5nIHBvaW5nIHBvaW5nISBoYXJkY29yZSB5b3Uga25vdyB0aGUgc2NvcmVzcGszSFx9kAEAAAAMVGhlIGdvb2QgR3V5DVIhIFUhIFJlYWR5ISFzcGszNECelAEAAAAJRW5lcmdpemVyCEFuZXJnaXplc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAhc3BrM0BIh4cBAAAAB2RlZmF1bHQVdHlwZSB5b3VyIHRleHQgaGVyZSAh" plugin="uservst:Instruments/VstSpeek3/VstSpeek3.dll" guivisible="0" program="0">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" fcut="14000" fwet="0" ftype="0">
+            <elvol dec="0.5" x100="0" lpdel="0" sustain="0.5" rel="0.1" amt="0" pdel="0" lspd_syncmode="0" ctlenvamt="0" lamt="0" latt="0" lspd_numerator="4" userwavefile="" lshp="0" lspd_denominator="4" att="0" hold="0.5" lspd="0.1"/>
+            <elcut dec="0.5" x100="0" lpdel="0" sustain="0.5" rel="0.1" amt="0" pdel="0" lspd_syncmode="0" ctlenvamt="0" lamt="0" latt="0" lspd_numerator="4" userwavefile="" lshp="0" lspd_denominator="4" att="0" hold="0.5" lspd="0.1"/>
+            <elres dec="0.5" x100="0" lpdel="0" sustain="0.5" rel="0.1" amt="0" pdel="0" lspd_syncmode="0" ctlenvamt="0" lamt="0" latt="0" lspd_numerator="4" userwavefile="" lshp="0" lspd_denominator="4" att="0" hold="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arptime_numerator="4" arpdir="0" arpmode="0" arpcycle="0" arpskip="0" arpmiss="0" arpgate="100" arp-enabled="0" arptime_syncmode="0" arp="0" arptime_denominator="4" arprange="1" arptime="200"/>
+          <midiport outputchannel="1" readable="0" writable="0" outputcontroller="0" fixedoutputnote="-1" outputprogram="1" inputchannel="0" inputcontroller="0" basevelocity="63" fixedoutputvelocity="-1" fixedinputvelocity="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern name="" pos="0" steps="16" type="1" muted="0">
+          <note vol="100" len="384" key="64" pos="0" pan="0"/>
+        </pattern>
+      </track>
+      <track solo="0" mutedBeforeSolo="0" name="Delay Lama" type="0" muted="0">
+        <instrumenttrack usemasterpitch="1" vol="100" pitchrange="1" fxch="2" pitch="0" basenote="57" pan="100">
+          <instrument name="vestige">
+            <vestige param0="0:PortTime:0.5" param1="1: Vowel  :0.628456" numparams="4" plugin="uservst:Instruments/DelayLama/Delay Lama.dll" guivisible="0" param2="2: Delay :0" program="0" param3="3:HeadSize:0.322175">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" fcut="14000" fwet="0" ftype="0">
+            <elvol dec="0.5" x100="0" lpdel="0" sustain="0.5" rel="0.1" amt="0" pdel="0" lspd_syncmode="0" ctlenvamt="0" lamt="0" latt="0" lspd_numerator="4" userwavefile="" lshp="0" lspd_denominator="4" att="0" hold="0.5" lspd="0.1"/>
+            <elcut dec="0.5" x100="0" lpdel="0" sustain="0.5" rel="0.1" amt="0" pdel="0" lspd_syncmode="0" ctlenvamt="0" lamt="0" latt="0" lspd_numerator="4" userwavefile="" lshp="0" lspd_denominator="4" att="0" hold="0.5" lspd="0.1"/>
+            <elres dec="0.5" x100="0" lpdel="0" sustain="0.5" rel="0.1" amt="0" pdel="0" lspd_syncmode="0" ctlenvamt="0" lamt="0" latt="0" lspd_numerator="4" userwavefile="" lshp="0" lspd_denominator="4" att="0" hold="0.5" lspd="0.1"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arptime_numerator="4" arpdir="0" arpmode="0" arpcycle="0" arpskip="0" arpmiss="0" arpgate="100" arp-enabled="0" arptime_syncmode="0" arp="0" arptime_denominator="4" arprange="1" arptime="200"/>
+          <midiport outputchannel="1" readable="0" writable="0" outputcontroller="0" fixedoutputnote="-1" outputprogram="1" inputchannel="0" inputcontroller="0" basevelocity="63" fixedoutputvelocity="-1" fixedinputvelocity="-1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern name="" pos="0" steps="16" type="1" muted="0">
+          <note vol="100" len="384" key="62" pos="0" pan="0"/>
+        </pattern>
+      </track>
+    </trackcontainer>
+    <track solo="0" mutedBeforeSolo="0" name="Automation track" type="6" muted="0">
+      <automationtrack/>
+      <automationpattern len="192" tens="1" prog="0" name="Numerator" pos="0" mute="0"/>
+      <automationpattern len="192" tens="1" prog="0" name="Denominator" pos="0" mute="0"/>
+      <automationpattern len="192" tens="1" prog="0" name="Tempo" pos="0" mute="0"/>
+      <automationpattern len="192" tens="1" prog="0" name="Master volume" pos="0" mute="0"/>
+      <automationpattern len="192" tens="1" prog="0" name="Master pitch" pos="0" mute="0"/>
+    </track>
+    <fxmixer x="10" height="333" y="590" maximized="0" minimized="0" width="1525" visible="1">
+      <fxchannel soloed="0" num="0" name="Master" volume="1" muted="0">
+        <fxchain enabled="0" numofeffects="0"/>
+      </fxchannel>
+      <fxchannel soloed="0" num="1" name="VoicePost" volume="1" muted="0">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send amount="1" channel="0"/>
+      </fxchannel>
+      <fxchannel soloed="0" num="2" name="VoicePre" volume="1" muted="0">
+        <fxchain enabled="1" numofeffects="1">
+          <effect autoquit_denominator="4" on="1" autoquit="1" autoquit_syncmode="0" autoquit_numerator="4" name="ladspaeffect" wet="1" gate="0">
+            <ladspacontrols ports="18">
+              <port04 data="16"/>
+              <port05 data="0"/>
+              <port06 data="0.54"/>
+              <port07 data="0.728"/>
+              <port08 data="0.528"/>
+              <port09 data="0.64"/>
+              <port010 data="0.504"/>
+              <port011 data="0.56"/>
+              <port012 data="0.708"/>
+              <port013 data="1"/>
+              <port014 data="0.804"/>
+              <port015 data="0.776"/>
+              <port016 data="0.808"/>
+              <port017 data="1"/>
+              <port018 data="1"/>
+              <port019 data="1"/>
+              <port020 data="1"/>
+              <port021 data="0.832"/>
+            </ladspacontrols>
+            <key>
+              <attribute value="vocoder_1337" name="file"/>
+              <attribute value="vocoder" name="plugin"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="1" channel="1"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView x="550" height="200" y="487" maximized="0" minimized="0" width="350" visible="0"/>
+    <pianoroll x="597" height="600" y="20" maximized="0" minimized="0" width="860" visible="0"/>
+    <automationeditor x="1" height="400" y="1" maximized="0" minimized="0" width="860" visible="0"/>
+    <projectnotes x="700" height="400" y="10" maximized="0" minimized="0" width="689" visible="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">&lt;&lt;&lt;&lt;&lt;&lt;</span></p></body></html>]]></projectnotes>
+    <timeline lpstate="1" lp0pos="0" lp1pos="384" stopbehaviour="1"/>
+    <controllers/>
+  </song>
+</lmms-project>

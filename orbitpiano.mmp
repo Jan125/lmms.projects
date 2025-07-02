@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.3.0-alpha.1.231+g49b1f83e4" creator="LMMS" version="23" type="song">
+  <head timesig_numerator="4" mastervol="100" timesig_denominator="4" bpm="100" masterpitch="0"/>
+  <song>
+    <trackcontainer maximized="0" x="1" type="song" height="600" visible="1" minimized="0" y="1" width="1033">
+      <track name="MasonHamlin-A-v7" mutedBeforeSolo="0" type="0" muted="0" solo="0">
+        <instrumenttrack basenote="69" pitch="0" mixch="0" enabled="0" lastkey="127" range_import="1" pan="0" keymap="0" vol="100" usemasterpitch="1" scale="0" firstkey="0" pitchrange="1" enablecc="0">
+          <midicontrollers cc101="0" cc42="0" cc28="0" cc82="0" cc21="0" cc65="0" cc90="0" cc62="0" cc106="0" cc71="0" cc55="0" cc19="0" cc84="0" cc54="0" cc120="0" cc47="0" cc56="0" cc26="0" cc117="0" cc57="0" cc37="0" cc38="0" cc15="0" cc6="0" cc48="0" cc122="0" cc41="0" cc51="0" cc77="0" cc118="0" cc121="0" cc123="0" cc93="0" cc115="0" cc119="0" cc50="0" cc24="0" cc87="0" cc113="0" cc25="0" cc108="0" cc99="0" cc22="0" cc125="0" cc43="0" cc78="0" cc53="0" cc66="0" cc23="0" cc67="0" cc49="0" cc2="0" cc36="0" cc13="0" cc45="0" cc83="0" cc76="0" cc102="0" cc27="0" cc59="0" cc16="0" cc58="0" cc92="0" cc12="0" cc74="0" cc109="0" cc29="0" cc91="0" cc63="0" cc5="0" cc107="0" cc112="0" cc3="0" cc126="0" cc11="0" cc30="0" cc70="0" cc104="0" cc61="0" cc8="0" cc96="0" cc44="0" cc1="0" cc81="0" cc69="0" cc52="0" cc85="0" cc100="0" cc111="0" cc73="0" cc86="0" cc127="0" cc79="0" cc89="0" cc110="0" cc105="0" cc116="0" cc35="0" cc33="0" cc0="0" cc64="0" cc10="0" cc14="0" cc95="0" cc114="0" cc46="0" cc97="0" cc98="0" cc17="0" cc18="0" cc31="0" cc94="0" cc7="0" cc103="0" cc4="0" cc9="0" cc39="0" cc40="0" cc32="0" cc34="0" cc80="0" cc88="0" cc60="0" cc20="0" cc68="0" cc75="0" cc124="0" cc72="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbDamping="0" reverbRoomSize="0.2" patch="0" reverbLevel="0.9" reverbOn="0" bank="0" chorusOn="0" chorusLevel="2" gain="0.16" reverbWidth="0.5" chorusSpeed="0.3" src="usersoundfont:MasonHamlin-A-v7.sf2" chorusDepth="8" chorusNum="3">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" fres="0.5" ftype="0" fcut="14000">
+            <elvol ctlenvamt="0" latt="0" pdel="0" amt="0" userwavefile="" lspd_numerator="4" sustain="0.5" lspd_denominator="4" lspd_syncmode="0" lpdel="0" dec="0.5" lshp="0" lamt="0" att="0" x100="0" lspd="0.1" hold="0.5" rel="0.1"/>
+            <elcut ctlenvamt="0" latt="0" pdel="0" amt="0" userwavefile="" lspd_numerator="4" sustain="0.5" lspd_denominator="4" lspd_syncmode="0" lpdel="0" dec="0.5" lshp="0" lamt="0" att="0" x100="0" lspd="0.1" hold="0.5" rel="0.1"/>
+            <elres ctlenvamt="0" latt="0" pdel="0" amt="0" userwavefile="" lspd_numerator="4" sustain="0.5" lspd_denominator="4" lspd_syncmode="0" lpdel="0" dec="0.5" lshp="0" lamt="0" att="0" x100="0" lspd="0.1" hold="0.5" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arptime="200" arpgate="100" arpdir="0" arp="0" arpskip="0" arptime_denominator="4" arp-enabled="0" arpmiss="0" arpmode="0" arprange="1" arpcycle="0" arptime_numerator="4" arptime_syncmode="0" arprepeats="1"/>
+          <midiport fixedinputvelocity="-1" outputcontroller="0" readable="1" inputchannel="0" inports="" outputprogram="1" basevelocity="127" inputcontroller="0" fixedoutputnote="-1" fixedoutputvelocity="-1" writable="0" outputchannel="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip name="" type="1" steps="16" muted="0" pos="0">
+          <note key="78" pan="0" vol="100" len="564" pos="0"/>
+          <note key="73" pan="0" vol="100" len="564" pos="0"/>
+          <note key="69" pan="0" vol="100" len="564" pos="0"/>
+          <note key="66" pan="0" vol="100" len="564" pos="0"/>
+          <note key="42" pan="0" vol="100" len="12" pos="24"/>
+          <note key="42" pan="0" vol="100" len="24" pos="48"/>
+          <note key="42" pan="0" vol="100" len="12" pos="72"/>
+          <note key="42" pan="0" vol="100" len="12" pos="120"/>
+          <note key="42" pan="0" vol="100" len="24" pos="144"/>
+          <note key="42" pan="0" vol="100" len="12" pos="168"/>
+          <note key="42" pan="0" vol="100" len="12" pos="216"/>
+          <note key="42" pan="0" vol="100" len="24" pos="240"/>
+          <note key="42" pan="0" vol="100" len="12" pos="264"/>
+          <note key="42" pan="0" vol="100" len="12" pos="312"/>
+          <note key="42" pan="0" vol="100" len="24" pos="336"/>
+          <note key="42" pan="0" vol="100" len="12" pos="360"/>
+          <note key="54" pan="0" vol="100" len="12" pos="384"/>
+          <note key="54" pan="0" vol="100" len="12" pos="396"/>
+          <note key="54" pan="0" vol="100" len="12" pos="408"/>
+          <note key="42" pan="0" vol="100" len="12" pos="408"/>
+          <note key="57" pan="0" vol="100" len="12" pos="420"/>
+          <note key="42" pan="0" vol="100" len="24" pos="432"/>
+          <note key="54" pan="0" vol="100" len="12" pos="444"/>
+          <note key="54" pan="0" vol="100" len="12" pos="456"/>
+          <note key="42" pan="0" vol="100" len="12" pos="456"/>
+          <note key="54" pan="0" vol="100" len="12" pos="468"/>
+          <note key="54" pan="0" vol="100" len="12" pos="480"/>
+          <note key="54" pan="0" vol="100" len="12" pos="504"/>
+          <note key="42" pan="0" vol="100" len="12" pos="504"/>
+          <note key="57" pan="0" vol="100" len="12" pos="528"/>
+          <note key="42" pan="0" vol="100" len="24" pos="528"/>
+          <note key="54" pan="0" vol="100" len="12" pos="552"/>
+          <note key="42" pan="0" vol="100" len="12" pos="552"/>
+          <note key="71" pan="0" vol="100" len="180" pos="576"/>
+          <note key="68" pan="0" vol="100" len="180" pos="576"/>
+          <note key="64" pan="0" vol="100" len="180" pos="576"/>
+          <note key="52" pan="0" vol="100" len="12" pos="576"/>
+          <note key="52" pan="0" vol="100" len="12" pos="588"/>
+          <note key="52" pan="0" vol="100" len="12" pos="600"/>
+          <note key="40" pan="0" vol="100" len="12" pos="600"/>
+          <note key="56" pan="0" vol="100" len="12" pos="612"/>
+          <note key="40" pan="0" vol="100" len="24" pos="624"/>
+          <note key="52" pan="0" vol="100" len="12" pos="636"/>
+          <note key="52" pan="0" vol="100" len="12" pos="648"/>
+          <note key="40" pan="0" vol="100" len="12" pos="648"/>
+          <note key="52" pan="0" vol="100" len="12" pos="660"/>
+          <note key="52" pan="0" vol="100" len="12" pos="672"/>
+          <note key="52" pan="0" vol="100" len="12" pos="696"/>
+          <note key="40" pan="0" vol="100" len="12" pos="696"/>
+          <note key="56" pan="0" vol="100" len="12" pos="720"/>
+          <note key="40" pan="0" vol="100" len="24" pos="720"/>
+          <note key="52" pan="0" vol="100" len="12" pos="744"/>
+          <note key="40" pan="0" vol="100" len="12" pos="744"/>
+          <note key="69" pan="0" vol="100" len="180" pos="768"/>
+          <note key="66" pan="0" vol="100" len="180" pos="768"/>
+          <note key="62" pan="0" vol="100" len="180" pos="768"/>
+          <note key="50" pan="0" vol="100" len="12" pos="768"/>
+          <note key="50" pan="0" vol="100" len="12" pos="780"/>
+          <note key="50" pan="0" vol="100" len="12" pos="792"/>
+          <note key="38" pan="0" vol="100" len="12" pos="792"/>
+          <note key="54" pan="0" vol="100" len="12" pos="804"/>
+          <note key="38" pan="0" vol="100" len="24" pos="816"/>
+          <note key="50" pan="0" vol="100" len="12" pos="828"/>
+          <note key="50" pan="0" vol="100" len="12" pos="840"/>
+          <note key="38" pan="0" vol="100" len="12" pos="840"/>
+          <note key="50" pan="0" vol="100" len="12" pos="852"/>
+          <note key="50" pan="0" vol="100" len="12" pos="864"/>
+          <note key="50" pan="0" vol="100" len="12" pos="888"/>
+          <note key="38" pan="0" vol="100" len="12" pos="888"/>
+          <note key="54" pan="0" vol="100" len="12" pos="912"/>
+          <note key="38" pan="0" vol="100" len="24" pos="912"/>
+          <note key="50" pan="0" vol="100" len="12" pos="936"/>
+          <note key="38" pan="0" vol="100" len="12" pos="936"/>
+          <note key="71" pan="0" vol="100" len="180" pos="960"/>
+          <note key="68" pan="0" vol="100" len="180" pos="960"/>
+          <note key="65" pan="0" vol="100" len="180" pos="960"/>
+          <note key="49" pan="0" vol="100" len="12" pos="960"/>
+          <note key="49" pan="0" vol="100" len="12" pos="972"/>
+          <note key="49" pan="0" vol="100" len="12" pos="984"/>
+          <note key="37" pan="0" vol="100" len="12" pos="984"/>
+          <note key="53" pan="0" vol="100" len="12" pos="996"/>
+          <note key="37" pan="0" vol="100" len="24" pos="1008"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1020"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1032"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1032"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1044"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1056"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1080"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1080"/>
+          <note key="53" pan="0" vol="100" len="12" pos="1104"/>
+          <note key="37" pan="0" vol="100" len="24" pos="1104"/>
+          <note key="56" pan="0" vol="100" len="12" pos="1128"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1128"/>
+          <note key="66" pan="0" vol="100" len="180" pos="1152"/>
+          <note key="63" pan="0" vol="100" len="180" pos="1152"/>
+          <note key="59" pan="0" vol="100" len="180" pos="1152"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1152"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1164"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1176"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1176"/>
+          <note key="51" pan="0" vol="100" len="12" pos="1188"/>
+          <note key="35" pan="0" vol="100" len="24" pos="1200"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1212"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1224"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1224"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1236"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1248"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1272"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1272"/>
+          <note key="51" pan="0" vol="100" len="12" pos="1296"/>
+          <note key="35" pan="0" vol="100" len="24" pos="1296"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1320"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1320"/>
+          <note key="65" pan="0" vol="100" len="180" pos="1344"/>
+          <note key="63" pan="0" vol="100" len="180" pos="1344"/>
+          <note key="58" pan="0" vol="100" len="180" pos="1344"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1344"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1356"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1368"/>
+          <note key="34" pan="0" vol="100" len="12" pos="1368"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1380"/>
+          <note key="34" pan="0" vol="100" len="24" pos="1392"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1404"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1416"/>
+          <note key="34" pan="0" vol="100" len="12" pos="1416"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1428"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1440"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1464"/>
+          <note key="34" pan="0" vol="100" len="12" pos="1464"/>
+          <note key="53" pan="0" vol="100" len="12" pos="1488"/>
+          <note key="34" pan="0" vol="100" len="24" pos="1488"/>
+          <note key="46" pan="0" vol="100" len="12" pos="1512"/>
+          <note key="34" pan="0" vol="100" len="12" pos="1512"/>
+          <note key="66" pan="0" vol="100" len="180" pos="1536"/>
+          <note key="63" pan="0" vol="100" len="180" pos="1536"/>
+          <note key="61" pan="0" vol="100" len="180" pos="1536"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1536"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1548"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1560"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1560"/>
+          <note key="51" pan="0" vol="100" len="12" pos="1572"/>
+          <note key="35" pan="0" vol="100" len="24" pos="1584"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1596"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1608"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1608"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1620"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1632"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1656"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1656"/>
+          <note key="51" pan="0" vol="100" len="12" pos="1680"/>
+          <note key="35" pan="0" vol="100" len="24" pos="1680"/>
+          <note key="47" pan="0" vol="100" len="12" pos="1704"/>
+          <note key="35" pan="0" vol="100" len="12" pos="1704"/>
+          <note key="67" pan="0" vol="100" len="84" pos="1728"/>
+          <note key="64" pan="0" vol="100" len="84" pos="1728"/>
+          <note key="61" pan="0" vol="100" len="84" pos="1728"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1728"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1740"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1752"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1752"/>
+          <note key="53" pan="0" vol="100" len="12" pos="1764"/>
+          <note key="37" pan="0" vol="100" len="24" pos="1776"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1788"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1800"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1800"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1812"/>
+          <note key="68" pan="0" vol="100" len="480" pos="1824"/>
+          <note key="65" pan="0" vol="100" len="480" pos="1824"/>
+          <note key="61" pan="0" vol="100" len="480" pos="1824"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1824"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1848"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1848"/>
+          <note key="53" pan="0" vol="100" len="12" pos="1872"/>
+          <note key="37" pan="0" vol="100" len="24" pos="1872"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1896"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1896"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1920"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1932"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1944"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1944"/>
+          <note key="53" pan="0" vol="100" len="12" pos="1956"/>
+          <note key="37" pan="0" vol="100" len="24" pos="1968"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1980"/>
+          <note key="49" pan="0" vol="100" len="12" pos="1992"/>
+          <note key="37" pan="0" vol="100" len="12" pos="1992"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2004"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2016"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2040"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2040"/>
+          <note key="53" pan="0" vol="100" len="12" pos="2064"/>
+          <note key="37" pan="0" vol="100" len="24" pos="2064"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2088"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2088"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2112"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2124"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2136"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2136"/>
+          <note key="53" pan="0" vol="100" len="12" pos="2148"/>
+          <note key="37" pan="0" vol="100" len="24" pos="2160"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2172"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2184"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2184"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2196"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2208"/>
+          <note key="53" pan="0" vol="100" len="12" pos="2232"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2232"/>
+          <note key="56" pan="0" vol="100" len="12" pos="2256"/>
+          <note key="37" pan="0" vol="100" len="24" pos="2256"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2280"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2280"/>
+          <note key="66" pan="0" vol="100" len="24" pos="2304"/>
+          <note key="49" pan="0" vol="100" len="24" pos="2304"/>
+          <note key="42" pan="0" vol="100" len="12" pos="2304"/>
+          <note key="42" pan="0" vol="100" len="12" pos="2316"/>
+          <note key="64" pan="0" vol="100" len="48" pos="2328"/>
+          <note key="61" pan="0" vol="100" len="12" pos="2328"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2328"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2328"/>
+          <note key="40" pan="0" vol="100" len="12" pos="2328"/>
+          <note key="49" pan="0" vol="100" len="24" pos="2340"/>
+          <note key="42" pan="0" vol="100" len="12" pos="2352"/>
+          <note key="61" pan="0" vol="100" len="12" pos="2364"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2364"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2364"/>
+          <note key="66" pan="0" vol="100" len="24" pos="2376"/>
+          <note key="49" pan="0" vol="100" len="24" pos="2376"/>
+          <note key="40" pan="0" vol="100" len="12" pos="2376"/>
+          <note key="42" pan="0" vol="100" len="12" pos="2388"/>
+          <note key="61" pan="0" vol="100" len="12" pos="2400"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2400"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2400"/>
+          <note key="49" pan="0" vol="100" len="24" pos="2412"/>
+          <note key="64" pan="0" vol="100" len="24" pos="2424"/>
+          <note key="40" pan="0" vol="100" len="12" pos="2424"/>
+          <note key="61" pan="0" vol="100" len="12" pos="2436"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2436"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2436"/>
+          <note key="66" pan="0" vol="100" len="24" pos="2448"/>
+          <note key="49" pan="0" vol="100" len="24" pos="2448"/>
+          <note key="42" pan="0" vol="100" len="12" pos="2448"/>
+          <note key="73" pan="0" vol="100" len="24" pos="2472"/>
+          <note key="61" pan="0" vol="100" len="12" pos="2472"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2472"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2472"/>
+          <note key="44" pan="0" vol="100" len="12" pos="2472"/>
+          <note key="49" pan="0" vol="100" len="12" pos="2484"/>
+          <note key="68" pan="0" vol="100" len="36" pos="2496"/>
+          <note key="47" pan="0" vol="100" len="24" pos="2496"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2496"/>
+          <note key="59" pan="0" vol="100" len="72" pos="2520"/>
+          <note key="56" pan="0" vol="100" len="72" pos="2520"/>
+          <note key="53" pan="0" vol="100" len="72" pos="2520"/>
+          <note key="66" pan="0" vol="100" len="36" pos="2532"/>
+          <note key="38" pan="0" vol="100" len="12" pos="2532"/>
+          <note key="65" pan="0" vol="100" len="84" pos="2568"/>
+          <note key="44" pan="0" vol="100" len="24" pos="2568"/>
+          <note key="37" pan="0" vol="100" len="24" pos="2568"/>
+          <note key="56" pan="0" vol="100" len="72" pos="2592"/>
+          <note key="53" pan="0" vol="100" len="72" pos="2592"/>
+          <note key="49" pan="0" vol="100" len="72" pos="2592"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2616"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2640"/>
+          <note key="61" pan="0" vol="100" len="24" pos="2664"/>
+          <note key="44" pan="0" vol="100" len="24" pos="2664"/>
+          <note key="36" pan="0" vol="100" len="12" pos="2664"/>
+          <note key="62" pan="0" vol="100" len="24" pos="2688"/>
+          <note key="45" pan="0" vol="100" len="24" pos="2688"/>
+          <note key="35" pan="0" vol="100" len="12" pos="2688"/>
+          <note key="61" pan="0" vol="100" len="48" pos="2712"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2712"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2712"/>
+          <note key="50" pan="0" vol="100" len="12" pos="2712"/>
+          <note key="45" pan="0" vol="100" len="24" pos="2724"/>
+          <note key="35" pan="0" vol="100" len="12" pos="2724"/>
+          <note key="35" pan="0" vol="100" len="12" pos="2736"/>
+          <note key="57" pan="0" vol="100" len="12" pos="2748"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2748"/>
+          <note key="50" pan="0" vol="100" len="12" pos="2748"/>
+          <note key="62" pan="0" vol="100" len="24" pos="2760"/>
+          <note key="45" pan="0" vol="100" len="24" pos="2760"/>
+          <note key="35" pan="0" vol="100" len="12" pos="2760"/>
+          <note key="59" pan="0" vol="100" len="12" pos="2784"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2784"/>
+          <note key="50" pan="0" vol="100" len="12" pos="2784"/>
+          <note key="35" pan="0" vol="100" len="12" pos="2784"/>
+          <note key="45" pan="0" vol="100" len="24" pos="2796"/>
+          <note key="61" pan="0" vol="100" len="24" pos="2808"/>
+          <note key="35" pan="0" vol="100" len="12" pos="2808"/>
+          <note key="59" pan="0" vol="100" len="12" pos="2820"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2820"/>
+          <note key="50" pan="0" vol="100" len="12" pos="2820"/>
+          <note key="64" pan="0" vol="100" len="24" pos="2832"/>
+          <note key="45" pan="0" vol="100" len="24" pos="2832"/>
+          <note key="37" pan="0" vol="100" len="12" pos="2832"/>
+          <note key="66" pan="0" vol="100" len="24" pos="2856"/>
+          <note key="59" pan="0" vol="100" len="12" pos="2856"/>
+          <note key="54" pan="0" vol="100" len="12" pos="2856"/>
+          <note key="50" pan="0" vol="100" len="12" pos="2856"/>
+          <note key="40" pan="0" vol="100" len="12" pos="2856"/>
+          <note key="45" pan="0" vol="100" len="12" pos="2868"/>
+          <note key="68" pan="0" vol="100" len="36" pos="2880"/>
+          <note key="61" pan="0" vol="100" len="72" pos="2880"/>
+          <note key="56" pan="0" vol="100" len="72" pos="2880"/>
+          <note key="53" pan="0" vol="100" len="72" pos="2880"/>
+          <note key="49" pan="0" vol="100" len="72" pos="2880"/>
+          <note key="41" pan="0" vol="100" len="24" pos="2880"/>
+          <note key="66" pan="0" vol="100" len="36" pos="2916"/>
+          <note key="39" pan="0" vol="100" len="24" pos="2916"/>
+          <note key="65" pan="0" vol="100" len="24" pos="2952"/>
+          <note key="44" pan="0" vol="100" len="24" pos="2952"/>
+          <note key="37" pan="0" vol="100" len="24" pos="2952"/>
+          <note key="65" pan="0" vol="100" len="72" pos="2976"/>
+          <note key="61" pan="0" vol="100" len="48" pos="2976"/>
+          <note key="56" pan="0" vol="100" len="72" pos="2976"/>
+          <note key="53" pan="0" vol="100" len="72" pos="2976"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3000"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3012"/>
+          <note key="61" pan="0" vol="100" len="36" pos="3024"/>
+          <note key="40" pan="0" vol="100" len="12" pos="3024"/>
+          <note key="40" pan="0" vol="100" len="12" pos="3036"/>
+          <note key="49" pan="0" vol="100" len="24" pos="3048"/>
+          <note key="41" pan="0" vol="100" len="24" pos="3048"/>
+          <note key="66" pan="0" vol="100" len="72" pos="3072"/>
+          <note key="61" pan="0" vol="100" len="72" pos="3072"/>
+          <note key="57" pan="0" vol="100" len="72" pos="3072"/>
+          <note key="42" pan="0" vol="100" len="12" pos="3072"/>
+          <note key="42" pan="0" vol="100" len="12" pos="3108"/>
+          <note key="42" pan="0" vol="100" len="12" pos="3120"/>
+          <note key="49" pan="0" vol="100" len="24" pos="3144"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3144"/>
+          <note key="68" pan="0" vol="100" len="72" pos="3168"/>
+          <note key="64" pan="0" vol="100" len="72" pos="3168"/>
+          <note key="59" pan="0" vol="100" len="72" pos="3168"/>
+          <note key="56" pan="0" vol="100" len="72" pos="3168"/>
+          <note key="40" pan="0" vol="100" len="12" pos="3168"/>
+          <note key="40" pan="0" vol="100" len="12" pos="3192"/>
+          <note key="40" pan="0" vol="100" len="12" pos="3216"/>
+          <note key="44" pan="0" vol="100" len="24" pos="3240"/>
+          <note key="35" pan="0" vol="100" len="12" pos="3240"/>
+          <note key="69" pan="0" vol="100" len="36" pos="3264"/>
+          <note key="66" pan="0" vol="100" len="12" pos="3264"/>
+          <note key="62" pan="0" vol="100" len="12" pos="3264"/>
+          <note key="57" pan="0" vol="100" len="12" pos="3264"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3264"/>
+          <note key="50" pan="0" vol="100" len="24" pos="3276"/>
+          <note key="66" pan="0" vol="100" len="12" pos="3300"/>
+          <note key="66" pan="0" vol="100" len="36" pos="3300"/>
+          <note key="62" pan="0" vol="100" len="12" pos="3300"/>
+          <note key="57" pan="0" vol="100" len="12" pos="3300"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3300"/>
+          <note key="50" pan="0" vol="100" len="24" pos="3312"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3312"/>
+          <note key="73" pan="0" vol="100" len="96" pos="3336"/>
+          <note key="65" pan="0" vol="100" len="72" pos="3336"/>
+          <note key="61" pan="0" vol="100" len="72" pos="3336"/>
+          <note key="56" pan="0" vol="100" len="72" pos="3336"/>
+          <note key="44" pan="0" vol="100" len="72" pos="3336"/>
+          <note key="33" pan="0" vol="100" len="12" pos="3336"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3360"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3384"/>
+          <note key="49" pan="0" vol="100" len="24" pos="3408"/>
+          <note key="44" pan="0" vol="100" len="12" pos="3408"/>
+          <note key="44" pan="0" vol="100" len="24" pos="3432"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3432"/>
+          <note key="78" pan="0" vol="100" len="24" pos="3456"/>
+          <note key="69" pan="0" vol="100" len="72" pos="3456"/>
+          <note key="62" pan="0" vol="100" len="72" pos="3456"/>
+          <note key="57" pan="0" vol="100" len="72" pos="3456"/>
+          <note key="50" pan="0" vol="100" len="72" pos="3456"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3456"/>
+          <note key="76" pan="0" vol="100" len="24" pos="3492"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3492"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3504"/>
+          <note key="74" pan="0" vol="100" len="24" pos="3528"/>
+          <note key="45" pan="0" vol="100" len="24" pos="3528"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3528"/>
+          <note key="73" pan="0" vol="100" len="36" pos="3552"/>
+          <note key="68" pan="0" vol="100" len="36" pos="3552"/>
+          <note key="61" pan="0" vol="100" len="72" pos="3552"/>
+          <note key="56" pan="0" vol="100" len="72" pos="3552"/>
+          <note key="49" pan="0" vol="100" len="36" pos="3552"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3552"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3576"/>
+          <note key="68" pan="0" vol="100" len="36" pos="3588"/>
+          <note key="44" pan="0" vol="100" len="36" pos="3588"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3600"/>
+          <note key="65" pan="0" vol="100" len="24" pos="3624"/>
+          <note key="41" pan="0" vol="100" len="24" pos="3624"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3624"/>
+          <note key="73" pan="0" vol="100" len="24" pos="3648"/>
+          <note key="66" pan="0" vol="100" len="72" pos="3648"/>
+          <note key="62" pan="0" vol="100" len="72" pos="3648"/>
+          <note key="57" pan="0" vol="100" len="72" pos="3648"/>
+          <note key="45" pan="0" vol="100" len="72" pos="3648"/>
+          <note key="33" pan="0" vol="100" len="12" pos="3648"/>
+          <note key="69" pan="0" vol="100" len="24" pos="3684"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3684"/>
+          <note key="38" pan="0" vol="100" len="12" pos="3696"/>
+          <note key="66" pan="0" vol="100" len="24" pos="3720"/>
+          <note key="42" pan="0" vol="100" len="24" pos="3720"/>
+          <note key="33" pan="0" vol="100" len="12" pos="3720"/>
+          <note key="65" pan="0" vol="100" len="48" pos="3744"/>
+          <note key="61" pan="0" vol="100" len="24" pos="3744"/>
+          <note key="56" pan="0" vol="100" len="48" pos="3744"/>
+          <note key="44" pan="0" vol="100" len="48" pos="3744"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3744"/>
+          <note key="61" pan="0" vol="100" len="24" pos="3768"/>
+          <note key="32" pan="0" vol="100" len="12" pos="3768"/>
+          <note key="73" pan="0" vol="100" len="36" pos="3792"/>
+          <note key="61" pan="0" vol="100" len="48" pos="3792"/>
+          <note key="59" pan="0" vol="100" len="48" pos="3792"/>
+          <note key="56" pan="0" vol="100" len="48" pos="3792"/>
+          <note key="49" pan="0" vol="100" len="48" pos="3792"/>
+          <note key="44" pan="0" vol="100" len="12" pos="3792"/>
+          <note key="37" pan="0" vol="100" len="12" pos="3816"/>
+          <note key="65" pan="0" vol="100" len="12" pos="3828"/>
+          <note key="69" pan="0" vol="100" len="192" pos="3840"/>
+          <note key="66" pan="0" vol="100" len="576" pos="3840"/>
+          <note key="61" pan="0" vol="100" len="192" pos="3840"/>
+          <note key="57" pan="0" vol="100" len="192" pos="3840"/>
+          <note key="54" pan="0" vol="100" len="192" pos="3840"/>
+          <note key="42" pan="0" vol="100" len="12" pos="3864"/>
+          <note key="42" pan="0" vol="100" len="24" pos="3888"/>
+          <note key="42" pan="0" vol="100" len="12" pos="3912"/>
+          <note key="42" pan="0" vol="100" len="12" pos="3960"/>
+          <note key="42" pan="0" vol="100" len="24" pos="3984"/>
+          <note key="42" pan="0" vol="100" len="12" pos="4008"/>
+          <note key="73" pan="0" vol="100" len="180" pos="4032"/>
+          <note key="69" pan="0" vol="100" len="180" pos="4032"/>
+          <note key="64" pan="0" vol="100" len="180" pos="4032"/>
+          <note key="61" pan="0" vol="100" len="180" pos="4032"/>
+          <note key="57" pan="0" vol="100" len="180" pos="4032"/>
+          <note key="45" pan="0" vol="100" len="12" pos="4056"/>
+          <note key="45" pan="0" vol="100" len="24" pos="4080"/>
+          <note key="45" pan="0" vol="100" len="12" pos="4104"/>
+          <note key="45" pan="0" vol="100" len="12" pos="4152"/>
+          <note key="45" pan="0" vol="100" len="24" pos="4176"/>
+          <note key="45" pan="0" vol="100" len="12" pos="4200"/>
+          <note key="76" pan="0" vol="100" len="180" pos="4224"/>
+          <note key="68" pan="0" vol="100" len="180" pos="4224"/>
+          <note key="64" pan="0" vol="100" len="180" pos="4224"/>
+          <note key="59" pan="0" vol="100" len="180" pos="4224"/>
+          <note key="40" pan="0" vol="100" len="12" pos="4248"/>
+          <note key="40" pan="0" vol="100" len="24" pos="4272"/>
+          <note key="40" pan="0" vol="100" len="12" pos="4296"/>
+          <note key="40" pan="0" vol="100" len="12" pos="4344"/>
+          <note key="40" pan="0" vol="100" len="24" pos="4368"/>
+          <note key="40" pan="0" vol="100" len="12" pos="4392"/>
+          <note key="78" pan="0" vol="100" len="180" pos="4416"/>
+          <note key="74" pan="0" vol="100" len="180" pos="4416"/>
+          <note key="69" pan="0" vol="100" len="180" pos="4416"/>
+          <note key="66" pan="0" vol="100" len="180" pos="4416"/>
+          <note key="38" pan="0" vol="100" len="12" pos="4440"/>
+          <note key="38" pan="0" vol="100" len="24" pos="4464"/>
+          <note key="38" pan="0" vol="100" len="12" pos="4488"/>
+          <note key="38" pan="0" vol="100" len="12" pos="4536"/>
+          <note key="38" pan="0" vol="100" len="24" pos="4560"/>
+          <note key="38" pan="0" vol="100" len="12" pos="4584"/>
+        </midiclip>
+      </track>
+    </trackcontainer>
+    <track name="Automation track" mutedBeforeSolo="0" type="6" muted="0" solo="0">
+      <automationtrack/>
+      <automationclip name="Numerator" tens="1" prog="0" len="192" mute="0" pos="0"/>
+      <automationclip name="Denominator" tens="1" prog="0" len="192" mute="0" pos="0"/>
+      <automationclip name="Tempo" tens="1" prog="0" len="192" mute="0" pos="0"/>
+      <automationclip name="Master volume" tens="1" prog="0" len="192" mute="0" pos="0"/>
+      <automationclip name="Master pitch" tens="1" prog="0" len="192" mute="0" pos="0"/>
+    </track>
+    <mixer maximized="0" x="1" height="333" visible="1" minimized="0" y="600" width="1893">
+      <mixerchannel num="0" name="Master" volume="1" soloed="0" muted="0">
+        <fxchain enabled="0" numofeffects="0"/>
+      </mixerchannel>
+    </mixer>
+    <ControllerRackView maximized="0" x="550" height="200" visible="0" minimized="0" y="487" width="350"/>
+    <pianoroll maximized="1" x="204" height="600" visible="1" minimized="0" y="236" width="970">
+      <markedSemiTones>
+        <semiTone key="128"/>
+        <semiTone key="126"/>
+        <semiTone key="125"/>
+        <semiTone key="124"/>
+        <semiTone key="122"/>
+        <semiTone key="121"/>
+        <semiTone key="119"/>
+        <semiTone key="117"/>
+        <semiTone key="116"/>
+        <semiTone key="114"/>
+        <semiTone key="113"/>
+        <semiTone key="112"/>
+        <semiTone key="110"/>
+        <semiTone key="109"/>
+        <semiTone key="107"/>
+        <semiTone key="105"/>
+        <semiTone key="104"/>
+        <semiTone key="102"/>
+        <semiTone key="101"/>
+        <semiTone key="100"/>
+        <semiTone key="98"/>
+        <semiTone key="97"/>
+        <semiTone key="95"/>
+        <semiTone key="93"/>
+        <semiTone key="92"/>
+        <semiTone key="90"/>
+        <semiTone key="89"/>
+        <semiTone key="88"/>
+        <semiTone key="86"/>
+        <semiTone key="85"/>
+        <semiTone key="83"/>
+        <semiTone key="81"/>
+        <semiTone key="80"/>
+        <semiTone key="78"/>
+        <semiTone key="77"/>
+        <semiTone key="76"/>
+        <semiTone key="74"/>
+        <semiTone key="73"/>
+        <semiTone key="71"/>
+        <semiTone key="69"/>
+        <semiTone key="68"/>
+        <semiTone key="66"/>
+        <semiTone key="65"/>
+        <semiTone key="64"/>
+        <semiTone key="62"/>
+        <semiTone key="61"/>
+        <semiTone key="59"/>
+        <semiTone key="57"/>
+        <semiTone key="56"/>
+        <semiTone key="54"/>
+        <semiTone key="53"/>
+        <semiTone key="52"/>
+        <semiTone key="50"/>
+        <semiTone key="49"/>
+        <semiTone key="47"/>
+        <semiTone key="45"/>
+        <semiTone key="44"/>
+        <semiTone key="42"/>
+        <semiTone key="41"/>
+        <semiTone key="40"/>
+        <semiTone key="38"/>
+        <semiTone key="37"/>
+        <semiTone key="35"/>
+        <semiTone key="33"/>
+        <semiTone key="32"/>
+        <semiTone key="30"/>
+        <semiTone key="29"/>
+        <semiTone key="28"/>
+        <semiTone key="26"/>
+        <semiTone key="25"/>
+        <semiTone key="23"/>
+        <semiTone key="21"/>
+        <semiTone key="20"/>
+        <semiTone key="18"/>
+        <semiTone key="17"/>
+        <semiTone key="16"/>
+        <semiTone key="14"/>
+        <semiTone key="13"/>
+        <semiTone key="11"/>
+        <semiTone key="9"/>
+        <semiTone key="8"/>
+        <semiTone key="6"/>
+        <semiTone key="5"/>
+        <semiTone key="4"/>
+        <semiTone key="2"/>
+        <semiTone key="1"/>
+      </markedSemiTones>
+    </pianoroll>
+    <automationeditor maximized="0" x="1" height="400" visible="0" minimized="0" y="1" width="860"/>
+    <projectnotes maximized="0" x="700" height="400" visible="0" minimized="0" y="10" width="686"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">&lt;&lt;&lt;&lt;&lt;&lt;</span></p></body></html>]]></projectnotes>
+    <timeline lp1pos="4608" stopbehaviour="1" lp0pos="0" lpstate="1"/>
+    <controllers/>
+    <scales>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+      <scale description="empty">
+        <interval num="1" den="1"/>
+      </scale>
+    </scales>
+    <keymaps>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+      <keymap description="empty" base_key="69" middle_key="60" base_freq="440" first_key="0" last_key="127"/>
+    </keymaps>
+  </song>
+</lmms-project>

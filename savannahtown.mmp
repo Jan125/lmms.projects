@@ -1,0 +1,1245 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.3.0-alpha.1.33+g4f74151f0" type="song" creator="LMMS" version="18">
+  <head bpm="105" masterpitch="0" mastervol="100" timesig_numerator="4" timesig_denominator="4"/>
+  <song>
+    <trackcontainer width="1033" type="song" visible="1" x="8" minimized="0" maximized="0" y="3" height="571">
+      <track type="0" solo="0" name="Guitar" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="1" vol="100" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="1">
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/SpicyGuitar_32/SpicyGuitar_32.dll" chunk="VkMyIXoJAAA8U3BpY3lHdWl0YXJTZXR0aW5ncyBwbHVnaW5WZXJzaW9uPSIxLjMiPjxBY3Rpb25NYXBwaW5nIGNvbnRyb2xsZXJJZD0iMSIgY29udHJvbGxlck5hbWU9Ik1vZHVsYXRpb24gV2hlZWwgKGNvYXJzZSkiIHR5cGU9IlZpYnJhdG8iIHdoYXQ9IiIvPjxBY3Rpb25NYXBwaW5nIGNvbnRyb2xsZXJJZD0iMTc1IiBjb250cm9sbGVyTmFtZT0iQjIiIHR5cGU9IlRvZ2dsZSBsZWdhdG8iIHdoYXQ9IiIvPjxBY3Rpb25NYXBwaW5nIGNvbnRyb2xsZXJJZD0iMTc2IiBjb250cm9sbGVyTmFtZT0iQzMiIHR5cGU9IlRvZ2dsZSBwYWxtIiB3aGF0PSIiLz48QWN0aW9uTWFwcGluZyBjb250cm9sbGVySWQ9IjE3NyIgY29udHJvbGxlck5hbWU9IkMjMyIgdHlwZT0iVG9nZ2xlIGhhcm1vbmljcyIgd2hhdD0iIi8+PEFjdGlvbk1hcHBpbmcgY29udHJvbGxlcklkPSIxNzgiIGNvbnRyb2xsZXJOYW1lPSJEMyIgdHlwZT0iVG9nZ2xlIHN1c3RhaW4iIHdoYXQ9IiIvPjxBY3Rpb25NYXBwaW5nIGNvbnRyb2xsZXJJZD0iMTc5IiBjb250cm9sbGVyTmFtZT0iRCMzIiB0eXBlPSJUb2dnbGUgY2hvcmRzIGRldGVjdGlvbiIgd2hhdD0iIi8+PEFjdGlvbk1hcHBpbmcgY29udHJvbGxlcklkPSIyNTYiIGNvbnRyb2xsZXJOYW1lPSJQaXRjaCBCZW5kIiB0eXBlPSJQaXRjaCBiZW5kIiB3aGF0PSIiLz48UGFyYW1ldGVyIGlkPSIwIiB0aXRsZT0iR3VpdGFyIHR5cGUiIHZhbHVlPSIwLjM3NSIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjEiIHRpdGxlPSJSb29tIHR5cGUiIHZhbHVlPSIwIiBhdXRvPSIwIi8+PFBhcmFtZXRlciBpZD0iMiIgdGl0bGU9IlN0cmluZyB0eXBlIiB2YWx1ZT0iMSIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjMiIHRpdGxlPSJBdHRhY2sgUGxhY2UiIHZhbHVlPSIwLjY5MzU0ODM4MSIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjQiIHRpdGxlPSJWb2x1bWUiIHZhbHVlPSIwLjQ1NjE0MDMzOSIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjUiIHRpdGxlPSJJbXBlZGFuY2UiIHZhbHVlPSIwLjE3NDQxNDc4NCIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjYiIHRpdGxlPSJDb2xvciIgdmFsdWU9IjAuNzYwMzUyOTEiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSI3IiB0aXRsZT0iSW5oYXJtb25pY2l0eSIgdmFsdWU9IjAiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSI4IiB0aXRsZT0iTWl4IiB2YWx1ZT0iMCIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjkiIHRpdGxlPSJFeGNpdGF0aW9uIHR5cGUiIHZhbHVlPSIwLjU0NTQ1NDU2MiIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjEwIiB0aXRsZT0iU3RydW1taW5nIHNwZWVkIiB2YWx1ZT0iMSIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjExIiB0aXRsZT0iVmlicmF0byBmcmVxLiIgdmFsdWU9IjAiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSIxMiIgdGl0bGU9IlBpdGNoIEJlbmQiIHZhbHVlPSIwLjUiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSIxMyIgdGl0bGU9IlRvZ2dsZSBoYXJtb25pY3MiIHZhbHVlPSIwIiBhdXRvPSIwIi8+PFBhcmFtZXRlciBpZD0iMTQiIHRpdGxlPSJUb2dnbGUgcGFsbSIgdmFsdWU9IjAiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSIxNSIgdGl0bGU9IlRvZ2dsZSBsZWdhdG8iIHZhbHVlPSIwIiBhdXRvPSIwIi8+PFBhcmFtZXRlciBpZD0iMTYiIHRpdGxlPSJUb2dnbGUgc3VzdGFpbiIgdmFsdWU9IjAiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSIxNyIgdGl0bGU9IlRvZ2dsZSBjaG9yZHMiIHZhbHVlPSIwIiBhdXRvPSIwIi8+PFBhcmFtZXRlciBpZD0iMTgiIHRpdGxlPSJWaWJyYXRvIG1heCBmcmVxIiB2YWx1ZT0iMSIgYXV0bz0iMCIvPjxQYXJhbWV0ZXIgaWQ9IjE5IiB0aXRsZT0iUGFsbSBtdXRlIGFtb3VudCIgdmFsdWU9IjAuMjUiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSIyMCIgdGl0bGU9Ikhhcm1vbmljcyBhbW91bnQiIHZhbHVlPSIwLjUiIGF1dG89IjAiLz48UGFyYW1ldGVyIGlkPSIyMSIgdGl0bGU9IlR3YW5nIiB2YWx1ZT0iMCIgYXV0bz0iMCIvPjxWZWxvY2l0eVBvaW50IGlkPSIwIiB2YWx1ZT0iMCIvPjxWZWxvY2l0eVBvaW50IGlkPSIzOCIgdmFsdWU9Ijk0Ii8+PFZlbG9jaXR5UG9pbnQgaWQ9IjEyNyIgdmFsdWU9IjEyNyIvPjxzYW1wbGVzT2ZMYXRlbmN5IHZhbHVlPSIzMiIvPjxjaG9yZHNEZXRlY3Rpb25EZWxheSB2YWx1ZT0iMCIvPjxwZXJmb3JtYW5jZUxldmVsIHZhbHVlPSIyIi8+PGJlbmQgdmFsdWU9IjEiLz48YmVuZE9uQWZ0ZXJ0b3VjaCB2YWx1ZT0iMSIvPjxoYXJtb25pY3MgdmFsdWU9IjIiLz48aW52ZXJzaW9ucyB2YWx1ZT0iMSIvPjxjdXJyZW50UHJlc2V0IG5hbWU9IkFyZSBZb3UgQ2xhc3NpY2FsID8iIHVtPSIxIi8+PGN1cnJlbnRBY3Rpb25zUHJlc2V0IG5hbWU9IkRlZmF1bHQiIHVtPSIwIi8+PC9TcGljeUd1aXRhclNldHRpbmdzPgAA" guivisible="0">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="768" name="" steps="16" muted="0">
+          <note key="76" pos="0" vol="100" pan="0" len="192"/>
+          <note key="67" pos="0" vol="100" pan="0" len="192"/>
+          <note key="64" pos="0" vol="100" pan="0" len="192"/>
+          <note key="57" pos="0" vol="100" pan="0" len="192"/>
+          <note key="75" pos="192" vol="100" pan="0" len="192"/>
+          <note key="67" pos="192" vol="100" pan="0" len="192"/>
+          <note key="64" pos="192" vol="100" pan="0" len="192"/>
+          <note key="57" pos="192" vol="100" pan="0" len="192"/>
+          <note key="74" pos="384" vol="100" pan="0" len="192"/>
+          <note key="67" pos="384" vol="100" pan="0" len="192"/>
+          <note key="64" pos="384" vol="100" pan="0" len="192"/>
+          <note key="57" pos="384" vol="100" pan="0" len="192"/>
+          <note key="72" pos="576" vol="100" pan="0" len="192"/>
+          <note key="69" pos="576" vol="100" pan="0" len="192"/>
+          <note key="65" pos="576" vol="100" pan="0" len="192"/>
+          <note key="57" pos="576" vol="100" pan="0" len="192"/>
+        </pattern>
+        <pattern type="1" pos="1536" name="" steps="16" muted="0">
+          <note key="76" pos="0" vol="100" pan="0" len="24"/>
+          <note key="67" pos="0" vol="100" pan="0" len="24"/>
+          <note key="64" pos="0" vol="100" pan="0" len="24"/>
+          <note key="57" pos="0" vol="100" pan="0" len="24"/>
+          <note key="76" pos="24" vol="100" pan="0" len="24"/>
+          <note key="67" pos="24" vol="100" pan="0" len="24"/>
+          <note key="64" pos="24" vol="100" pan="0" len="24"/>
+          <note key="57" pos="24" vol="100" pan="0" len="24"/>
+          <note key="76" pos="48" vol="100" pan="0" len="24"/>
+          <note key="67" pos="48" vol="100" pan="0" len="24"/>
+          <note key="64" pos="48" vol="100" pan="0" len="24"/>
+          <note key="57" pos="48" vol="100" pan="0" len="24"/>
+          <note key="76" pos="72" vol="100" pan="0" len="12"/>
+          <note key="67" pos="72" vol="100" pan="0" len="12"/>
+          <note key="64" pos="72" vol="100" pan="0" len="12"/>
+          <note key="57" pos="72" vol="100" pan="0" len="12"/>
+          <note key="76" pos="84" vol="100" pan="0" len="24"/>
+          <note key="67" pos="84" vol="100" pan="0" len="24"/>
+          <note key="64" pos="84" vol="100" pan="0" len="24"/>
+          <note key="57" pos="84" vol="100" pan="0" len="24"/>
+          <note key="76" pos="108" vol="100" pan="0" len="12"/>
+          <note key="67" pos="108" vol="100" pan="0" len="12"/>
+          <note key="64" pos="108" vol="100" pan="0" len="12"/>
+          <note key="57" pos="108" vol="100" pan="0" len="12"/>
+          <note key="76" pos="120" vol="100" pan="0" len="12"/>
+          <note key="67" pos="120" vol="100" pan="0" len="12"/>
+          <note key="64" pos="120" vol="100" pan="0" len="12"/>
+          <note key="57" pos="120" vol="100" pan="0" len="12"/>
+          <note key="76" pos="132" vol="100" pan="0" len="24"/>
+          <note key="67" pos="132" vol="100" pan="0" len="24"/>
+          <note key="64" pos="132" vol="100" pan="0" len="24"/>
+          <note key="57" pos="132" vol="100" pan="0" len="24"/>
+          <note key="76" pos="156" vol="100" pan="0" len="12"/>
+          <note key="67" pos="156" vol="100" pan="0" len="12"/>
+          <note key="64" pos="156" vol="100" pan="0" len="12"/>
+          <note key="57" pos="156" vol="100" pan="0" len="12"/>
+          <note key="76" pos="168" vol="100" pan="0" len="24"/>
+          <note key="67" pos="168" vol="100" pan="0" len="24"/>
+          <note key="64" pos="168" vol="100" pan="0" len="24"/>
+          <note key="57" pos="168" vol="100" pan="0" len="24"/>
+          <note key="75" pos="192" vol="100" pan="0" len="24"/>
+          <note key="67" pos="192" vol="100" pan="0" len="24"/>
+          <note key="64" pos="192" vol="100" pan="0" len="24"/>
+          <note key="57" pos="192" vol="100" pan="0" len="24"/>
+          <note key="75" pos="216" vol="100" pan="0" len="24"/>
+          <note key="67" pos="216" vol="100" pan="0" len="24"/>
+          <note key="64" pos="216" vol="100" pan="0" len="24"/>
+          <note key="57" pos="216" vol="100" pan="0" len="24"/>
+          <note key="75" pos="240" vol="100" pan="0" len="24"/>
+          <note key="67" pos="240" vol="100" pan="0" len="24"/>
+          <note key="64" pos="240" vol="100" pan="0" len="24"/>
+          <note key="57" pos="240" vol="100" pan="0" len="24"/>
+          <note key="75" pos="264" vol="100" pan="0" len="12"/>
+          <note key="67" pos="264" vol="100" pan="0" len="12"/>
+          <note key="64" pos="264" vol="100" pan="0" len="12"/>
+          <note key="57" pos="264" vol="100" pan="0" len="12"/>
+          <note key="75" pos="276" vol="100" pan="0" len="24"/>
+          <note key="67" pos="276" vol="100" pan="0" len="24"/>
+          <note key="64" pos="276" vol="100" pan="0" len="24"/>
+          <note key="57" pos="276" vol="100" pan="0" len="24"/>
+          <note key="75" pos="300" vol="100" pan="0" len="12"/>
+          <note key="67" pos="300" vol="100" pan="0" len="12"/>
+          <note key="64" pos="300" vol="100" pan="0" len="12"/>
+          <note key="57" pos="300" vol="100" pan="0" len="12"/>
+          <note key="75" pos="312" vol="100" pan="0" len="12"/>
+          <note key="67" pos="312" vol="100" pan="0" len="12"/>
+          <note key="64" pos="312" vol="100" pan="0" len="12"/>
+          <note key="57" pos="312" vol="100" pan="0" len="12"/>
+          <note key="75" pos="324" vol="100" pan="0" len="24"/>
+          <note key="67" pos="324" vol="100" pan="0" len="24"/>
+          <note key="64" pos="324" vol="100" pan="0" len="24"/>
+          <note key="57" pos="324" vol="100" pan="0" len="24"/>
+          <note key="75" pos="348" vol="100" pan="0" len="12"/>
+          <note key="67" pos="348" vol="100" pan="0" len="12"/>
+          <note key="64" pos="348" vol="100" pan="0" len="12"/>
+          <note key="57" pos="348" vol="100" pan="0" len="12"/>
+          <note key="75" pos="360" vol="100" pan="0" len="24"/>
+          <note key="67" pos="360" vol="100" pan="0" len="24"/>
+          <note key="64" pos="360" vol="100" pan="0" len="24"/>
+          <note key="57" pos="360" vol="100" pan="0" len="24"/>
+          <note key="74" pos="384" vol="100" pan="0" len="24"/>
+          <note key="67" pos="384" vol="100" pan="0" len="24"/>
+          <note key="64" pos="384" vol="100" pan="0" len="24"/>
+          <note key="57" pos="384" vol="100" pan="0" len="24"/>
+          <note key="74" pos="408" vol="100" pan="0" len="24"/>
+          <note key="67" pos="408" vol="100" pan="0" len="24"/>
+          <note key="64" pos="408" vol="100" pan="0" len="24"/>
+          <note key="57" pos="408" vol="100" pan="0" len="24"/>
+          <note key="74" pos="432" vol="100" pan="0" len="24"/>
+          <note key="67" pos="432" vol="100" pan="0" len="24"/>
+          <note key="64" pos="432" vol="100" pan="0" len="24"/>
+          <note key="57" pos="432" vol="100" pan="0" len="24"/>
+          <note key="74" pos="456" vol="100" pan="0" len="12"/>
+          <note key="67" pos="456" vol="100" pan="0" len="12"/>
+          <note key="64" pos="456" vol="100" pan="0" len="12"/>
+          <note key="57" pos="456" vol="100" pan="0" len="12"/>
+          <note key="74" pos="468" vol="100" pan="0" len="24"/>
+          <note key="67" pos="468" vol="100" pan="0" len="24"/>
+          <note key="64" pos="468" vol="100" pan="0" len="24"/>
+          <note key="57" pos="468" vol="100" pan="0" len="24"/>
+          <note key="74" pos="492" vol="100" pan="0" len="12"/>
+          <note key="67" pos="492" vol="100" pan="0" len="12"/>
+          <note key="64" pos="492" vol="100" pan="0" len="12"/>
+          <note key="57" pos="492" vol="100" pan="0" len="12"/>
+          <note key="74" pos="504" vol="100" pan="0" len="12"/>
+          <note key="67" pos="504" vol="100" pan="0" len="12"/>
+          <note key="64" pos="504" vol="100" pan="0" len="12"/>
+          <note key="57" pos="504" vol="100" pan="0" len="12"/>
+          <note key="74" pos="516" vol="100" pan="0" len="24"/>
+          <note key="67" pos="516" vol="100" pan="0" len="24"/>
+          <note key="64" pos="516" vol="100" pan="0" len="24"/>
+          <note key="57" pos="516" vol="100" pan="0" len="24"/>
+          <note key="74" pos="540" vol="100" pan="0" len="12"/>
+          <note key="67" pos="540" vol="100" pan="0" len="12"/>
+          <note key="64" pos="540" vol="100" pan="0" len="12"/>
+          <note key="57" pos="540" vol="100" pan="0" len="12"/>
+          <note key="74" pos="552" vol="100" pan="0" len="24"/>
+          <note key="67" pos="552" vol="100" pan="0" len="24"/>
+          <note key="64" pos="552" vol="100" pan="0" len="24"/>
+          <note key="57" pos="552" vol="100" pan="0" len="24"/>
+          <note key="72" pos="576" vol="100" pan="0" len="24"/>
+          <note key="67" pos="576" vol="100" pan="0" len="24"/>
+          <note key="64" pos="576" vol="100" pan="0" len="24"/>
+          <note key="57" pos="576" vol="100" pan="0" len="24"/>
+          <note key="72" pos="600" vol="100" pan="0" len="24"/>
+          <note key="67" pos="600" vol="100" pan="0" len="24"/>
+          <note key="64" pos="600" vol="100" pan="0" len="24"/>
+          <note key="57" pos="600" vol="100" pan="0" len="24"/>
+          <note key="72" pos="624" vol="100" pan="0" len="24"/>
+          <note key="67" pos="624" vol="100" pan="0" len="24"/>
+          <note key="64" pos="624" vol="100" pan="0" len="24"/>
+          <note key="57" pos="624" vol="100" pan="0" len="24"/>
+          <note key="72" pos="648" vol="100" pan="0" len="12"/>
+          <note key="67" pos="648" vol="100" pan="0" len="12"/>
+          <note key="64" pos="648" vol="100" pan="0" len="12"/>
+          <note key="57" pos="648" vol="100" pan="0" len="12"/>
+          <note key="72" pos="660" vol="100" pan="0" len="24"/>
+          <note key="67" pos="660" vol="100" pan="0" len="24"/>
+          <note key="64" pos="660" vol="100" pan="0" len="24"/>
+          <note key="57" pos="660" vol="100" pan="0" len="24"/>
+          <note key="72" pos="684" vol="100" pan="0" len="12"/>
+          <note key="67" pos="684" vol="100" pan="0" len="12"/>
+          <note key="64" pos="684" vol="100" pan="0" len="12"/>
+          <note key="57" pos="684" vol="100" pan="0" len="12"/>
+          <note key="72" pos="696" vol="100" pan="0" len="12"/>
+          <note key="67" pos="696" vol="100" pan="0" len="12"/>
+          <note key="64" pos="696" vol="100" pan="0" len="12"/>
+          <note key="57" pos="696" vol="100" pan="0" len="12"/>
+          <note key="74" pos="708" vol="100" pan="0" len="24"/>
+          <note key="67" pos="708" vol="100" pan="0" len="24"/>
+          <note key="64" pos="708" vol="100" pan="0" len="24"/>
+          <note key="57" pos="708" vol="100" pan="0" len="24"/>
+          <note key="74" pos="732" vol="100" pan="0" len="12"/>
+          <note key="67" pos="732" vol="100" pan="0" len="12"/>
+          <note key="64" pos="732" vol="100" pan="0" len="12"/>
+          <note key="57" pos="732" vol="100" pan="0" len="12"/>
+          <note key="72" pos="744" vol="100" pan="0" len="24"/>
+          <note key="67" pos="744" vol="100" pan="0" len="24"/>
+          <note key="64" pos="744" vol="100" pan="0" len="24"/>
+          <note key="57" pos="744" vol="100" pan="0" len="24"/>
+        </pattern>
+        <pattern type="1" pos="2304" name="" steps="16" muted="0">
+          <note key="76" pos="0" vol="100" pan="0" len="24"/>
+          <note key="67" pos="0" vol="100" pan="0" len="24"/>
+          <note key="64" pos="0" vol="100" pan="0" len="24"/>
+          <note key="57" pos="0" vol="100" pan="0" len="24"/>
+          <note key="76" pos="24" vol="100" pan="0" len="24"/>
+          <note key="67" pos="24" vol="100" pan="0" len="24"/>
+          <note key="64" pos="24" vol="100" pan="0" len="24"/>
+          <note key="57" pos="24" vol="100" pan="0" len="24"/>
+          <note key="76" pos="48" vol="100" pan="0" len="24"/>
+          <note key="67" pos="48" vol="100" pan="0" len="24"/>
+          <note key="64" pos="48" vol="100" pan="0" len="24"/>
+          <note key="57" pos="48" vol="100" pan="0" len="24"/>
+          <note key="76" pos="72" vol="100" pan="0" len="12"/>
+          <note key="67" pos="72" vol="100" pan="0" len="12"/>
+          <note key="64" pos="72" vol="100" pan="0" len="12"/>
+          <note key="57" pos="72" vol="100" pan="0" len="12"/>
+          <note key="76" pos="84" vol="100" pan="0" len="24"/>
+          <note key="67" pos="84" vol="100" pan="0" len="24"/>
+          <note key="64" pos="84" vol="100" pan="0" len="24"/>
+          <note key="57" pos="84" vol="100" pan="0" len="24"/>
+          <note key="76" pos="108" vol="100" pan="0" len="12"/>
+          <note key="67" pos="108" vol="100" pan="0" len="12"/>
+          <note key="64" pos="108" vol="100" pan="0" len="12"/>
+          <note key="57" pos="108" vol="100" pan="0" len="12"/>
+          <note key="76" pos="120" vol="100" pan="0" len="12"/>
+          <note key="67" pos="120" vol="100" pan="0" len="12"/>
+          <note key="64" pos="120" vol="100" pan="0" len="12"/>
+          <note key="57" pos="120" vol="100" pan="0" len="12"/>
+          <note key="76" pos="132" vol="100" pan="0" len="24"/>
+          <note key="67" pos="132" vol="100" pan="0" len="24"/>
+          <note key="64" pos="132" vol="100" pan="0" len="24"/>
+          <note key="57" pos="132" vol="100" pan="0" len="24"/>
+          <note key="76" pos="156" vol="100" pan="0" len="12"/>
+          <note key="67" pos="156" vol="100" pan="0" len="12"/>
+          <note key="64" pos="156" vol="100" pan="0" len="12"/>
+          <note key="57" pos="156" vol="100" pan="0" len="12"/>
+          <note key="76" pos="168" vol="100" pan="0" len="24"/>
+          <note key="67" pos="168" vol="100" pan="0" len="24"/>
+          <note key="64" pos="168" vol="100" pan="0" len="24"/>
+          <note key="57" pos="168" vol="100" pan="0" len="24"/>
+          <note key="75" pos="192" vol="100" pan="0" len="24"/>
+          <note key="67" pos="192" vol="100" pan="0" len="24"/>
+          <note key="64" pos="192" vol="100" pan="0" len="24"/>
+          <note key="57" pos="192" vol="100" pan="0" len="24"/>
+          <note key="75" pos="216" vol="100" pan="0" len="24"/>
+          <note key="67" pos="216" vol="100" pan="0" len="24"/>
+          <note key="64" pos="216" vol="100" pan="0" len="24"/>
+          <note key="57" pos="216" vol="100" pan="0" len="24"/>
+          <note key="75" pos="240" vol="100" pan="0" len="24"/>
+          <note key="67" pos="240" vol="100" pan="0" len="24"/>
+          <note key="64" pos="240" vol="100" pan="0" len="24"/>
+          <note key="57" pos="240" vol="100" pan="0" len="24"/>
+          <note key="75" pos="264" vol="100" pan="0" len="12"/>
+          <note key="67" pos="264" vol="100" pan="0" len="12"/>
+          <note key="64" pos="264" vol="100" pan="0" len="12"/>
+          <note key="57" pos="264" vol="100" pan="0" len="12"/>
+          <note key="75" pos="276" vol="100" pan="0" len="24"/>
+          <note key="67" pos="276" vol="100" pan="0" len="24"/>
+          <note key="64" pos="276" vol="100" pan="0" len="24"/>
+          <note key="57" pos="276" vol="100" pan="0" len="24"/>
+          <note key="75" pos="300" vol="100" pan="0" len="12"/>
+          <note key="67" pos="300" vol="100" pan="0" len="12"/>
+          <note key="64" pos="300" vol="100" pan="0" len="12"/>
+          <note key="57" pos="300" vol="100" pan="0" len="12"/>
+          <note key="75" pos="312" vol="100" pan="0" len="12"/>
+          <note key="67" pos="312" vol="100" pan="0" len="12"/>
+          <note key="64" pos="312" vol="100" pan="0" len="12"/>
+          <note key="57" pos="312" vol="100" pan="0" len="12"/>
+          <note key="75" pos="324" vol="100" pan="0" len="24"/>
+          <note key="67" pos="324" vol="100" pan="0" len="24"/>
+          <note key="64" pos="324" vol="100" pan="0" len="24"/>
+          <note key="57" pos="324" vol="100" pan="0" len="24"/>
+          <note key="75" pos="348" vol="100" pan="0" len="12"/>
+          <note key="67" pos="348" vol="100" pan="0" len="12"/>
+          <note key="64" pos="348" vol="100" pan="0" len="12"/>
+          <note key="57" pos="348" vol="100" pan="0" len="12"/>
+          <note key="75" pos="360" vol="100" pan="0" len="24"/>
+          <note key="67" pos="360" vol="100" pan="0" len="24"/>
+          <note key="64" pos="360" vol="100" pan="0" len="24"/>
+          <note key="57" pos="360" vol="100" pan="0" len="24"/>
+          <note key="74" pos="384" vol="100" pan="0" len="24"/>
+          <note key="67" pos="384" vol="100" pan="0" len="24"/>
+          <note key="64" pos="384" vol="100" pan="0" len="24"/>
+          <note key="57" pos="384" vol="100" pan="0" len="24"/>
+          <note key="74" pos="408" vol="100" pan="0" len="24"/>
+          <note key="67" pos="408" vol="100" pan="0" len="24"/>
+          <note key="64" pos="408" vol="100" pan="0" len="24"/>
+          <note key="57" pos="408" vol="100" pan="0" len="24"/>
+          <note key="74" pos="432" vol="100" pan="0" len="24"/>
+          <note key="67" pos="432" vol="100" pan="0" len="24"/>
+          <note key="64" pos="432" vol="100" pan="0" len="24"/>
+          <note key="57" pos="432" vol="100" pan="0" len="24"/>
+          <note key="74" pos="456" vol="100" pan="0" len="12"/>
+          <note key="67" pos="456" vol="100" pan="0" len="12"/>
+          <note key="64" pos="456" vol="100" pan="0" len="12"/>
+          <note key="57" pos="456" vol="100" pan="0" len="12"/>
+          <note key="74" pos="468" vol="100" pan="0" len="24"/>
+          <note key="67" pos="468" vol="100" pan="0" len="24"/>
+          <note key="64" pos="468" vol="100" pan="0" len="24"/>
+          <note key="57" pos="468" vol="100" pan="0" len="24"/>
+          <note key="74" pos="492" vol="100" pan="0" len="12"/>
+          <note key="67" pos="492" vol="100" pan="0" len="12"/>
+          <note key="64" pos="492" vol="100" pan="0" len="12"/>
+          <note key="57" pos="492" vol="100" pan="0" len="12"/>
+          <note key="74" pos="504" vol="100" pan="0" len="12"/>
+          <note key="67" pos="504" vol="100" pan="0" len="12"/>
+          <note key="64" pos="504" vol="100" pan="0" len="12"/>
+          <note key="57" pos="504" vol="100" pan="0" len="12"/>
+          <note key="74" pos="516" vol="100" pan="0" len="24"/>
+          <note key="67" pos="516" vol="100" pan="0" len="24"/>
+          <note key="64" pos="516" vol="100" pan="0" len="24"/>
+          <note key="57" pos="516" vol="100" pan="0" len="24"/>
+          <note key="74" pos="540" vol="100" pan="0" len="12"/>
+          <note key="67" pos="540" vol="100" pan="0" len="12"/>
+          <note key="64" pos="540" vol="100" pan="0" len="12"/>
+          <note key="57" pos="540" vol="100" pan="0" len="12"/>
+          <note key="74" pos="552" vol="100" pan="0" len="24"/>
+          <note key="67" pos="552" vol="100" pan="0" len="24"/>
+          <note key="64" pos="552" vol="100" pan="0" len="24"/>
+          <note key="57" pos="552" vol="100" pan="0" len="24"/>
+          <note key="72" pos="576" vol="100" pan="0" len="24"/>
+          <note key="69" pos="576" vol="100" pan="0" len="24"/>
+          <note key="65" pos="576" vol="100" pan="0" len="24"/>
+          <note key="57" pos="576" vol="100" pan="0" len="24"/>
+          <note key="72" pos="600" vol="100" pan="0" len="24"/>
+          <note key="69" pos="600" vol="100" pan="0" len="24"/>
+          <note key="65" pos="600" vol="100" pan="0" len="24"/>
+          <note key="57" pos="600" vol="100" pan="0" len="24"/>
+          <note key="72" pos="624" vol="100" pan="0" len="24"/>
+          <note key="69" pos="624" vol="100" pan="0" len="24"/>
+          <note key="65" pos="624" vol="100" pan="0" len="24"/>
+          <note key="57" pos="624" vol="100" pan="0" len="24"/>
+          <note key="72" pos="648" vol="100" pan="0" len="12"/>
+          <note key="69" pos="648" vol="100" pan="0" len="12"/>
+          <note key="65" pos="648" vol="100" pan="0" len="12"/>
+          <note key="57" pos="648" vol="100" pan="0" len="12"/>
+          <note key="72" pos="660" vol="100" pan="0" len="24"/>
+          <note key="69" pos="660" vol="100" pan="0" len="24"/>
+          <note key="64" pos="660" vol="100" pan="0" len="24"/>
+          <note key="57" pos="660" vol="100" pan="0" len="24"/>
+          <note key="72" pos="684" vol="100" pan="0" len="12"/>
+          <note key="69" pos="684" vol="100" pan="0" len="12"/>
+          <note key="64" pos="684" vol="100" pan="0" len="12"/>
+          <note key="57" pos="684" vol="100" pan="0" len="12"/>
+          <note key="72" pos="696" vol="100" pan="0" len="12"/>
+          <note key="69" pos="696" vol="100" pan="0" len="12"/>
+          <note key="64" pos="696" vol="100" pan="0" len="12"/>
+          <note key="57" pos="696" vol="100" pan="0" len="12"/>
+          <note key="74" pos="708" vol="100" pan="0" len="24"/>
+          <note key="67" pos="708" vol="100" pan="0" len="24"/>
+          <note key="64" pos="708" vol="100" pan="0" len="24"/>
+          <note key="57" pos="708" vol="100" pan="0" len="24"/>
+          <note key="74" pos="732" vol="100" pan="0" len="12"/>
+          <note key="67" pos="732" vol="100" pan="0" len="12"/>
+          <note key="64" pos="732" vol="100" pan="0" len="12"/>
+          <note key="57" pos="732" vol="100" pan="0" len="12"/>
+          <note key="72" pos="744" vol="100" pan="0" len="24"/>
+          <note key="67" pos="744" vol="100" pan="0" len="24"/>
+          <note key="64" pos="744" vol="100" pan="0" len="24"/>
+          <note key="57" pos="744" vol="100" pan="0" len="24"/>
+        </pattern>
+        <pattern type="1" pos="3072" name="" steps="16" muted="0">
+          <note key="76" pos="0" vol="100" pan="0" len="192"/>
+          <note key="69" pos="0" vol="100" pan="0" len="192"/>
+          <note key="67" pos="0" vol="100" pan="0" len="192"/>
+          <note key="60" pos="0" vol="100" pan="0" len="192"/>
+          <note key="74" pos="192" vol="100" pan="0" len="192"/>
+          <note key="69" pos="192" vol="100" pan="0" len="192"/>
+          <note key="66" pos="192" vol="100" pan="0" len="192"/>
+          <note key="62" pos="192" vol="100" pan="0" len="192"/>
+          <note key="72" pos="384" vol="100" pan="0" len="192"/>
+          <note key="67" pos="384" vol="100" pan="0" len="192"/>
+          <note key="64" pos="384" vol="100" pan="0" len="192"/>
+          <note key="60" pos="384" vol="100" pan="0" len="192"/>
+          <note key="69" pos="576" vol="100" pan="0" len="192"/>
+          <note key="66" pos="576" vol="100" pan="0" len="192"/>
+          <note key="62" pos="576" vol="100" pan="0" len="192"/>
+          <note key="57" pos="576" vol="100" pan="0" len="192"/>
+          <note key="71" pos="768" vol="100" pan="0" len="192"/>
+          <note key="67" pos="768" vol="100" pan="0" len="192"/>
+          <note key="62" pos="768" vol="100" pan="0" len="192"/>
+          <note key="59" pos="768" vol="100" pan="0" len="192"/>
+          <note key="72" pos="960" vol="100" pan="0" len="192"/>
+          <note key="69" pos="960" vol="100" pan="0" len="192"/>
+          <note key="65" pos="960" vol="100" pan="0" len="192"/>
+          <note key="60" pos="960" vol="100" pan="0" len="192"/>
+          <note key="76" pos="1152" vol="100" pan="0" len="192"/>
+          <note key="72" pos="1152" vol="100" pan="0" len="192"/>
+          <note key="69" pos="1152" vol="100" pan="0" len="192"/>
+          <note key="64" pos="1152" vol="100" pan="0" len="192"/>
+          <note key="74" pos="1344" vol="100" pan="0" len="192"/>
+          <note key="69" pos="1344" vol="100" pan="0" len="192"/>
+          <note key="66" pos="1344" vol="100" pan="0" len="192"/>
+          <note key="62" pos="1344" vol="100" pan="0" len="192"/>
+        </pattern>
+        <pattern type="0" pos="4608" name="" steps="16" muted="0"/>
+      </track>
+      <track type="0" solo="0" name="Bass" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="6" vol="100" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="1">
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/SamsaraCycleAudio__FabBass/Samsara_FabBass.dll" chunk="zgANAFoAAACirHFLodVGHwG/c31dJu0TTdekSX88MTE+l1QjVp8AfyDkXGaqhGtlXYh8HOmhtF0wF85+aKHNQEZiIVrhDAECNCrqRiS0IC5lFl4K/3mwE4G63Sm7J9I3sNeRA5LA3Bgu7roAxdRUL+3ZUzQPTORwTi2CLOyYqB8oSbVnAiDnC9zVHxa1c+Ixu4ZqEcMbMCjtNeoJ+lsuersvAABBgDo9AAAAAEtiUAnTQggiHUQ6F6DPjCoOuSEtTem8eViR2ztVKGMu0DcCOyDxQkfZmXh3NfxZTY0/e0p7eYQdMFs2Rid+M0KbyAhrWzrmP2xNVgD2Or1PnQkWPDYDXz+E0G4sMKsHM/wqACNTRqksBmjRYx7W/Q9QughYX1SzFQgFIlH8JrNNOUm0d4MrzBNoV+4i32jSULC9AGMnx7dYemXpBGJO5SQY96YB16i5CXCZvzieSiRkx0kSFyV8ZVGS/Nt+bgheaiIauHiAAAAA//7/CVMAZQB2AGUAbgB0AGUAZQBuAP/+/wxQAGUAbgBuAHkAIABTAHQAcgBlAGUAdAD//v8IVABvAG0AbwByAHIAbwB3AP/+/wdNAHkAIABMAGkAZgBlAP/+/w9CAGUAZQB0AGgAbwB2AGUAbgAgAFIAbwBjAGsAcwD//v8ISABlAGwAcAAgAE8AdQB0AP/+/xJOAG8AcgB3AGUAZwBpAGEAbgAgAFYAZQBsAG8AYwBpAHQAeQD//v8SUABsAGUAYQBzAGUAIABQAGwAZQBhAHMAZQAgAFAAbABhAHkA//7/CkQAZQBhAHIAIABTAGEAZABpAGUA//7/DlMAdAByAGEAdwBiAGUAcgByAHkAIABQAGkAZQD//v8PUwB0AHIAYQB3AGIAZQByAHIAeQAgAFQAYQByAHQA//7/D0gAaQBkAGUAIAB5AG8AdQByACAAcAByAGkAZABlAP/+/xVXAGgAZQBuACAASQAnAG0AIABiAHkAIAB5AG8AdQByACAAcwBpAGQAZQD//v8SWQBvAHUAJwB2AGUAIABnAG8AdAAgAHQAbwAgAGwAbwB2AGUA//7/DUgAZQBsAHQAZQByACAARABlAGwAdABlAHIA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/B0YAYQBiAEIAYQBzAHMA//7/BDEALQA3ADUA//7/BDEALQA4ADAA//7/BDEALQA4ADUA//7/BDEALQA4ADYA//7/BDEALQA5ADAA//7/BDIALQA1ADAA//7/BDIALQA1ADIA//7/BDIALQA1ADMA//7/BDIALQA1ADUA//7/BDIALQA2ADAA//7/BDIALQA2ADIA//7/BDIALQA2ADQA//7/BDIALQA2ADYA//7/BDIALQA2ADcA//7/BDIALQA3ADAA//7/BDIALQA3ADgA//7/BDIALQA4ADIA//7/BDIALQA4ADUA//7/BDEALQA4ADgA//7/BDEALQA5ADIA//7/BDEALQA5ADQA//7/BDEALQA5ADUA//7/BDEALQA5ADYA//7/BDEALQA5ADcA//7/BDEALQA5ADgA//7/BDEALQA5ADkA//7/BTEALQAxADAAMAD//v8EMgAtADMAMAD//v8EMgAtADMAMQD//v8EMgAtADMAMgD//v8EMgAtADMAMwD//v8EMgAtADMANgD//v8EMgAtADMANwD//v8EMgAtADcAMAD//v8EMgAtADcANAD//v8EMgAtADcANQD//v8EMgAtADcANgD//v8EMgAtADcANwD//v8EMgAtADcAOAD//v8EMgAtADgAMgD//v8EMgAtADgAMwD//v8EMgAtADgANQD//v8EMgAtADgANwD//v8EMgAtADgAOAD//v8EMgAtADgAOQD//v8EMgAtADkAMAD//v8EMgAtADkAMgD//v8EMgAtADkAMwD//v8EMgAtADkANAD//v8EMgAtADkANQD//v8EMgAtADkANgD//v8EMgAtADkANwD//v8EMgAtADkAOAD//v8EMgAtADkAOQD//v8FMgAtADEAMAAwAP/+/wYxAC0AMAA0AC0AMgD//v8GMQAtADAAOQAtADIA//7/BjEALQAxADQALQAyAP/+/wYyAC0AMQA2AC0AMgD//v8GMQAtADQAMAAtADIA//7/BjEALQA0ADEALQAyAP/+/wYyAC0ANQAwAC0AMgAEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////+/wAAAAAAAQAAAAEAAAD///////7/AAYAAAABAAAAAAAgQv///////v8AAAAAAAEAAAAAAAAA///////+/wAGAAAAAQAAAAAAAAD///////7/AAQAAAABAAAAAP///////v8ABgAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8ABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8AAAAAAAEAAAABAAAA///////+/wAGAAAAAQAAAAAAIEL///////7/AAAAAAABAAAAAAAAAP///////v8ABgAAAAEAAAAAAAAA///////+/wAEAAAAAQAAAAD///////7/AAYAAACAAAAAY2bWQGNm1kAuM4NAY2bWQDQzI0D+/09AAAAgQcDMDEBjZtZAY2bWQGNm1kBkZpZANDNDQJKZCUAyMwNAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQGNm1kBjZtZAY2bWQAAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEH///////7/AAgAAACAAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoAAAAKAAAACgAAAAoA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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///7/AAYAAACAAAAAAAAAAAAAAADaUThA1nq0QFhm5j8OrsfAMArXPwAAAAAAAAAAAAAAAI6Z+cAAAAAARLheQJRwfUCOwhXBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///7/AAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////7/AAAAAAABAAAAAQAAAP///////v8ABgAAAAEAAAAAACBC///////+/wAAAAAAAQAAAAAAAAD///////7/AAYAAAABAAAAAAAAAP///////v8ABAAAAAEAAAAA///////+/wAAAAAAgAAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAgAAAAIAAAADAAAAAwAAAAEAAAACAAAAAwAAAAMAAAADAAAAAwAAAAIAAAACAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAACAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAgAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAgAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAABAAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAgAAAAIAAAACAAAAAgAAAAMAAAADAAAAAAAA///+/wAGAAAAgAAAAAAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQUrh2kBK4dpASuHaQErh2kBK4dpASuHaQErh2kBK4dpASuHaQErh2kBK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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAAAAAHEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEGamdlAopmRQHBmpkCgmdlAAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBB///////+/wAGAAAAgAAAAAAAAAAAACBBAAAAAAAAIEEAAAAAAAAAAAAAAAAAAAAAAAAgQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAADYz20AAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQTgz40AAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBB///////+/wAAAAAAgAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAAAAA///+/wAGAAAAgAAAAAAAAAAAAAAAz6OwwFhmZsDXowDBAAAAAHoU7sCMwvU/kJkZwAAAAABsFG5AAAAAAAAAAAAAAAAAHYUbwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAAAAAIEEAACBBAAAgQQAAIEEAAAAAAAAAAAAAAAAAAAAAAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAACBBAAAgQQAAIEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAAAAAAAAAAAAAhsJ1wAAAAABUuN7AAAAAAKRHoUCkR6FAgOuRwAAAAAAAAAAA1qMwwR9cT8C4HiXBuPUowAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAAAAAAAAAAAAAAAAgQQAAAAAAAAAAAAAAAAAAAAAAACBBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAAAAAAAAAAAAA2KMwwAAAAADaerTAchSOQEbh2sBUjwJAAAAAAAAAAAAAAAAAAAAAADAKV8B8FA7BMApXQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///+/wAGAAAAgAAAAM3MTD/NzEw/EFiJP8/3gz/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD/NzEw/zcxMP83MTD+XbnI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQJiZKUCYmSlA///////+/wAGAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5KbxROSm8UTkpvFE5AAAA///+/wAGAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////+/wAGAAAAgAAAAGcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzpnEIM6ZxCDOmcQgzoAAAAAZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6ZxKDOmcSgzpnEoM6AAAA///+/wAEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////+/wAAAAAAAQAAAAEAAAD///////7/AAYAAAABAAAAAAAgQv///////v8AAAAAAAEAAAAAAAAA///////+/wAGAAAAAQAAAAAAAAD///////7/AAQAAAABAAAAAP///////v8ABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8AAAAAAAEAAAABAAAA///////+/wAGAAAAAQAAAAAAIEL///////7/AAAAAAABAAAAAAAAAP///////v8ABgAAAAEAAAAAAAAA///////+/wAEAAAAAQAAAAD///////7/AAYAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////7/AAYAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////7/AAYAAACAAAAAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUCRmclAkZnJQJGZyUD///////7/AAYAAACAAAAACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEAIAKBACACgQAgAoEALAAAC//7/AAYAAACAAAAAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEALAAAC//7/AAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////7/AAAAAAABAAAAAQAAAP///////v8ABgAAAAEAAAAAACBC///////+/wAAAAAAAQAAAAAAAAD///////7/AAYAAAABAAAAAAAAAP///////v8ABAAAAAEAAAAA///////+/wAGAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////+/wAEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////+/wAAAAAAAQAAAAEAAAD///////7/AAYAAAABAAAAAAAgQv///////v8AAAAAAAEAAAAAAAAA///////+/wAGAAAAAQAAAAAAAAD///////7/AAQAAAABAAAAAP///////v8ABgAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8ABgAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8ABgAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8ABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////v8AAAAAAAEAAAABAAAA///////+/wAGAAAAAQAAAAAAIEL///////7/AAAAAAABAAAAAAAAAP///////v8ABgAAAAEAAAAAAAAA///////+/wAEAAAAAQAAAAD///////7/AAYAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////7/AAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////7/AAAAAAABAAAAAQAAAP///////v8ABgAAAAEAAAAAACBC///////+/wAAAAAAAQAAAAAAAAD///////7/AAYAAAABAAAAAAAAAP///////v8ABAAAAAEAAAAA///////+/wA=" guivisible="0">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="2304" name="" steps="16" muted="0">
+          <note key="57" pos="0" vol="100" pan="0" len="24"/>
+          <note key="57" pos="24" vol="100" pan="0" len="24"/>
+          <note key="57" pos="48" vol="100" pan="0" len="24"/>
+          <note key="57" pos="72" vol="100" pan="0" len="24"/>
+          <note key="52" pos="120" vol="100" pan="0" len="36"/>
+          <note key="60" pos="156" vol="100" pan="0" len="36"/>
+          <note key="55" pos="192" vol="100" pan="0" len="24"/>
+          <note key="55" pos="216" vol="100" pan="0" len="24"/>
+          <note key="52" pos="240" vol="100" pan="0" len="24"/>
+          <note key="55" pos="264" vol="100" pan="0" len="24"/>
+          <note key="62" pos="324" vol="100" pan="0" len="24"/>
+          <note key="60" pos="348" vol="100" pan="0" len="36"/>
+          <note key="55" pos="384" vol="100" pan="0" len="24"/>
+          <note key="55" pos="408" vol="100" pan="0" len="24"/>
+          <note key="55" pos="432" vol="100" pan="0" len="24"/>
+          <note key="55" pos="456" vol="100" pan="0" len="24"/>
+          <note key="50" pos="504" vol="100" pan="0" len="36"/>
+          <note key="55" pos="540" vol="100" pan="0" len="36"/>
+          <note key="53" pos="576" vol="100" pan="0" len="24"/>
+          <note key="53" pos="600" vol="100" pan="0" len="24"/>
+          <note key="53" pos="624" vol="100" pan="0" len="24"/>
+          <note key="53" pos="648" vol="100" pan="0" len="12"/>
+          <note key="52" pos="660" vol="100" pan="0" len="24"/>
+          <note key="52" pos="684" vol="100" pan="0" len="12"/>
+          <note key="52" pos="696" vol="100" pan="0" len="24"/>
+          <note key="55" pos="720" vol="100" pan="0" len="24"/>
+          <note key="55" pos="744" vol="100" pan="0" len="24"/>
+        </pattern>
+        <pattern type="1" pos="0" name="" steps="16" muted="0">
+          <note key="57" pos="0" vol="100" pan="0" len="24"/>
+          <note key="57" pos="24" vol="100" pan="0" len="24"/>
+          <note key="57" pos="48" vol="100" pan="0" len="24"/>
+          <note key="57" pos="72" vol="100" pan="0" len="24"/>
+          <note key="52" pos="120" vol="100" pan="0" len="36"/>
+          <note key="60" pos="156" vol="100" pan="0" len="36"/>
+          <note key="55" pos="192" vol="100" pan="0" len="24"/>
+          <note key="55" pos="216" vol="100" pan="0" len="24"/>
+          <note key="52" pos="240" vol="100" pan="0" len="24"/>
+          <note key="55" pos="264" vol="100" pan="0" len="24"/>
+          <note key="62" pos="324" vol="100" pan="0" len="24"/>
+          <note key="60" pos="348" vol="100" pan="0" len="36"/>
+          <note key="55" pos="384" vol="100" pan="0" len="24"/>
+          <note key="55" pos="408" vol="100" pan="0" len="24"/>
+          <note key="55" pos="432" vol="100" pan="0" len="24"/>
+          <note key="55" pos="456" vol="100" pan="0" len="24"/>
+          <note key="50" pos="504" vol="100" pan="0" len="36"/>
+          <note key="55" pos="540" vol="100" pan="0" len="36"/>
+          <note key="57" pos="576" vol="100" pan="0" len="24"/>
+          <note key="57" pos="600" vol="100" pan="0" len="24"/>
+          <note key="57" pos="624" vol="100" pan="0" len="24"/>
+          <note key="57" pos="648" vol="100" pan="0" len="24"/>
+          <note key="52" pos="684" vol="100" pan="0" len="24"/>
+          <note key="55" pos="708" vol="100" pan="0" len="24"/>
+          <note key="52" pos="732" vol="100" pan="0" len="12"/>
+          <note key="59" pos="744" vol="100" pan="0" len="24"/>
+        </pattern>
+        <pattern type="1" pos="1536" name="" steps="16" muted="0">
+          <note key="57" pos="0" vol="100" pan="0" len="24"/>
+          <note key="57" pos="24" vol="100" pan="0" len="24"/>
+          <note key="57" pos="48" vol="100" pan="0" len="24"/>
+          <note key="57" pos="72" vol="100" pan="0" len="24"/>
+          <note key="52" pos="120" vol="100" pan="0" len="36"/>
+          <note key="60" pos="156" vol="100" pan="0" len="36"/>
+          <note key="55" pos="192" vol="100" pan="0" len="24"/>
+          <note key="55" pos="216" vol="100" pan="0" len="24"/>
+          <note key="52" pos="240" vol="100" pan="0" len="24"/>
+          <note key="55" pos="264" vol="100" pan="0" len="24"/>
+          <note key="62" pos="324" vol="100" pan="0" len="24"/>
+          <note key="60" pos="348" vol="100" pan="0" len="36"/>
+          <note key="55" pos="384" vol="100" pan="0" len="24"/>
+          <note key="55" pos="408" vol="100" pan="0" len="24"/>
+          <note key="55" pos="432" vol="100" pan="0" len="24"/>
+          <note key="55" pos="456" vol="100" pan="0" len="24"/>
+          <note key="50" pos="504" vol="100" pan="0" len="36"/>
+          <note key="55" pos="540" vol="100" pan="0" len="36"/>
+          <note key="57" pos="576" vol="100" pan="0" len="24"/>
+          <note key="57" pos="600" vol="100" pan="0" len="24"/>
+          <note key="57" pos="624" vol="100" pan="0" len="24"/>
+          <note key="57" pos="648" vol="100" pan="0" len="24"/>
+          <note key="52" pos="684" vol="100" pan="0" len="24"/>
+          <note key="55" pos="708" vol="100" pan="0" len="24"/>
+          <note key="52" pos="732" vol="100" pan="0" len="12"/>
+          <note key="59" pos="744" vol="100" pan="0" len="24"/>
+        </pattern>
+        <pattern type="1" pos="3072" name="" steps="16" muted="0">
+          <note key="57" pos="0" vol="100" pan="0" len="72"/>
+          <note key="60" pos="72" vol="100" pan="0" len="24"/>
+          <note key="57" pos="144" vol="100" pan="0" len="48"/>
+          <note key="50" pos="192" vol="100" pan="0" len="192"/>
+          <note key="60" pos="384" vol="100" pan="0" len="72"/>
+          <note key="55" pos="456" vol="100" pan="0" len="24"/>
+          <note key="60" pos="528" vol="100" pan="0" len="24"/>
+          <note key="55" pos="552" vol="100" pan="0" len="24"/>
+          <note key="64" pos="576" vol="100" pan="0" len="24"/>
+          <note key="62" pos="600" vol="100" pan="0" len="24"/>
+          <note key="60" pos="624" vol="100" pan="0" len="24"/>
+          <note key="62" pos="648" vol="100" pan="0" len="48"/>
+          <note key="57" pos="696" vol="100" pan="0" len="36"/>
+          <note key="54" pos="732" vol="100" pan="0" len="36"/>
+          <note key="55" pos="768" vol="100" pan="0" len="72"/>
+          <note key="59" pos="840" vol="100" pan="0" len="24"/>
+          <note key="55" pos="912" vol="100" pan="0" len="48"/>
+          <note key="53" pos="960" vol="100" pan="0" len="192"/>
+          <note key="57" pos="1152" vol="100" pan="0" len="72"/>
+          <note key="60" pos="1224" vol="100" pan="0" len="72"/>
+          <note key="57" pos="1296" vol="100" pan="0" len="48"/>
+          <note key="62" pos="1344" vol="100" pan="0" len="72"/>
+          <note key="50" pos="1416" vol="100" pan="0" len="120"/>
+        </pattern>
+        <pattern type="1" pos="768" name="" steps="16" muted="0">
+          <note key="57" pos="0" vol="100" pan="0" len="24"/>
+          <note key="57" pos="24" vol="100" pan="0" len="24"/>
+          <note key="57" pos="48" vol="100" pan="0" len="24"/>
+          <note key="57" pos="72" vol="100" pan="0" len="24"/>
+          <note key="52" pos="120" vol="100" pan="0" len="36"/>
+          <note key="60" pos="156" vol="100" pan="0" len="36"/>
+          <note key="55" pos="192" vol="100" pan="0" len="24"/>
+          <note key="55" pos="216" vol="100" pan="0" len="24"/>
+          <note key="52" pos="240" vol="100" pan="0" len="24"/>
+          <note key="55" pos="264" vol="100" pan="0" len="24"/>
+          <note key="62" pos="324" vol="100" pan="0" len="24"/>
+          <note key="60" pos="348" vol="100" pan="0" len="36"/>
+          <note key="55" pos="384" vol="100" pan="0" len="24"/>
+          <note key="55" pos="408" vol="100" pan="0" len="24"/>
+          <note key="55" pos="432" vol="100" pan="0" len="24"/>
+          <note key="55" pos="456" vol="100" pan="0" len="24"/>
+          <note key="50" pos="504" vol="100" pan="0" len="36"/>
+          <note key="55" pos="540" vol="100" pan="0" len="36"/>
+          <note key="53" pos="576" vol="100" pan="0" len="24"/>
+          <note key="53" pos="600" vol="100" pan="0" len="24"/>
+          <note key="53" pos="624" vol="100" pan="0" len="36"/>
+          <note key="52" pos="660" vol="100" pan="0" len="24"/>
+          <note key="52" pos="684" vol="100" pan="0" len="36"/>
+          <note key="55" pos="720" vol="100" pan="0" len="24"/>
+          <note key="55" pos="744" vol="100" pan="0" len="24"/>
+        </pattern>
+      </track>
+      <track type="0" solo="0" name="BD" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="3" vol="100" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="0">
+          <instrument name="vestige">
+            <vestige program="13" plugin="uservst:Instruments/Acoustica Studio Drums/Acoustica Studio Drums.dll" numparams="0" guivisible="0">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="1536" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="1728" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="1920" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2112" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2304" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2496" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2688" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2880" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="48" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+          <note key="36" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="768" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="960" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="1152" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="1344" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="36"/>
+          <note key="36" pos="96" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="3072" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="12"/>
+          <note key="36" pos="144" vol="100" pan="0" len="12"/>
+          <note key="36" pos="168" vol="100" pan="0" len="12"/>
+          <note key="36" pos="192" vol="100" pan="0" len="12"/>
+          <note key="36" pos="336" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="3456" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="12"/>
+          <note key="36" pos="144" vol="100" pan="0" len="12"/>
+          <note key="36" pos="168" vol="100" pan="0" len="12"/>
+          <note key="36" pos="192" vol="100" pan="0" len="12"/>
+          <note key="36" pos="336" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="3840" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="12"/>
+          <note key="36" pos="144" vol="100" pan="0" len="12"/>
+          <note key="36" pos="168" vol="100" pan="0" len="12"/>
+          <note key="36" pos="192" vol="100" pan="0" len="12"/>
+          <note key="36" pos="336" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="4224" name="" steps="16" muted="0">
+          <note key="36" pos="0" vol="100" pan="0" len="12"/>
+          <note key="36" pos="144" vol="100" pan="0" len="12"/>
+          <note key="36" pos="168" vol="100" pan="0" len="12"/>
+          <note key="36" pos="192" vol="100" pan="0" len="12"/>
+          <note key="36" pos="336" vol="100" pan="0" len="12"/>
+        </pattern>
+      </track>
+      <track type="0" solo="0" name="HIHAT" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="4" vol="100" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="0">
+          <instrument name="vestige">
+            <vestige program="13" plugin="uservst:Instruments/Acoustica Studio Drums/Acoustica Studio Drums.dll" numparams="0" guivisible="0">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="3072" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="46" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="96" vol="100" pan="0" len="12"/>
+          <note key="46" pos="288" vol="100" pan="0" len="12"/>
+          <note key="44" pos="360" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="3456" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="46" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="96" vol="100" pan="0" len="12"/>
+          <note key="46" pos="288" vol="100" pan="0" len="12"/>
+          <note key="44" pos="360" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="3840" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="46" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="96" vol="100" pan="0" len="12"/>
+          <note key="46" pos="288" vol="100" pan="0" len="12"/>
+          <note key="44" pos="360" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="4224" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="46" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="96" vol="100" pan="0" len="12"/>
+          <note key="46" pos="288" vol="100" pan="0" len="12"/>
+          <note key="44" pos="360" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1536" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="156" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="44" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1728" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="156" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="44" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1920" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="156" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="44" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2112" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="46" pos="156" vol="100" pan="0" len="24"/>
+          <note key="42" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2304" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="156" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="44" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2496" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="156" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="44" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2688" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="156" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="44" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2880" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="12" vol="100" pan="0" len="12"/>
+          <note key="46" pos="24" vol="100" pan="0" len="24"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="60" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="44" pos="84" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="108" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="44" pos="132" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="46" pos="156" vol="100" pan="0" len="24"/>
+          <note key="42" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="768" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="24" vol="100" pan="0" len="12"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="42" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="960" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="24" vol="100" pan="0" len="12"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="42" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1152" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="24" vol="100" pan="0" len="12"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="44" pos="168" vol="100" pan="0" len="12"/>
+          <note key="42" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1344" name="" steps="16" muted="0">
+          <note key="42" pos="0" vol="100" pan="0" len="12"/>
+          <note key="44" pos="24" vol="100" pan="0" len="12"/>
+          <note key="42" pos="48" vol="100" pan="0" len="12"/>
+          <note key="44" pos="72" vol="100" pan="0" len="12"/>
+          <note key="42" pos="96" vol="100" pan="0" len="12"/>
+          <note key="44" pos="120" vol="100" pan="0" len="12"/>
+          <note key="42" pos="144" vol="100" pan="0" len="12"/>
+          <note key="46" pos="156" vol="100" pan="0" len="24"/>
+          <note key="42" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+      </track>
+      <track type="0" trackheight="32" solo="0" name="SNARE1" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="5" vol="100" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="0">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusSpeed="0.3" src="usersoundfont:GeneralUser GS v1.471.sf2" reverbDamping="0" chorusDepth="8" reverbLevel="0.9" chorusLevel="2" bank="128" gain="1" reverbRoomSize="0.2" reverbWidth="0.5" chorusNum="3" patch="16" chorusOn="0">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="1536" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1728" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="1920" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2112" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2304" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2496" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2688" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2880" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+      </track>
+      <track type="0" trackheight="32" solo="0" name="SNARE2" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="5" vol="46.4" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="0">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusSpeed="0.3" src="usersoundfont:GMGSx.sf2" reverbDamping="0" chorusDepth="8" reverbLevel="0.9" chorusLevel="2" bank="128" gain="1" reverbRoomSize="0.2" reverbWidth="0.5" chorusNum="3" patch="16" chorusOn="0">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="1536" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="1728" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="1920" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2112" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2304" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2496" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+        <pattern type="1" pos="2688" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+          <note key="26" pos="180" vol="100" pan="0" len="12"/>
+        </pattern>
+        <pattern type="1" pos="2880" name="" steps="16" muted="0">
+          <note key="26" pos="48" vol="100" pan="0" len="36"/>
+          <note key="26" pos="144" vol="100" pan="0" len="36"/>
+        </pattern>
+      </track>
+      <track type="0" solo="0" name="Lead" muted="0" mutedBeforeSolo="0">
+        <instrumenttrack fxch="7" pitch="0" pan="0" pitchrange="1" basenote="57" usemasterpitch="1">
+          <vol value="0" id="9088" scale_type="linear"/>
+          <instrument name="vestige">
+            <vestige program="0" plugin="uservst:Instruments/NK 1001/NK 1001.dll" chunk="ywANABwAAAAIAAAA2nMAANYsAAAjSAAAdWcAdDsAAACLeQAAXW4AAL4YAAC7QQAArUwAAEAuAAAwQgAAHEkAAJp1AADhEgAAnRMAADZrAADITQAAyiYAACkAAACJawAAUAEAADkgU3T1fwAAAAAAAD4PAAD2OwAABk0AAAAAAADrAQAA1iwAAA1EAADhSgAA8VoAAJBfAABSaQAAgAAAAAlSZXNvc3ludGgJUyZIICBSZXNvClBsYWluIGJhc3MMQ2xhc3NpYyBCYXNzCVNlcSBTeW50aA9GdW5rIEJhc3MgU3ludGgLTG8gRmkgQ2hvcmQMQm93IHdvdyBCYXNzCFRoZXJlbWluCUxGTyBNb2QgMQlMRk8gTW9kIDIJTEZPIE1vZCAzCUxGTyBNb2QgNAtDbGljayBDaG9yZA5TbG93IEJyYXNzIDV0aAlPc2NpbGxhdGULQ2xhc3NpYyBTJkgHUnl0aG1pawlSZXRyb2dhbWUITW9kRmx1dGUNUG9ydGFUcmlhbmdsZQRXaW5kCkZ1c2lvblNvbG8IT2N0YUJhc3MIT2RkQ2hvcmQJVGVsZVN5bnRoClN5blRydW1wZXQKU2xvd0F0dGFjawZTZXFQb3AIUmV0cm9mZXgKSW5kdXN0cmlhbAdUcmVtb2xvClNlcVN5bnRoIDIKU3F1YXJlQmFzcwdaYXBCYXNzCU5vaXNlUGVyYwtDeWJlclBpZ2VvbgZQV0Jhc3MLUmV0cm9CYXNzIDELUmV0cm9CYXNzIDILUmV0cm9CYXNzIDMEWmFwcAZXb2JsZXILUmV0cm9Ib3JuIDELUmV0cm9Ib3JuIDIJUHJvZ1N5bnRoB0F1dG9MRk8JTW9kQmFzcyAxCU1vZEJhc3MgMgxFY2hvVHJpYW5nbGUJQ2F2ZVN0aWNrB0NhZGVuY2UHT2RkVG9uZQRVc2VyDShDb3B5IDEpIFVzZXINKENvcHkgMikgVXNlcg0oQ29weSAzKSBVc2VyDShDb3B5IDQpIFVzZXINKENvcHkgNSkgVXNlcg0oQ29weSA2KSBVc2VyDShDb3B5IDcpIFVzZXINKENvcHkgOCkgVXNlcg0oQ29weSA5KSBVc2VyDihDb3B5IDEwKSBVc2VyCVBhdGNoICA2NQlQYXRjaCAgNjYJUGF0Y2ggIDY3CVBhdGNoICA2OAlQYXRjaCAgNjkJUGF0Y2ggIDcwCVBhdGNoICA3MQlQYXRjaCAgNzIJUGF0Y2ggIDczCVBhdGNoICA3NAlQYXRjaCAgNzUJUGF0Y2ggIDc2CVBhdGNoICA3NwlQYXRjaCAgNzgJUGF0Y2ggIDc5CVBhdGNoICA4MAlQYXRjaCAgODEJUGF0Y2ggIDgyCVBhdGNoICA4MwlQYXRjaCAgODQJUGF0Y2ggIDg1CVBhdGNoICA4NglQYXRjaCAgODcJUGF0Y2ggIDg4CVBhdGNoICA4OQlQYXRjaCAgOTAJUGF0Y2ggIDkxCVBhdGNoICA5MglQYXRjaCAgOTMJUGF0Y2ggIDk0CVBhdGNoICA5NQlQYXRjaCAgOTYJUGF0Y2ggIDk3CVBhdGNoICA5OAlQYXRjaCAgOTkJUGF0Y2ggMTAwCVBhdGNoIDEwMQlQYXRjaCAxMDIJUGF0Y2ggMTAzCVBhdGNoIDEwNAlQYXRjaCAxMDUJUGF0Y2ggMTA2CVBhdGNoIDEwNwlQYXRjaCAxMDgJUGF0Y2ggMTA5CVBhdGNoIDExMAlQYXRjaCAxMTEJUGF0Y2ggMTEyCVBhdGNoIDExMwlQYXRjaCAxMTQJUGF0Y2ggMTE1CVBhdGNoIDExNglQYXRjaCAxMTcJUGF0Y2ggMTE4CVBhdGNoIDExOQlQYXRjaCAxMjAJUGF0Y2ggMTIxCVBhdGNoIDEyMglQYXRjaCAxMjMJUGF0Y2ggMTI0CVBhdGNoIDEyNQlQYXRjaCAxMjYJUGF0Y2ggMTI3CVBhdGNoIDEyOAUwLjAwMAUwLjAwMAUwLjAwMAQxLjY1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDEuNzAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAEMS41MAUwLjAwMAQzLjM1BDEuNTUFMC4wMDAEMi4xMAUwLjAwMAQxLjYwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDIuODAENS4wMAUwLjY1MAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAQyLjQwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDIuNjAEMi4zMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAEzAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyAjEyATICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTICMTIBMAEwATABMAEwATACLTEBMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAItMQEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xAi0xBTAuMDAwBDguNTUEOS4yMAQ4LjQ5BDcuODkEOC43NAQ5LjA1BDkuMDQEOC41OQQ1LjM1BDcuMDUEOC4xOQQ3LjY5BDguNzkEOC4zNQQ4LjM1BDkuMTQEOC4zNQQyLjkwBDQuNjQEOS4zNAUwLjAwMAQ4LjY0BDguNjAENi41OQQ3Ljg0BDYuMTAEOS4zNAQ5LjI5BDMuOTAENS43OQQ4Ljg5BDguODQEOS4zNAQ5LjM0BTAuMDAwBDUuNDkEOS4zNAQ3LjU0BDguNzQEOC4xNQUwLjAwMAUwLjAwMAQ3LjY1BDcuNjAEOC42NQQ4LjkwBDguNjUEOC42NQQ4Ljk1BTAuMDAwBDguNjUEOS42MAQ4LjY1BDguNjUEOC42NQQ4LjY1BDguNjUEOC42NQQ4LjY1BDguNjUEOC42NQQ4LjY1BDguNjUEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAQ5LjM0BDkuMzQEOS4zNAYtNC4yNTAGLTQuMzk2Bi00LjMwNgYtNC4zMDYGLTUuMjA2Bi01LjIwNgYtMy40MDYGLTQuNTc2Bi00Ljc1NgYtNS44NjYGLTYuMTA2Bi01LjI5NgYtNS40NDYGLTQuMzA2Bi0zLjg4NgYtNS4zODYGLTUuNDE2Bi02LjQzNgYtNS4yOTYGLTYuMjU2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNS45ODYGLTQuMzA2Bi01Ljg5NgYtNC4zMDYGLTMuMTk2Bi02LjQ5NgYtNi42NDYGLTQuMzA2Bi0zLjMxNgYtNS4wODYGLTQuMzA2Bi00LjMwNgYtNS43NDYGLTQuMzk2Bi01Ljg5NgYtNC45MDYGLTUuNDE2Bi01LjkyNgYtNC4zMDYGLTUuMTE2Bi00Ljk5NgYtNS41NDAGLTMuNjE2Bi00LjU3NgYtNS43MTYGLTQuMjc2Bi02Ljc2NgYtMy44ODYGLTMuNjQ2Bi0zLjg4NgYtMy44ODYGLTMuODg2Bi0zLjg4NgYtMy44ODYGLTMuODg2Bi0zLjg4NgYtMy44ODYGLTMuODg2Bi0zLjg4NgYtMy44ODYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2Bi00LjMwNgYtNC4zMDYGLTQuMzA2BDUuMDAGLTAuMDY3Bi0yLjIxNwYtMC44MTcGLTEuMTE3Bi0xLjU2NwQzLjY4Bi0xLjI2NwQyLjYwBDIuNjAGLTAuOTY3Bi0yLjIxNwYtMi4yMTcEMi45OAQyLjcwBDEuOTAEMS4wOAQxLjAzBi0xLjkxNwQxLjM4BDIuMjMEMy4yMwYtMC4xMTcEMS41MwQxLjQzBDIuMzMFMC4yMzMGLTEuOTE3BDEuMTAENS4wMAYtMS45NjcGLTAuNzY3Bi0wLjE2NwQxLjMzBDIuMDUEMi45OAYtMy4wMTcGLTEuNDE3Bi0yLjUxNwYtMi4yNjcGLTEuOTE3Bi00LjY1MAYtMC41MDAGLTAuMDE3BTAuNTMzBDQuNjAGLTEuNDE3BTAuMDgzBDEuMTgFMC45MzMGLTEuMDE3BDIuMTMGLTEuNjE3BTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBTAuMTMzBi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwYtMi4yMTcGLTIuMjE3Bi0yLjIxNwUxMC4wMAQ2LjkwBDcuOTUENy40MAQ2LjI1BDQuOTUEMS42MAQ3LjQwBDYuOTAENi45MAQ4LjA1BDYuOTAEOC4yNQUwLjAwMAUwLjAwMAUwLjAwMAQ4Ljg1BDguMDUENi45MAQ2LjkwBDguNTAEOC42NQQ3Ljc1BTAuMDAwBDMuNDAFMC4wMDAENy4yNQQ3LjE1BDcuOTAENi45MAQ3LjQ1BDguNjAENS4yNQQ0LjU1BDMuMzUENS4xNQQ3Ljg1BDcuODUENS45NQQ2LjE1BDYuNTAENS44NQQ4LjE1BDYuNDUENi43NQUwLjgwMAQ3LjcwBDYuMjUENi4yNQQ2Ljk1BDIuOTAEOC4wMAQ1LjUwBDguNDAEOC40MAQ4LjQwBDguNDAEOC40MAQ4LjQwBDguNDAEOC40MAQ4LjQwBDguNDAEOC40MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBDYuOTAENi45MAQ2LjkwBTAuMDAwBTAuMjIwBTAuMDAwBTAuMDAwBTAuMTUwBTAuMDAwBTAuMDk1BTAuMDAwBTAuMjcwBTAuMjk1BTAuMzc1BTAuMjUwBTAuMzc1BTAuMjMwBTAuMzQ1BTAuMjMwBTAuMjYwBTAuMTgwBTAuMjMwBTAuMTgwBTAuMjA1BTAuMjEwBTAuMjAwBTAuMDAwBTAuMzgwBTAuNTM1BTAuMjk1BTAuMjQwBTAuMzI1BTAuMzMwBTAuMjQwBTAuMjY1BTAuMjM1BTAuMTYwBTAuMDAwBTAuMzEwBTAuMzM1BTAuNDg1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMjIwBTAuMjY1BTAuMTMwBTAuMTE1BTAuMjQ1BTAuMjc1BTAuMDAwBTAuNTQwBTAuNjgwBTAuMjkwBTAuMzM1BTAuMzA1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BTAuMTM1BDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAEOC4wMAQ4LjAwBDguMDAFMC4wMDEFMC4wMTAFMC4wMTAFMC4wMTUFMC4wMTAGLTAuMDEwBTAuMDAwBTAuMDEwBTAuMDAwBTAuMDAwBTAuMDA2BTAuMDAwBTAuMDAwBTAuMDA0BTAuMDAwBTAuMDAwBTAuMDEwBTAuMDEwBTAuMDEwBi0wLjAwNQUwLjAwOAUwLjAxMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwOQUwLjAzMAUwLjAxMAUwLjAwMAUwLjAxNQUwLjAyNQUwLjAwOQUwLjAwOQUwLjAwMQUwLjAwOQUwLjAyNgUwLjAwOQUwLjAwOQUwLjAwNQUwLjAyMwUwLjAyMwUwLjAxMQUwLjAwNQUwLjAxMgUwLjAxNQUwLjAxMAUwLjAxMAUwLjAwMQUwLjAwMQUwLjAwMAUwLjAwMAUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMgUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAUwLjAxMAQxLjAwBTAuODUwBTAuNzk1BTAuNzk1BTAuOTQwBTAuODUwBTAuNjkwBTAuNjgwBTAuMjA1BTAuMjA1BTAuMzEwBTAuNjkwBTAuNjkwBTAuMTUwBTAuMDAwBTAuMTUwBTAuMzAwBTAuMjg1BTAuNjcwBTAuMTYwBTAuMTU1BTAuMTc1BTAuMzYwBTAuMTY1BTAuNjkwBTAuMDA1BTAuNDAwBTAuNjkwBTAuMzcwBTAuMDAwBTAuODE1BTAuNTE1BTAuODE1BTAuMTcwBTAuNjYwBTAuMDAwBTAuNTEwBTAuNDgwBTAuNDkwBTAuNTcwBTAuNTUwBDEuMDAFMC4zMzAFMC4zNDUFMC4zNzAFMC4xMTUFMC41NTUFMC4xOTUFMC4yMjUFMC4zMjAFMC43ODAFMC41MTUFMC42NzAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC41MTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC42OTAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4xMTcFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC41MDAFMC4xOTAFMC4yNDUFMC4wMDAFMC4wMDAFMC4zNzUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4yMTIFMC4wMjcFMC4wOTAFMC4wMDAFMC4wMDAFMC4wMDAFMC41MDAFMC41MDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4yMTIFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC41MDAFMC4yODcFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wODcFMC4zNTAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC41ODAFMC41MDAFMC4wMDAEMS4wMAQxLjAwBTAuMjM1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuNjU1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDEuMDAFMC41MDUFMC4wMDAFMC42MjUFMC4yNTAFMC4yNTAFMC4wMDAFMC4wMDAFMC41NjAFMC4zNjAFMC44ODUFMC44ODUFMC4wMDAFMC4wMDAFMC4zNjAFMC42NzUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAEMy40NQUwLjAwMAQyLjAwBTAuMDAwBDIuOTAEMy40NQQyLjg1BDMuNjUEMi4wNQQxLjQwBDUuMDAEMS4zNQQ1LjI1BTAuMDAwBTAuMDAwBDQuODAENS4wNQUwLjAwMAQyLjkwBTAuMDAwBDIuNDUFMC4wMDAEMi44MAQyLjUwBDIuNzUENC4wNQQxLjA1BDMuODAENC4yMAUwLjAwMAUwLjAwMAQ2LjcwBTAuMDAwBDEuNzUFMC4wMDAFMC4wMDAFMC4wMDAENS40MAQ0Ljc1BDMuNzAENC40MAQ1LjE1BDIuODUFMC4wMDAFMC4wMDAENC43NQQ3LjgwBDcuNDUEMi42NQQyLjMwBDIuMzAEMi4zMAQyLjMwBDIuMzAEMi4zMAQyLjMwBDIuMzAEMi4zMAQyLjMwBDIuMzAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4xMTAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC42NTUFMC40NTAFMC4zOTUFMC4wMDAFMC4yNTAFMC4wMDAFMC4wMDAFMC4xMzUFMC4xMjUFMC4wMDAFMC4wNzUFMC4wNTUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4xNTAFMC4zMjUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4yMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC43NDUFMC4zNDUFMC4wMDAFMC4wMDAFMC4wMDAFMC4zMzAFMC4xNDUFMC4xNDUFMC4yMTAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAGLTAuNzQ1Bi00LjU3MAYtMy4yMjAGLTMuOTQwBi0zLjIyMAYtMy4yMjAGLTMuMzEwBi0zLjIyMAYtMS4xNTAGLTEuMTUwBi0wLjcwMAYtMC45MjUGLTEuNjQ1Bi0zLjU4MAYtNS42OTUGLTUuMDY1Bi0zLjIyMAYtMS42MDAGLTAuMTYwBi0xLjY5MAYtMy43MTUGLTcuMDAwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMS4zMzAGLTQuMDMwBi0wLjgzNQYtMi4yNzUEMi4wMAYtMS4xMDUGLTMuNjcwBi03LjAwMAYtMy44OTUGLTMuODk1BTAuMTU1Bi0zLjg5NQYtMy44OTUGLTMuODk1Bi0zLjg5NQYtMC42MTAGLTAuOTI1Bi0xLjU1NQYtMS42OTAGLTUuMDY1Bi00Ljg0MAYtMy44OTUGLTQuMTY1Bi0xLjMzMAYtMy44OTUGLTEuMTUwBDIuMDAGLTMuODk1Bi0zLjg5NQYtMy44OTUGLTMuODk1Bi0zLjg5NQYtMy44OTUGLTMuODk1Bi0zLjg5NQYtMy44OTUGLTMuODk1Bi0zLjg5NQYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAGLTMuMjIwBi0zLjIyMAYtMy4yMjAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDUFMC4xNDUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4xMzcFMC4wMDIFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDcFMC41MDAFMC4yNjIFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4xOTIFMC40NDUFMC4wMDIFMC4wMDIFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMzYFMC4wNDEFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC40NDAFMC40NDAFMC4yOTAFMC4yOTAFMC43NDUFMC4yOTAFMC4wMDAFMC4wMDAFMC4wMDAFMC4yOTAFMC4yOTAFMC43NDAFMC4wMDAFMC4wMDAFMC41MDAFMC4yOTAFMC4yOTAFMC4yMzAFMC4wMDAFMC4yOTAFMC4wMDAFMC4wMDAFMC4yOTAFMC4yOTAFMC4wMDAFMC4yNDUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC41NTAFMC42ODAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC40MTUFMC4zOTUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4zOTUFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4yOTAFMC4wMDAEOS4xNQQxLjU1BDYuNzAENS4wNQQ1LjAwBDMuNTAEOS4yNQQxLjQ1BDEuNDUENy42MAQ2LjU1BDguNjAEOS4xMAQxLjEwBTEwLjAwBDguMDAEOC44MAQ0LjU1BDMuNTAENy43MAQ4LjkwBDkuMzUEMy42NQQyLjAwBDMuNTAFMC43NTAEMS43MAQyLjkwBDkuOTAENC44MAQ4LjkwBDIuNDAEOS41NQQ4Ljg1BDguODAFMTAuMDAENi4wMAQyLjE1BDcuMjAENy42NQQ5LjkwBDcuNjUEMy4wNQQxLjUwBDEuNjAENi41NQQ5LjEwBDUuMDUENi4wMAQ3LjgwBDUuMjAENS4xMAQ1LjE1BDUuMTUENS4xNQQ1LjE1BDUuMTUENS4xNQQ1LjE1BDUuMTUENS4xNQQ1LjE1BDUuMTUEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQzLjUwBDMuNTAEMy41MAQ4LjAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDMuMjAFMC4wMDAENS4zNQQ1LjM1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDMuNDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAEMy45MAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAQzLjIwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwATABMAEzATABMAEwATABMAEzATMBMAEwATABMAEzATABMAEwATABMAEzATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATMBMAEwATABMAEwATABMAEzATMBMwEzATMBMwEzATMBMwEzATMBMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAEwATABMAUwLjAwMAUwLjAwMAQ1Ljk1BDEuNjAEMS41MAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAQ2Ljk1BDcuNTAENy43MAQ3LjI1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDcuMzUENy44MAUwLjc1MAUwLjAwMAQ4LjMwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDQuMDAFMC4wNTAENi42NQQ3Ljg1BDcuNDAENy41MAQ2LjA1BDIuMjUFMC4wMDAENS42MAQ3LjMwBDYuMTAFMC43MDAFMC43MDAEMS41NQQ2LjcwBDcuMDAEMy4xMAQzLjEwBDEuMTUENS40NQQyLjI1BDIuMjUENi4xNQQxLjU1BDcuMDUENy4wNQQxLjU1BDEuNTUEMS41NQQxLjU1BDEuNTUEMS41NQQxLjU1BDEuNTUEMS41NQQxLjU1BDEuNTUFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAFMC4wMDAGLTYuMDAwBi0wLjk2MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjAwBi0wLjI0MAYtMS4zNjAGLTIuMDAwBi0wLjI0MAYtMC4yNDAGLTIuMDAwBi0wLjI0MAYtMC4yNDAGLTIuMDQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjgwMAYtMS44MDAGLTAuMjQwBi0wLjI0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTAuNDgwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0yLjA0MAYtMi4wNDAGLTIuMDQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAYtMC4yNDAGLTAuMjQwBi0wLjI0MAUwLjAwMAQ1LjA1BTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDYuNjUENS40NQUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BDcuMDUENy4wNQQ3LjA1BTEwLjAwBDYuMjUENS4wNQQ1LjA1BDUuODUENS4wNQQ0Ljk1BDYuNzUENi4zNQQ2LjM1BDUuMzAENC4wMAQ1LjEwBDEuMTUEMy4xMAQ4LjEwBDQuOTUENy4zMAQ1LjkwBDcuNDUENy42MAUxMC4wMAQ0LjAwBDQuNzAFMC4wMDAEMy41NQQ1LjEwBDUuNjAENS4wMAQ0LjAwBTAuMDAwBDQuMDAEMy4xMAQzLjI1BTAuMDAwBTAuMDAwBDUuNzUENS44MAQ0LjcwBDQuNzAENC43MAUwLjAwMAUwLjAwMAQ4LjA1BDguNTUEMS44MAQzLjA1BDUuMjUENS4yNQQ3LjYwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBTAuMDAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAENC4wMAQ0LjAwBDQuMDAFMC4wMDAEMS41NQQyLjA1BTAuMDAwBDIuMDAFMC4wMDAEMS42NQUwLjAwMAQzLjg1BDMuNjUEMy4yMAQ2LjMwBDYuMTAEMS42MAQzLjEwBDIuMzUEMS42NQQyLjU1BDEuMDAEMS4zNQQyLjUwBDMuNTAEMy4zMAUwLjAwMAQxLjQwBTAuNzUwBDEuNzUEMi4xMAQxLjAwBDEuNDUEMS40MAQ2LjkwBDEuMzAEMS41MAUwLjAwMAQxLjM1BTAuNjAwBDIuNzAFMC4wMDAFMC4wMDAFMC4wMDAEMS40MAQxLjg1BDIuMTUEMS44MAQ0LjUwBDEuNjAFMTAuMDAEMS4xMAQzLjYwBDEuMTUEMy4zMAUwLjg1MAQ0LjU1BDQuNTUENC41NQQ0LjU1BDQuNTUENC41NQQ0LjU1BDQuNTUENC41NQQ0LjU1BDQuNTUFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMTAuMDAFMC4wMDAEMS43MAQxLjcwBTAuMjAwBDEuODUFMC4wMDAEMS41NQUwLjAwMAQyLjkwBDUuNDUEMy4yMAQ4LjYwBDMuMTUEMS4zMAQyLjYwBDIuMTAEMS4yMAQxLjgwBTAuOTAwBDEuNDUEMi42NQQyLjMwBDMuNDAFMC4wMDAEMS4yMAUwLjI1MAQyLjI1BDIuMzUEMS4yNQQzLjQwBDEuNTAEOC41MAQxLjMwBDEuNDUFMC4wMDAEMS41MAQxLjEwBDIuNjAFMC4wMDAFMC4wMDAFMC4wMDAEMS40MAQxLjk1BDIuMDAEMS43NQQyLjkwBDEuNjAFMTAuMDAFMC41MDAEMy43NQUwLjgwMAQyLjQ1BTAuODUwBDMuOTUEMy45NQQzLjk1BDMuOTUEMy45NQQzLjk1BDMuOTUEMy45NQQzLjk1BDMuOTUEMy45NQUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUxMC4wMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjMzMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjU1NgUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjAwMAUwLjM0MQUwLjYxMAUwLjgzMAUwLjc2NQUwLjc0MAQxLjAwBTAuNTIwBTAuODM1BTAuNDkwBTAuNDkwBTAuNzIwBTAuNzkwBTAuNzkwBTAuNjYwBTAuNzY1BTAuOTA1BTAuNDkwBTAuNzMwBTAuNTY1BTAuNTc1BTAuOTc1BTAuOTIwBTAuODkwBTAuNzgwBTAuODMwBTAuODk1BTAuODIwBTAuNTEwBTAuNjcwBTAuMzA1BTAuNTIwBTAu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kKHfQOB4xUCQqiHBpsEBwQyW28AAABbD3Dy/wo/IFsKO2+LBAAAWwwAAFsMAABbDAAAWwwAAFsMAABbDAAAWwwAAFsMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAIA/AACAPwAAgD8AAIA/AAAAAAAAgD8AAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAPwAAgD8AAIA/AACAPwAAAAAAAIA/AACAPwAAAAAAAAAAAACAPwAAgD8AAIA/AAAAAAAAgD8AAIA/AAAAAAAAAAAAAIA/AACAPwAAgD8AAIA/AACAPwAAAAAAAIA/AAAAAAAAgD8AAIA/AAAAAAAAAAAAAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8zE0DHzABBzcyMQAAAIEEAAAAAAAAAAAAwwDYAAAAAODPrQPr/E0HEzMw+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUzMxAZGYmQJKZuUDMzMw9AAAAAAAAAAAAAAAAAAAAACszu0AAAAAAAAAAAAAAAAAAAAAAMTP7QHJmhkAAAAAAAAAAAI2ZWT+NmVk/jZlZP42ZWT+emfFAjZlZP2BmhkAAgDE2jZlZP42ZWT+NmVk/jZlZP42ZWT+NmVk/jZlZP42ZWT+NmVk/jZlZP42ZWT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAPz/X0AAAAAAxsy0QMbMtEDGzLRAAAAAAF9mtkDHzLxAKjPbQCoz20CSmbFAAAAAAAAAAAAvM7tAssxMP8jMDED7/69A/P+3QDAzI0DFzORAx8x8QAAAIEH6/7dALDPLQJaZGUAsMzNAYWa2QGJmtkAAAAAAhGZWQJSZ0UAtM7NAwszUQMTMvEDEzLxALjMHQQAAIEEoM8NAxMy8QMTMvEDEzLxAVma2QE1mdkAAAAAA+f8/P2BmtkAAAAAAYGauQGBmrkCUmYFA+v+/QGJmhkBeZs5Axcy8QMXMvEDFzLxAxcy8QMXMvEDFzLxAxcy8QMXMvEDFzLxAxcy8QMXMvEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAACBBAAAAAAAAIEEAAAAAAAAgQQAAIEEAAAAAAAAAAAAAgD8AAIA/AACAPwAAgD8AACBBAAAgQQAAIEEAACBBAACAPwAAgD8AAIA/AAAgQQAAAAAAAAAAAAAgQQAAIEEAACBBAAAgQQAAIEEAAIA/AACAPwAAAAAAAIA/AAAAAAAAIEEAACBBAAAAAAAAAAAAAAAAAAAgQQAAIEEAACBBAACAPwAAAAAAAAAAAAAAAAAAIEEAAAAAAAAAAAAAAAAAAIA/AACAPwAAgD8AAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAACBBAAAAAAAAIEEAAAAAAAAgQQAAIEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBBAAAgQQAAIEEAACBBAAAAAAAAAAAAAAAAAAAgQQAAAAAAAAAAAAAgQQAAIEEAACBBAAAgQQAAIEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEEAACBBAAAAAAAAAAAAAAAAAAAgQQAAIEEAACBBAAAAAAAAAAAAAAAAAAAAAAAAIEEAAAAAAAAgQQAAIEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" guivisible="0">
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fcut="14000" fwet="0">
+            <elvol x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elcut x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+            <elres x100="0" sustain="0.5" lspd_numerator="4" userwavefile="" lspd_syncmode="0" hold="0.5" latt="0" lshp="0" dec="0.5" ctlenvamt="0" pdel="0" lspd_denominator="4" amt="0" lspd="0.1" lamt="0" lpdel="0" att="0" rel="0.1"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpmiss="0" arptime="200" arpgate="100" arpmode="0" arp="0" arpskip="0" arp-enabled="0" arptime_denominator="4" arpdir="0" arprange="1" arptime_numerator="4" arpcycle="0" arptime_syncmode="0"/>
+          <midiport outputcontroller="0" fixedinputvelocity="-1" outputprogram="1" outputchannel="1" fixedoutputvelocity="-1" writable="0" inputchannel="0" readable="0" inputcontroller="0" fixedoutputnote="-1" basevelocity="63"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern type="1" pos="3072" name="" steps="16" muted="0">
+          <note key="48" pos="0" vol="100" pan="0" len="156"/>
+          <note key="66" pos="144" vol="100" pan="0" len="240"/>
+          <note key="64" pos="384" vol="100" pan="0" len="192"/>
+          <note key="62" pos="576" vol="100" pan="0" len="192"/>
+          <note key="59" pos="768" vol="100" pan="0" len="192"/>
+        </pattern>
+        <pattern type="1" pos="4032" name="" steps="16" muted="0">
+          <note key="60" pos="0" vol="100" pan="0" len="72"/>
+          <note key="65" pos="72" vol="100" pan="0" len="72"/>
+          <note key="64" pos="144" vol="100" pan="0" len="24"/>
+          <note key="62" pos="168" vol="100" pan="0" len="24"/>
+          <note key="64" pos="192" vol="100" pan="0" len="72"/>
+          <note key="60" pos="264" vol="100" pan="0" len="72"/>
+          <note key="64" pos="336" vol="100" pan="0" len="48"/>
+          <note key="66" pos="384" vol="100" pan="0" len="192"/>
+        </pattern>
+      </track>
+      <track type="5" solo="0" name="Automation track" muted="0" mutedBeforeSolo="0">
+        <automationtrack/>
+        <automationpattern pos="3072" tens="1" len="192" mute="0" name="Lead>Volume" prog="2">
+          <time pos="0" value="0"/>
+          <time pos="96" value="100"/>
+          <object id="9088"/>
+        </automationpattern>
+        <automationpattern pos="4416" tens="0" len="192" mute="0" name="Lead>Volume" prog="2">
+          <time pos="0" value="100"/>
+          <time pos="192" value="0"/>
+          <object id="9088"/>
+        </automationpattern>
+      </track>
+    </trackcontainer>
+    <track type="6" solo="0" name="Automation track" muted="0" mutedBeforeSolo="0">
+      <automationtrack/>
+      <automationpattern pos="0" tens="1" len="192" mute="0" name="Numerator" prog="0"/>
+      <automationpattern pos="0" tens="1" len="192" mute="0" name="Denominator" prog="0"/>
+      <automationpattern pos="0" tens="1" len="192" mute="0" name="Tempo" prog="0"/>
+      <automationpattern pos="0" tens="1" len="192" mute="0" name="Master volume" prog="0"/>
+      <automationpattern pos="0" tens="1" len="192" mute="0" name="Master pitch" prog="0"/>
+    </track>
+    <fxmixer width="1569" visible="1" x="7" minimized="0" maximized="0" y="580" height="333">
+      <fxchannel num="0" volume="1" name="Master" muted="0" soloed="0">
+        <fxchain numofeffects="0" enabled="0"/>
+      </fxchannel>
+      <fxchannel num="1" volume="0.9" name="Guitar" muted="0" soloed="0">
+        <fxchain numofeffects="2" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="ladspaeffect" autoquit_denominator="4">
+            <ladspacontrols ports="10" link="0">
+              <port02 data_numerator="4" link="0" data_syncmode="0" data="286" data_denominator="4"/>
+              <port03 link="0" data="0"/>
+              <port04 link="0" data="-10"/>
+              <port05 link="0" data="0.5"/>
+              <port06 link="0" data="5000"/>
+              <port12 data_numerator="4" data_syncmode="0" data="429" data_denominator="4"/>
+              <port13 data="0"/>
+              <port14 data="-10"/>
+              <port15 data="0.5"/>
+              <port16 data="5000"/>
+            </ladspacontrols>
+            <key>
+              <attribute value="revdelay_1605" name="file"/>
+              <attribute value="revdelay" name="plugin"/>
+            </key>
+          </effect>
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols program="0" param0="0:Pan:0.3" param5="5:T.S.D.:0.54" param13="13:Level:0.5" plugin="Effects\Classic Delay\Classic Delay.dll" param8="8:Ping-Pong:1" param9="9:Quality:1" param3="3:Sync:1" param11="11:Hi Cut:1" param6="6:Time:0.5" param10="10:Low Cut:0" param7="7:Feedback:0.41" numparams="14" param4="4:T.S.N.:0" param12="12:Mix:0.15" guivisible="0" param1="1:Mono:0" param2="2:Type:0.5"/>
+            <key>
+              <attribute value="Effects\Classic Delay\Classic Delay.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel num="2" volume="1" name="DRUMCOMB" muted="0" soloed="0">
+        <fxchain numofeffects="1" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols param0="0:Size:0.83" param5="5:Early Ref.:1" param3="3:Hi Damp:0.12" param6="6:Mix:0.1" param1="1:Damping:0.2" param7="7:Level:0.5" program="5" param2="2:Predelay:0.5" plugin="Effects\Classic Reverb\Classic Reverb.dll" param4="4:Lo Cut:0" numparams="8" guivisible="0"/>
+            <key>
+              <attribute value="Effects\Classic Reverb\Classic Reverb.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel num="3" volume="1" name="BD" muted="0" soloed="0">
+        <fxchain numofeffects="2" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols param0="0:Bypass:0" param5="5:Invert L:0" param3="3:Level:1" param6="6:Invert R:0" param1="1:Trim:0.5" param7="7:Pan Law:0" param8="8:Mid/Side:0" program="0" param2="2:Pan:0.5" plugin="Effects\DeadDuckSoftware\DD Utility.dll" param4="4:InMode:0.8" numparams="10" guivisible="0" param9="9:HardClip:0"/>
+            <key>
+              <attribute value="Effects\DeadDuckSoftware\DD Utility.dll" name="file"/>
+            </key>
+          </effect>
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols program="0" plugin="Effects\Acoustica 31 Band EQ\Acoustica 31 Band EQ.dll" chunk="VkMyIaYBAAA8MzFCYW5kRVFTZXR0aW5ncyAyMD0iMC41IiAyNT0iMC41IiAzMT0iMC41IiA0MD0iMC41IiA1MD0iMC41IiA2Mz0iMC41IiA4MD0iMC41IiAxMDA9IjAuNSIgMTI1PSIwLjUiIDE2MD0iMC41IiAyMDA9IjAuNSIgMjUwPSIwLjUiIDMyMD0iMC41IiA0MDA9IjAuNSIgNTAwPSIwLjUiIDYzMD0iMC41IiA4MDA9IjAuNSIgMTAwMD0iMC41IiAxMzAwPSIwLjUiIDE2MDA9IjAuNSIgMjAwMD0iMC41IiAyNTAwPSIwLjUiIDMyMDA9IjAuNSIgNDAwMD0iMC41IiA1MDAwPSIwLjYwNTI2MzE3NCIgNjMwMD0iMC42ODQyMTA1MzkiIDgwMDA9IjAuNzIzNjg0MTkyIiAxMDAwMD0iMC43ODI4OTQ3MzEiIDEyNTAwPSIwLjgxNTc4OTQ2MSIgMTYwMDA9IjAuNzUiIDIwMDAwPSIwLjUiIHJhd1ZvbHVtZVZhbHVlPSIwLjUiIHJhd1JhbmdlVmFsdWU9IjAuNSIvPgAA" guivisible="0"/>
+            <key>
+              <attribute value="Effects\Acoustica 31 Band EQ\Acoustica 31 Band EQ.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="2" amount="1"/>
+      </fxchannel>
+      <fxchannel num="4" volume="1" name="HIHAT" muted="0" soloed="0">
+        <fxchain numofeffects="1" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols param0="0:Bypass:0" param5="5:Invert L:0" param3="3:Level:1" param6="6:Invert R:0" param1="1:Trim:0.5" param7="7:Pan Law:0" param8="8:Mid/Side:0" program="0" param2="2:Pan:0.5" plugin="Effects\DeadDuckSoftware\DD Utility.dll" param4="4:InMode:0.8" numparams="10" guivisible="0" param9="9:HardClip:0"/>
+            <key>
+              <attribute value="Effects\DeadDuckSoftware\DD Utility.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="2" amount="1"/>
+      </fxchannel>
+      <fxchannel num="5" volume="0.464" name="SNARECOMB" muted="0" soloed="0">
+        <fxchain numofeffects="2" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols param0="0:Bypass:0" param5="5:Invert L:0" param3="3:Level:1" param6="6:Invert R:0" param1="1:Trim:0.5" param7="7:Pan Law:0" param8="8:Mid/Side:0" program="0" param2="2:Pan:0.5" plugin="Effects\DeadDuckSoftware\DD Utility.dll" param4="4:InMode:0.8" numparams="10" guivisible="0" param9="9:HardClip:0"/>
+            <key>
+              <attribute value="Effects\DeadDuckSoftware\DD Utility.dll" name="file"/>
+            </key>
+          </effect>
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="ladspaeffect" autoquit_denominator="4">
+            <ladspacontrols ports="8">
+              <port00 data="1100"/>
+              <port01 data="0"/>
+              <port02 data="0"/>
+              <port03 data="1"/>
+              <port04 data="1"/>
+              <port05 data="1"/>
+              <port06 data="1"/>
+              <port07 data="0"/>
+            </ladspacontrols>
+            <key>
+              <attribute value="tap_reverb" name="file"/>
+              <attribute value="tap_reverb" name="plugin"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="2" amount="1"/>
+      </fxchannel>
+      <fxchannel num="6" volume="1.372" name="Bass" muted="0" soloed="0">
+        <fxchain numofeffects="2" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="ladspaeffect" autoquit_denominator="4">
+            <ladspacontrols ports="4" link="0">
+              <port00 link="1" data="0.0356"/>
+              <port01 link="1" data="0"/>
+              <port10 data="0.0356"/>
+              <port11 data="0"/>
+            </ladspacontrols>
+            <key>
+              <attribute value="crossover_dist_1404" name="file"/>
+              <attribute value="crossoverDist" name="plugin"/>
+            </key>
+          </effect>
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols program="0" plugin="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" chunk="AAAAAAAAAAAAAAAAAAAAAGFibmteMwMAlQAbAnic7Z0LXAzr38BXKqHcLzmhpU6Jim5HrjOJXFJS/sjl1FZbrbZ2bRvlfgk5LrnFcXDQyV0U5ZrKnSPkVnSKUCmURETo3dna1WZ3duvdmbXtbz6fjNmd5/k988zMszPz/T7PaFMoFDd6cDCDFUQdRgsK0OUta/P+bLx8rQcOp/vSQpjcCbxlHd6fVxibFhxsRg+ieTHpg3gf6PH+aCE+DJZ5IMvHicYIMhdZpQnva+yPUjMX/B+btHh/fhxWCDuYzvyN9/9OP2Ql+BYvF6xUjKBgLi3Im24WRAukjxJbKpFVmtTKR9wfVfCfjljmLDM2jUMLDK4uDj+D4Ku8Lwx+DCJu1bqZa9VZtlCrtWDZtNaClXqtBWuNWgs2mrUWfmtWa6F/7extBQtYCCxnLEMsHyx5s5qytPtxGxlBfqFYNUjbQN56dXeNFkXSVIqIzimo6FxLOP9FpESMIDNvf1pQEJ1ZXZ+zeWF64ZSs7vp1679NneWxtevfVVD/2Hy0s3APVC8K90H1onAvVC8K90P1onBPVC/aNhdZHNCiZlGdv2jRr6XosoW26LKljuiyVSvRZevWoss2bUSXfxMs4x0KWBGxcmFlweJjMbE4rWuqrUPdHcM7CLi8g2AO7/Oe+LukZk3Jh8sPh4XMk+hJyosjCDaXgn+S1lqViHLpiZQr2J8124zGZAoOzuDRvK9NcEr3QwK8VhDbM7wshrFYfvRQc2+al5kPJyyQETqMIm7PiFuzfrlXt+6y5C7td6AU6fRD7r4MJh07dyfxvjGUkr9gXbz2HDu+a37IBB+1/yEoI8iHHmrH+7iHlIj8FXGqC20tkrcPhzGLPoT3UTecfPkricvzhZNf/kgzc1S0kugzBUeJ12wfKZVUe926ETRqlVrS/LdWN/PeTfyC6EoogS+HPtOX952RTGXA1pZYChSpjop61MwX1sx3on1OdhqXODYFlVQKP15A2UuBrS25Lur+Un2ftx6gsz0qtUBiXfA+o8teCmxtnD0iZdJFu0ooBZtDn4XlPYP3fW+ZSiJIIbk0XVH8utFFO4qUxo/Gpdec+/YUcc2w2FXxGiHdH/Pn+nPovGaS6eMgpc5F15YcxTK1lUgUrE4GY1uPk7e4eqvdvInWC6+mzXj1jh2AblLqpdaqdfNvWiv/uvPOIvF4O5bOEbTCI3hf/YoTUWRl2bepJhlWUGn7utaq4vK/4dErmaFWinQRlz+vPnzoTFrYSN6XxtJjCFYXF2fS3rMndPX+qfPTU5MwmE3zpg+n4LeqtdcVF8GKP10UX1NcRqDUs6LWquLy33iH7TChaZn4LZjN8OH6y7gF/HXx9rXoj38wjSvjpcX3NfHO6u51c/eic2nCHywGLdhiLG8NU/w4P6QRF3Hgs8BpeybmIT3xIvrTOD5BvHthCxfeWv1kjypMJy7ylwNv7zp5ucgW2bKBkS3FRf7f3l9RvZtFskV2bmBkZ3GR1wc4Ne2sm4tQ8SIz2WbY9YAzbx1z2ePWpBIX9Yr3ppPcoEso7vZiDTb/1tC7ftsrTCftUtOewwhm0zmCj4zwCoPdg2CtoZk3i8PBnrJYy14gkbTiquNWF7pW8sbcFH28EoTy83DirWIme+hQiU24oNnA3QWhZv7VO7Geh5wwncTIi8bj7/xQM2YDI+McdhVhK21vLUxEDUQjs+neXE5IoCALWhCXQWPymqfxvNUs8EJLSojXkPbAjz3LD/slGcdbqW99Ilcnw9vPhrhxvZgs7wCzYMYcuitvPct6hP6eUnL0Dij+VvswgrErmfpudU2yevxs1cmAd0/KlPqzJSYNXj3jH1vYkWnmz/Dzr++xJUwoMXbEvbpnlLgsmKzZUs8oCekkb7W1lDNK2CL71HOrZW7K6zw1oOIWh+XrG0znSv01E5uq4ac2i3cZx6Sx63uQ1ySTHDdXyqnNoQX50fmHTn1P7e8pxUVPD99shnRLlXLAV+fBO3rqe8ALE4qL3a7l+Xh0EVVK7GC6d/UtUn1jCxM2fG/zsuCGsevdpNUkkxxXC9XHj8tkselSLxLEJZIcs52U0zs4kMXi+jOC/Opdz4KEDW/CsdqqbxOOX8PSWo/ZjCAf1uz6th7VqfCidhOJGsrihnjRRW6WHHkr9MEJKSaJuHjHMvVieyU9SJEWz7L+8cTe27jbH40cl1eKGw+7SK1nPH4ScfFcO+52c3P8UufCVjSxP9uXTvfxonkHSPsxlJRO9iP2hxx4P6fSjlhxacRFvDTZt6CNkRqKF5ERhO2a+kWsTtPQbeSd0LzM6xtR2o0K3vETEESn1/P84CcRF6/nmQezfzfUQqXFq+fxyk8iLt63Kt6EROLuQyYjkMGV+oRFXBpxEXMDXfUHP2otPaJlAyKK3caSK8dmXirRRKl4EdnVv7nSWlbxqRp6rDIbcD4yJZ6P/rZZgdzCtDq3O6Kphde0nhT8awMJyfAuhTEO4Mbl0IQ/NHgVzvuoARUuSIVX4fp4UUO4sjzHEJtIXMz34+cuTVhWjOBuaXVyi3puaU0qvEbJUHpU7KGPhbRLb8kp8epZxuiWDY4u9mSeEOBq0OvqxRQZo1s1OLqVuOjofBsT9fb7ELxTLBS7acJ+waRdfktIJi7umJST7sZRhbiXFfwMfJlcL6n32JLSiYu8f5lRwsnlFBSvvgU5YA1T/eq7dkpx0X9lmbLopmG4TRo/D2yvNaC+JZ3Xw9yHbt6xSksA6ceFcEfyVTPePxIhfe2V8M5azJthc+i823l+i4q1/l1+yK/WCnhNrpinD5ipxZfyeFsdGEa196dx/OgcDCSBmgdqHqh5tRZBzQM1D2cCNU8l1TwHuap5Gi91jPb8byqJal42e3rI6KymqGPljjTTlmpkqnmU4dWlQCPRMenhnCc7PVCXDiae2q3i0fVJM451+0S2mjdR92WX3Df/Ifs3POwefqwQKZtmVbxU+4Vi1DxUtHQ/t5pHnIJ2rs0823EuOqgyK2hj2TkrwtqnE66g3UkIP7WVQaSCxnDWHGNuFU2YgvZ67KF9i3/5QqCCtujTjBaTnxcRpKAlIz7LTULP1rnjB3MCzAkwJ+RuTuAfbuAwgMMADoMyOAxgE9QrHtgEFLAJwCYAmwBsgloPzihgE4BNADYB2AT1jq0KNsF/MQxW6tuXSFtKDe53498KUIdjIAJoP9B+oP1A+4H2yz4B7VdJ2u8kV9qf/7bkS7nPJBJov4DyL/r0C7OC+glZed8jZl1EazQ6/CB7ZkE5SbQ/OyLcfu/A5eiHydFLdA9PQV8/ZyZ6HTyCWuy+VhhtkEQS7bdtNyjQfuM3ZMPfa1M2bX6DGDsea3Eq8jnycZdXWEedfFJpv2S+rkja/6N7QBTtf3gk4XDfNQWITzedE1vUKGhJRus+HczfKvWAM2dM5l/rHZNBOO0vNZ6pvarpdgJp/8aF+qbX7sQTRvtnLH7+m+e3pqiyDjhj/fHY9vS26UD7gfYD7QfaD7QfaD/Q/p+F9ueXnMo9/O4DabS/YpCtSQ/jS6TR/lm3os3CIitVgvZ/vXI+40pxW6D9cqT9AhZOFu2f168jd/piRxJp/5Cz1IBiHfyjRr60v4o/GaBUvIiNgPbzpyX3ZaP9HhS5037s+bYby1fCGFrkwP5ShEzYf/hRkSctrYxk2G9ZcwYpBvbnDjHWmZXySFbVQM6wv9RC3cnhRqqCYH+6+/1z8QOPpOCdYUTA/tSMnPIc83gFwH6D4zkHjjyIxd3bxMH+nGkhru8GuJAO+w9EuRR81I9F5An73XrsjZ9i9QLBMAgf9rswvAN4Fx5Ue05IkLc/4H7A/YD7AfcD7pd9Atyvkrhfvu/d+bflN++ytu4kdu73HjbBJfSNBvq1YE/35iakvnenVud+Z6O8/trjA1HLC/8NSFh/CH1aRI2LTiYL9wvm5fljWFVb8xD1xFF9lrq/RDalu12YeitHIZ37fy7cT17nfnOzVLVgHU30M/85yRvkCmue71DzXKXG/UZbl1O93O8Tjvsv7Ll4q8XIQwTi/tDHOpmrN68hDPczkg/qaSe+V9r3y2huPDx76cB7gPsB9wPuB9wPuB9wP+D+nwX3p/9e0mdn4RNcfCpP3O9v7+GscbgAN548cb+3W2h0t6q678AiD/eXIuThfo22YXr0wq+4EQH31w/3t03arh1fMZU03B/CWhgYS59GIu5vOtU+bK2nHom4v/WGF2f26bRDqXgRCcL9+OejfHH//QD2rJarbyq0c78Li80W3hfjVXjj4P0GkT29Pk7MI5n3973msZKyuo2CeL9gUgzvLxyzPLio32kF8X6qprFp2an9pHfuL9w94E/b1OsK4P0fenoWrlyoraDO/Rpbz612N9lPOu83sukZ+T+tfLny/secZ78/DniNYFiPz/udGEEMgP0A+wH2A+wH2F/vcgHsV0XYv2iEXGF/25yS3gdyppAI+wXzjbd3G92Z+A5RDOyvnrPQvQ/P+n0xO4beSrXbUvJPMsmwXzDflZ425uHnfGS8gQdrd0iBYkbyr1M6VYH9kuIqM+wnayT/SIODURppuwiE/XGD/qpqdmMbYbD/VFTCvM7viwmH/YUEwX7B1EM0d4D9APsB9gPsB9gPsB9gf92IMJJ/veLBSP4UGMmfCNgPI/nLH/bDSP7kwX4YyZ8E2F89wUj+MuQBI/nLFhhG8heJS8RI/qZWSe9HrSqqNZI/9oQPaD/QfqD9QPuB9te7XED7VZH2U+zlSvsDpt/OOutHJu0/M8VOI+1JEwXT/qLzk3es7boIHb59fsb7G/Ho7qQZx7p9SiGZ9v/xNuCD1/UqpOOvC36zTH2F6AzQ2R6Vqhjar6pd+wVkPO9sZOY8w3Jk2dwNnSt8KKgy0/4o9subrzdfJ5z2X1qj5j2r92kCaT/nybAu+k3/Joz2J44KnPh6faXSdu0XTD1EcwfaD7QfaD/QfqD9QPuB9teNSBbtzz0UyG3f9SZpXfsrqiIOp/jcII32Zyzp6GiTd1slaP/bET5/ND/UDGi/HGl/LPcEVT+IQxrtT77wKJK6uBK/A7pcaf99f7v1S859lh5RbrR//som42+oVeIi2cZA+/mTrCP50yhyp/3Yc+1RNI4PnSP4BK/GGwfuHx/mapd+6gXgftJw/8XyXtMiL1xWEO6PszvSuzL/JOm4P2+7fm/HdoUp5OP+Pj3jvSed/6ygsfxXh4Tt3RlG/lj++8d0+9Tta4Zc+/YLzlqM8fFxvwONSx1DmzMHUD+gfkD9gPoB9cs+AepXSdRvI1fUz01yjRxV0lnlRvHv3rlr7pnXHPRCUpe4Is/j6MNgdZ3A9xdIRv2XUjWOWQ4vQKb1nvupx9n3yLtpVsVLtV8A6ldAx36GepzxRmpTYTmUGfU/2TR6H3r/CuGo3ygh4/1fK84QiPr947ttdOXEEYb69Vo5rr8Q3gJVVtT/bVelddLBmzCKP6B+QP2A+gH1A+oH1P+zoP78klO5h999IK1jf8UgW5MexpdIQ/2zbkWbhUVWqgTq/3rlfMaVYvzXrwPqrx/qF3R7Jwv1z+vXkTt9sSOJHfuH1LxynDzUz38XXZUBSsWLqGqo34Mid9SPPd92Y/kKrw3x6pso0E/uIP6HHxV50tLKSAb9ljVnkGJAf+4QY51ZKY9k1QzkDPpLLdSdHG6kKgj0p7vfPxc/8EgK3hlGBOhPzcgpzzGPV0C/foPjOQeOPIhVEOjPmRbi+m4A+aD/QJRLwUf9WLmC/j41/fqxPPmg34XhHRAGqB9Qv4QNBNRfexFQP6D+2hOgfpVE/aZyRf2VzyaF7Q1DSET9g7/ErO909RWiWNRvXOS+e0Z5KDp1Ciu764ITCkL99EFJ/e0TMxCHM8u977+uhF79CkD9iZP/iNuY/xQp8m/V8eN+dbSFyZ49Zz2eKjXqd7GdYerw7Q7hqD844Y+C6BdE9uqf3Wbm8cflMYShftaqM08PzWuttKj/yLX/rezcPQdQP6B+QP2A+gH1A+oH1A+oH1A/oH78NHgXG4D6AfUD6gfULxoTUD+gfkD9gPrNA6Wj/pBK9fChvV4iGAbho34nOpfGZDK8qS5MGpcOuB9wP+B+wP2A+2WfAPerJO4fJlfcnzI21FpjhIsCevY7Vu5IM22ppiDc/67PzFfXenJQWgcTT+1W8ajT7muF0QZJJON+tWGDl42OLkUubFgZO9+sCVoGPftJx/1PX6y9Xn6UIox/rs0823EuOko9iP+fLfNo/brmEo77u9JuXb784Q8Ccf999QfsqX/+QRju5/69zTXBtpjAQfwtL7YoXWf6hCDcr77x8OylA+8B7gfcD7gfcD/gfsD9gPt/FtxveyOry6SVd0jD/bscNl2/1wc/njxxf56eQVcPZoXCcH8p7uDo8sX97bK0hp5gNwXcL0fcvybRYO8vzZaShvu3xCwZuuWoDEPqyw33C4QG8nB/1Erru5QhXVAqXsTGgvvnPZAN93tS5I77sUcX9hxGsPDCDa/CieL95I7hf/rPaOMUmxIYw5803m+4KGZn8snzCuL9ggnvFCOC98dl2+h1mpGpAN6v5xUT9ZihieuWEMf7ffeYN6f0X0A672enPL5sEqCJypP3C85a7Lla9Rj+DE4w18ybSQsOpk7g0IL9AfkD8gfkD8gfkL/sEyB/VUT+i0bJFfm3MU+/e+eOJwnI/3KE06e8kf8iEdTSWY6V55GS1Bar3m69i0SHH2TPLCgnCfn7vV2WdfPVbnScWf+rzYauQa20nXP33TiOjrWLLS5YdZYk5J+4MODh5m2ZyL4OWab9Bj4U9vR3NvBg7Q4ht4e/ZMiuSORPqbNMHPLfPGDMwIWbNFHv0XEj9HqqoR2jy5B7lGdK3cP/jMn8a71jMghH/ncSwk9tZfxDIPL3zBhr6T3jLGHIv13wqyesYyUEIn/BviYG+beJ1O2b+/tfgPwB+QPyB+QPyB+QPyD/nwX5c21uWYYb3yYN+b/mjyhQgIts5Yn8/w5/mB66rSWqCsj/m9kvV+a56wLyV2LkH3kp3mjbiKUk9vAH5P9TIH8aRe7IH3uuPZzuRQsWnrt4Nd44mP9Ix6utrA7kAfMnjfm3yPyHPaTFSQUxf6qmsWnZqf11Hi4Qz/z7eZ3pmTfhcAr5zH//MqOEk8spCmL+QzYuaPMoLIh05p989lSnubH5cu3jP3r+3vk9huYhbSk1zH8iI4hL86NTx9JpPoD7AfcD7gfcD7hf9glwvyrifsogueL+xF22a05RwkjA/dz9p55FNPkgPNxX3veIWRfRmuQe/vsn9UkNGnUcrS4DCx3n0Hvji0Rvknv4l70ernv9UYHwF2vb07+tT//XBO2tfaN35YDnCsH9dZdVpYe/pLjKjPuRc20NI77eIxz3RxocjNJI20Ug7j+0w26qnfU+wnD/vpn5UyJatSF8QP9CgnD/8uwlVpczswH3A+4H3A+4H3A/4H7A/T8L7s89FMht3/UmLj6V64D+VRGHU3xukNbDP2NJR0ebvNsqMaD/2xE+fzQ/1Axwvxxxfyz3BFU/iEMa7k++8CiSuriSxB7+9/3t1i85J8OYAnLD/fNXNhl/Q60SF8k2Gtwv64D+NAohuH8UjeND5wg+wavxxoH7x4e52qWfegG4nzTcf7G817TIC5cVhPvj7I70rsw/STruz9uu39uxXaECcH+fnvHek85/VtCQ/qtDwvbuDCN/SP/9Y7p96vY1Q664n3Npkd9/k94hGNfj4/4JvPsAqj0nJMgbOvcD7QfaD7S/7o4B2o8zAe1XRdov5879J28XdD/Ty44E2r+mzWpTZ6sXyOAvMes7XX2FUG6w85toqZNM+58YGn7UMl6EhupdCVo3eju6PDD2yX310+il4mflid/OkUT7x20KRi7baaL0jofctVdrojcn9ytYvLYA2RUw99riv/Khcz+JtD9x8h9xG/OfIpqdDi2dTm+CesZtNOj+4bNS0/6TJHXuP+Iy5V+38FUE0n5rF0eNr9YJhNH+hTZ2nNgpOUrbub/knxmHZo17CLQfaD/QfqD9QPuB9gPt/1lo/7FMvdheSQ9I69zvbn80clxeKWm037Xjbjc3xy8qQfsvTfYtaGOkBrRfjrS/55kHs3831CKN9n/D3myPRDbqzv0lV47NvFSiiVLxIjYC2u9vmxXILUxT6Hj+blwOTXj5glfhjQP2vx8/d2nCsmKA/aTB/gkBrga9rl5UEOxH59uYqLffRzrsH5Ny0t04qlAB4/krtm//ryxTFt00jHTYP8x96OYdq7TkO57/gfTFnP6F3/v2O4X4+jLpPlSHkDlzgPYD7QfaD7QfaL/sE9B+VaT9lAFypf3M+NmDhmp6kUD7BXPvYRNcQt9ooL9M7M6I0NckmfZXlyESvanzofnRQwfQlbShjpOK/NFfXlLjopPJ6tsvmLvZ5iV19nmCCKj/p+nTnnPiX5JK+38sVfVcVWj/iRraP4D2zH3FejW08w7ujqNjmqDKTPsH/jnwjs+T7EYwlH/R4skJmSUHCaP9XS44sov3PlJa2v8iJnK+x/ITQPuB9gPtB9oPtB9oP9B+VaX9aeN2Pc14/C9ptP/l0md5V79+UAnaD0P5y5/2kz2UvyrQfuqUKJ03u/VQKl5Egmg//qs1FEj7PShyp/3Y8+1JNE6gsN5xytE4YL+nTqtvy0e8AdhPGuxP63vDUP+vSwqC/YIJ7wwD2A+wX1ye/8UwWKlvXyIYBuHD/mEc3l0ml+rC8A7gXX8A7gfcD7gfcD/gftknwP0qiftt5Nu5v+U377K27iTi/kWffmFWUD8hG2/vNroz8R2iGNxf1dpq35cD8eic8cUHAivmogipQ/kL5n6DkvrbJ2YgzZzmXn6c/gyxG/VsaUujF4D7ScT9p9XKjv++/D1y5dqimEzjAkTwhEaZcf+a98NuBXZ4RDjud+5hpKNz7hiBuP/M2Wd/X02NIgz3Jw++3etmyXslx/0ZgPsB9wPuB9wPuB9wP+B+wP2A+wH346fBu9gA3A+4H3A/4H7RmID7AfcD7gfcbx4oHffv12v2106fIgSDv9W4nxUcTAPaD7QfaD/QfqD9QPuB9stE+9vIlfbrdp+6tU/pQBJp/9KsM4U9xrVGvxbs6d7chKKgzv2G/60ODflIQ6c9dD22NOAgytE//GH9kVSSaX9i4YcFjl2eIRk1Q/mv2LMvcej4XKD9JNL+wL23otb9/gC5eHNv5y+di5CSjNZ9Opi/Veqh/I22Lqd6ud8nnPZf2HPxVouRhwik/X0N+tresjtOGO1nJB/U005UXtq/99+dZkWrrgPtB9oPtB9oP9B+oP1A+4H2A+0H2o+fBu9iA2g/0H6g/UD7RWMC7QfaD7QfaL95oHTaP+Denbmxw8u/0357DiOYHUa154QEefsD7QfaD7QfaD/QftknoP0qSfuHyZX2B0y/nXXWbwqJtD+bPT1kdFZT9HPF4I+zd5QqqG//Fgv38ZkWe1Dq0afvrv7uh5ooZCh/wRD+gnnAiR17WO7Qt59M2i+IM9R5xLa/97wXxlVm2h/Ffnnz9ebrhNP+q1mMqvaBuwmk/evi0rtsXreJMNp/lerRYbjjW6Wl/XMep2VuHnEaaD/QfqD9QPuB9gPtB9r/s9B+2xtZXSatvEMa7d/lsOn6vT748eRJ+/P0DLp6MCsURvvx6aJ8aX+7LK2hJ9hNgfYrMe3fErNk6Jajn/GZtJLT/qiV1ncpQ7qgVLyIBNF+/GNVvrSfP817IBvt96TInfZjjy74CEvwAV6FNw7cf/rPaOMUmxLA/aThfsNFMTuTT55XMdwfl22j12lGpgJwv55XTNRjhqaCcL/vHvPmlP4LSMf97JTHl00CNOWK+3eyv7RKblqGtKXU4H43li+M5A+0H2g/BWg/0H6g/UD7ZaL99nKl/Ud81OynhdiRQPsX1/TpF4zkT7nBzm+ipY5Ghx9kzywoJ4n2/+tdEBjJnIl+mBy9RPfwFHRL1tsSz1F70cB9xeu3ZZ4mifYLRvDf8PfalE2b3yAe2w9Vto3TQNNK3oSsc3hFKu0XNkB1lhVL+yl1lomn/X0u3l4fs6YAsb2ZdJrbSl2pR/JvlWfXcxX1LuG0//i4EXtWZZ4kkPb7pHNeT0g7RRjt/1rFn5SW9qNqG58759wG2g+0H2g/0H6g/UD7gfb/LLQ/v+RU7uF3H0ij/RWDbE16GF8ijfbPuhVtFhZZqRJ9+79eOZ9xpbgt0H450n4BCyeL9s/r15E7fbEjiX37h5ylBhTr4B818qX91fczBigVL2Jjof1L7iu0bz9GsATLePVNFOwvRciE/YcfFXnS0spIhv2WNWeQYmB/7hBjnVkpj2RVDeQM+0st1J0cbqQqCPanu98/Fz/wSAreGUYE7E/NyCnPMY9XAOw3OJ5z4MiDWNy9TRzsz5kW4vpugAvpsP9AlEvBR/1YRJ6wf0vVhgC7Na8RjOrxYb8ri8bhXXhQh7FCsZsIYP3A+oH111oE1g+sH2cC1q+SrH+4XFm/adbep5NGu5DA+g3C5jLMCioQw5q53pQXvUImfiGzZz+KoC2jti4NSfFGOzab+OuDoAh025GCF04hceiYD2nRDy+eIon1r/DQ/PjfOjXUtddBiztOmciymuV306yKl2qT27Nfcl/6n7lnvx+NS68596XR3lqr4jVCuj/mz/Xn0HnNJNPHQUqdi64tOYplaiuRKFidDMa2HidvcfVWu3kjyoFgtT9TFeevjm6sKjztvLQcebQeoaYXZSj1iAdj2TkrwtqnE+5ARFZk2d/1SyDQgbgxKr79yZfrCHMgqqcKpXUgBFP3url70bk0EUgjFSSJSSMuov6yV+NPdX9Q5xFFndT+NI5PED042EIqGZeQTlzkLwfe3nXycpEtsmUDI4t9GBV5obzXtMhnskV2bmBkZ3GRffN+6z2Kml7nwWOdHJhsM+x6QNqDR/GpJB5Vry/WtR9E0wsfFXvVb3sDZXnEjN1OOdF9GCHCAWSN8MqC3YJgjaEZ9kRvAm9Na9nLI5JWXG28PF5GyUvPStHHK0GomSwPnMUmwms1cPdAqJl/9T6s5xEnTCcxcioHf9+HmjEbGFnaUdc9QYrZBD5XPUKDz1U7Nvhc4HOBzwU+F/hcEmkZvKsFJ15j8bngXS3y97ngXS3y97ngXS3k+VzwrhYYvAXe1QLvapGPz9WY3tUiOGsxm4PNoQfTufwGFdtZXX7Ir9YKeC0ullctLUzwsfB1MG78m42a18GANAbSGEhjII2BNCb7BNIYSGP0/680ZmHktn3Sx+EkSGPjbm6bw6pqimpoHrTwiy9D3ieiSVXFT0mWxjp07pp75rUX2jx89UPPpK2ov8e+69N/OY5eT/r1+eA/j5MkjW0z6p9xKOcpsqRGFptioqarOeYLUvDsysiRWwpBGgNpTGQdvOYNpLEfIyhaGrtIm7N1RZNDBEpjHmkOY50ilhMmjW07ecxhdkcKCtKYrNLYvGbGv+aFyyhQyVUaGx2RzLRIzVeANPZtEdVjf9ECBUhjNj2f25q0KiRZGvtrdMJY71fnFSyNjeJVDF2ocSlOGvt8b9NbvUu5KiKNBS0IjTw5ZroCpLFRtrYr1Q4cBWlMTB4gjYE0hp8QrzUFaQykMZDGQBoDaQykMQpIYyCNgTQG0tj3P5DGcJKDNAbSGEhjII2RIY1hjIAvjbmE+PqGUR0w0IY9GgZtDLQx0MZAGwNtTPYJtDFV1MYWjZCrNrat7czk+eOsSNDG5hquN6TP1EK714wxJhhzjFxtLLB02J4p23zQ1hMOb5l6fAO6qmasMXK1sZabllXoOWUjC7T6bk2Pfoqc2fs5oMU5CgraWGPVxj62zR7J1keUSBtrlvzkaIBzCZLwzGHtrQdlCKfzm4uWq5so9fvWGo821u3Tk+R+Bw4Spo2VxmSlD3pcBmONgTYG2pgwKmhjtWsDtDHQxkAbA21MejrJWw3aGH8CbUxSFqCNgTYmKQ1eRNDG6hUPtDEKaGOgjYE2BtrY9z/QxnCSgzYG2hhoY6CN1dXGsKeMDdbGsPLVUcMEX7Wl1KhjTgwf/n0l1YXmA94YeGPgjYE3Bt6Y7BN4YyrpjTnJ1RubHp78fOj0MSQONybwxo69iODcefSGZG8MMcrrrz1+OuqxWCs7ZeBa9MQdHyv7p0dI9sasNZDSAKv3SLqWTUpvZg7SKujsrbBsdfT55a9rxn6Ad1Q2Pm9sx2Vup3vuQ5XIG2t59XhSy7F5SJ5LezdLt09I+4HG2Quzq5R6uDFrvQ6zjJvcJdwba1sR92rF5RgCvbEJbXt6ludvIswbK/QtNzb/8y14YzJ7Y4JJld5R+dKf1jfU+bkCvDHBNlPxIsvdG6vob/mZY5akYG/MjeXL/Rm8seVTYo9s/papIt6Ys7aVdcAaawV4Y9ory/uUPdgK3piYPMAbA28MPyFeawreGHhj4I2BNwbeGHhjFPDGwBsDbwy8se9/4I3hJAdvDLwx8MbAG6vrjWH3Dw32xjArpLYXJvgcM0X40tgERlAYNhCZKwWEMRDGQBgTWQRhDIQxnAmEMZUUxuQ70Jhp1t6nk0a7ECiMHRxc1X2GfoHwfZSHa5aHOnWOn3LxJUnCmF+Y66+DbgahunZol990p6G6AbNTv6YuRtXWqj0Kdz6GJk3736TntGMEC2PNagYYG/iCs7DITR2ldzzkrr1aUzgnUxiTpGaBMCZMpNLvp9QdcPO1zYk8hPrXvMn92zRHrbM8rQfP/KDUwhhZA41FVmTZ3/VLIFAYS8u2LO58KokwYSyiieubpPet4f2UIIyBMCaMCsJY7doAYQyEMRDGQBiTnk7yVv90whgVtzgsX99gOlfqD4rYVHgHG/5BDpoaaGqgqYGm9j0eaGqgqUmLCJoaaGqgqeGnERcRNDVsAk0NNDXQ1EBTUxJNjYi3YmJKCt9Ss/enz8a+GxkSCKIaiGogqoGoBqKa7BOIaqooqlHGylVUm3o2zqX7JjsCRTXBCGZqmgct/OLLhIKa3vSk872OlpMkqvVf1v/5gHx/9OKRnq11EyeitBklHSeZrRK+EXNvdkTy2cNHCRbV+sca/EXL/ow0d5p7+XH6M8S23aBA+43fEObkCNPMW03RgxNXzBnuQM4bMUFUE22EQFT7nj/2Az7jZhH9efxLZKtf2Ad2gAZqMH22/bwub0FUk0FUaxd4vmCj5Z8Eimrtwm/vevR6FWGiWtq6M7t6oBUwshm8ERPeiCmMCm/ErF0b8EZMckQ1eCOm5DxAVANRDT8hXmsKohpuXBDVQFQDUQ1ENRDVQFQDUQ1ENRDVQFQDUQ1EtXpEB1GN/weiWiCxohrWFjVYVMNsDMGQaYLPMG1J9AWcbiwmCzw18NTAUwNPDTw12Sfw1FTSUxuppG/gnGu43pA+U0v4Bk7DsLkMs4IKkt/A2Xn7pyI7Gg1t/t/q0JCPM9FhR3atWm8aj56cPiyWkXuIpDdw/tuOm1HwnoIu2RbQ0vNlJkILmp/JqdBAm7p6sScXkeOpfS+N+Dl4avL01D62zR7J1keUyFMbWrViZD/2Y2TB+wnNf9uvjq7NN/TaEA6emiye2sshARz02joCPbWZFhrvPPqmEOap3dq2/MHlmErw1MBTA09NGBU8tdq1AZ4aeGrgqYGnJj2d5K0GT40/4R/k4KmBpwaeGnhq3+OBpwaemrSI4KmBpwaeGn4acRHBU8Mm8NTAUwNPDTw1JfHUsGebDfbUsPK5hPj6hlEdMISHPXQWfPV/FD3dyg==" guivisible="0"/>
+            <key>
+              <attribute value="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel num="7" volume="0.837" name="Lead" muted="0" soloed="0">
+        <fxchain numofeffects="2" enabled="1">
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols program="0" param0="0:Pan:0.5" param5="5:T.S.D.:0.67" param13="13:Level:0.5" plugin="Effects\Classic Delay\Classic Delay.dll" param8="8:Ping-Pong:1" param9="9:Quality:1" param3="3:Sync:1" param11="11:Hi Cut:1" param6="6:Time:0.5" param10="10:Low Cut:0" param7="7:Feedback:0.51" numparams="14" param4="4:T.S.N.:0" param12="12:Mix:0.17" guivisible="0" param1="1:Mono:0" param2="2:Type:0.5"/>
+            <key>
+              <attribute value="Effects\Classic Delay\Classic Delay.dll" name="file"/>
+            </key>
+          </effect>
+          <effect autoquit="1" autoquit_numerator="4" on="1" autoquit_syncmode="0" gate="0" wet="1" name="vsteffect" autoquit_denominator="4">
+            <vsteffectcontrols param0="0:Size:0.87" param5="5:Early Ref.:0" param3="3:Hi Damp:0.05" param6="6:Mix:0.28" param1="1:Damping:0.09" param7="7:Level:0.5" program="0" param2="2:Predelay:0.5" plugin="Effects\Classic Reverb\Classic Reverb.dll" param4="4:Lo Cut:0.3" numparams="8" guivisible="0"/>
+            <key>
+              <attribute value="Effects\Classic Reverb\Classic Reverb.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView width="350" visible="0" x="550" minimized="0" maximized="0" y="509" height="200"/>
+    <pianoroll width="1485" visible="0" x="283" minimized="0" maximized="0" y="130" height="608"/>
+    <automationeditor width="860" visible="0" x="305" minimized="0" maximized="0" y="472" height="400"/>
+    <projectnotes width="689" visible="1" x="1046" minimized="0" maximized="0" y="3" height="571"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Greetings.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Spicy Guitar: Freely downloadable.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">FabBass: Freely downloadable.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Acoustica Studio Drums: Should be available even in the trial version of Mixcraft.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">GeneralUser GS: Freely downloadable.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">GMGSx: CC-BY Synthfont.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">NK 1001: Freely downloadable.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Released as .mmp, adjust paths as desired.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Please note that the author explicitely wishes to have eventual derivates or redistributions distributed ONLY as .mmp files, not .mmpz.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">There is nothing the license can do from stopping you as saving it as .mmpz, except that the author will insult you severely.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Should you have received this file as an .mmpz, please insult its forwarder.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">To convert the file into .mmp, follow these steps:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">1.: Create a a file called &quot;Decompress.cmd&quot; in the LMMS directory. (Where lmms.exe is located.)</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">2.: Right click on file, click &quot;Edit&quot;.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">3.: Put the following line into the file:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&quot;%~dp0LMMS.exe&quot; -d &quot;%*&quot; &gt; &quot;%*.mmp&quot;</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This does the following:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">%~dp0 return the folder where the .cmd file is located.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">It then calls LMMS.exe inside that folder.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">-d is the decompress option for an .mmpz file.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">%* returns any parameters given to the .cmd file.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&gt; sends the output into a file.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">If you drag an .mmpz file onto the .cmd file, it will decompress it into &quot;[filename].mmpz.mmp&quot;, at the original location.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></projectnotes>
+    <timeline lp0pos="0" stopbehaviour="1" lp1pos="4608" lpstate="1"/>
+    <controllers/>
+  </song>
+</lmms-project>

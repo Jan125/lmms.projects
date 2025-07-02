@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.3.0-alpha.1.231+g49b1f83e4" type="song" version="23" creator="LMMS">
+  <head masterpitch="0" timesig_numerator="4" timesig_denominator="4" bpm="110" mastervol="100"/>
+  <song>
+    <trackcontainer height="600" width="1033" maximized="0" visible="1" x="1" type="song" y="1" minimized="0">
+      <track name="GeneralUser GS v1" solo="0" mutedBeforeSolo="0" type="0" muted="0">
+        <instrumenttrack pitch="0" enablecc="0" vol="80.8" usemasterpitch="1" keymap="0" scale="0" range_import="1" basenote="69" firstkey="0" lastkey="127" pan="0" pitchrange="1" mixch="1" enabled="0">
+          <midicontrollers cc87="0" cc5="0" cc75="0" cc84="0" cc89="0" cc4="0" cc66="0" cc77="0" cc88="0" cc67="0" cc103="0" cc108="0" cc39="0" cc54="0" cc125="0" cc19="0" cc15="0" cc119="0" cc104="0" cc113="0" cc29="0" cc22="0" cc76="0" cc94="0" cc61="0" cc43="0" cc18="0" cc117="0" cc80="0" cc96="0" cc16="0" cc40="0" cc86="0" cc23="0" cc100="0" cc51="0" cc13="0" cc42="0" cc109="0" cc45="0" cc1="0" cc82="0" cc50="0" cc0="0" cc11="0" cc59="0" cc105="0" cc49="0" cc36="0" cc31="0" cc33="0" cc90="0" cc85="0" cc102="0" cc41="0" cc38="0" cc69="0" cc122="0" cc17="0" cc9="0" cc20="0" cc12="0" cc10="0" cc32="0" cc26="0" cc106="0" cc120="0" cc70="0" cc27="0" cc79="0" cc124="0" cc63="0" cc107="0" cc68="0" cc110="0" cc111="0" cc2="0" cc24="0" cc14="0" cc46="0" cc37="0" cc71="0" cc118="0" cc91="0" cc99="0" cc48="0" cc25="0" cc28="0" cc7="0" cc30="0" cc74="0" cc64="0" cc6="0" cc81="0" cc95="0" cc60="0" cc57="0" cc47="0" cc65="0" cc112="0" cc97="0" cc21="0" cc55="0" cc52="0" cc127="0" cc62="0" cc93="0" cc72="0" cc121="0" cc56="0" cc98="0" cc35="0" cc78="0" cc44="0" cc3="0" cc114="0" cc126="0" cc73="0" cc92="0" cc58="0" cc83="0" cc53="0" cc34="0" cc123="0" cc115="0" cc116="0" cc8="0" cc101="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" reverbDamping="0" src="usersoundfont:GeneralUser GS v1.471.sf2" chorusNum="3" chorusOn="0" reverbRoomSize="0.2" chorusLevel="2" reverbLevel="0.9" chorusDepth="8" patch="26" reverbWidth="0.5" bank="8" gain="1" chorusSpeed="0.3">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" ftype="0" fres="0.5" fcut="14000">
+            <elvol latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elcut latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elres latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arprange="1" arpmiss="0" arptime="200" arpdir="0" arptime_denominator="4" arpcycle="0" arp="0" arptime_syncmode="0" arpmode="0" arpskip="0" arp-enabled="0" arptime_numerator="4" arpgate="100" arprepeats="1"/>
+          <midiport outputchannel="1" writable="0" outputcontroller="0" readable="1" fixedoutputvelocity="-1" outputprogram="1" fixedoutputnote="-1" basevelocity="63" inputchannel="0" fixedinputvelocity="-1" inports="" inputcontroller="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" type="1" pos="576" muted="0" steps="16">
+          <note vol="100" len="24" key="64" pos="120" pan="0"/>
+          <note vol="100" len="24" key="67" pos="144" pan="0"/>
+          <note vol="100" len="72" key="69" pos="168" pan="0"/>
+          <note vol="100" len="24" key="71" pos="240" pan="0"/>
+          <note vol="100" len="72" key="72" pos="264" pan="0"/>
+          <note vol="100" len="24" key="81" pos="336" pan="0"/>
+          <note vol="100" len="48" key="79" pos="360" pan="0"/>
+          <note vol="100" len="48" key="76" pos="408" pan="0"/>
+          <note vol="100" len="48" key="74" pos="456" pan="0"/>
+          <note vol="100" len="72" key="72" pos="504" pan="0"/>
+          <note vol="100" len="48" key="77" pos="576" pan="0"/>
+          <note vol="100" len="24" key="72" pos="624" pan="0"/>
+          <note vol="100" len="48" key="69" pos="648" pan="0"/>
+          <note vol="100" len="48" key="72" pos="696" pan="0"/>
+          <note vol="100" len="144" key="71" pos="744" pan="0"/>
+          <note vol="100" len="24" key="64" pos="888" pan="0"/>
+          <note vol="100" len="24" key="67" pos="912" pan="0"/>
+          <note vol="100" len="72" key="69" pos="936" pan="0"/>
+          <note vol="100" len="24" key="71" pos="1008" pan="0"/>
+          <note vol="100" len="72" key="72" pos="1032" pan="0"/>
+          <note vol="100" len="24" key="71" pos="1104" pan="0"/>
+          <note vol="100" len="48" key="76" pos="1128" pan="0"/>
+          <note vol="100" len="48" key="74" pos="1176" pan="0"/>
+          <note vol="100" len="48" key="72" pos="1224" pan="0"/>
+          <note vol="100" len="48" key="69" pos="1272" pan="0"/>
+          <note vol="100" len="96" key="65" pos="1320" pan="0"/>
+          <note vol="100" len="48" key="69" pos="1416" pan="0"/>
+          <note vol="100" len="48" key="72" pos="1464" pan="0"/>
+          <note vol="100" len="168" key="74" pos="1512" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="2304" muted="0" steps="16">
+          <note vol="100" len="48" key="72" pos="0" pan="0"/>
+          <note vol="100" len="24" key="71" pos="48" pan="0"/>
+          <note vol="100" len="72" key="69" pos="72" pan="0"/>
+          <note vol="100" len="12" key="72" pos="144" pan="0"/>
+          <note vol="100" len="48" key="71" pos="168" pan="0"/>
+          <note vol="100" len="48" key="67" pos="216" pan="0"/>
+          <note vol="100" len="72" key="62" pos="264" pan="0"/>
+          <note vol="100" len="24" key="62" pos="336" pan="0"/>
+          <note vol="100" len="24" key="64" pos="360" pan="0"/>
+          <note vol="100" len="24" key="65" pos="384" pan="0"/>
+          <note vol="100" len="24" key="69" pos="408" pan="0"/>
+          <note vol="100" len="24" key="76" pos="432" pan="0"/>
+          <note vol="100" len="72" key="74" pos="456" pan="0"/>
+          <note vol="100" len="24" key="62" pos="528" pan="0"/>
+          <note vol="100" len="24" key="64" pos="552" pan="0"/>
+          <note vol="100" len="24" key="65" pos="576" pan="0"/>
+          <note vol="100" len="24" key="69" pos="600" pan="0"/>
+          <note vol="100" len="24" key="76" pos="624" pan="0"/>
+          <note vol="100" len="48" key="79" pos="648" pan="0"/>
+          <note vol="100" len="24" key="76" pos="696" pan="0"/>
+          <note vol="100" len="48" key="74" pos="720" pan="0"/>
+          <note vol="100" len="192" key="72" pos="768" pan="0"/>
+          <note vol="100" len="192" key="69" pos="960" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="Touhou" solo="0" mutedBeforeSolo="0" type="0" muted="0">
+        <instrumenttrack pitch="0" enablecc="0" vol="57.6" usemasterpitch="1" keymap="0" scale="0" range_import="1" basenote="69" firstkey="0" lastkey="127" pan="0" pitchrange="1" mixch="2" enabled="0">
+          <midicontrollers cc87="0" cc5="0" cc75="0" cc84="0" cc89="0" cc4="0" cc66="0" cc77="0" cc88="0" cc67="0" cc103="0" cc108="0" cc39="0" cc54="0" cc125="0" cc19="0" cc15="0" cc119="0" cc104="0" cc113="0" cc29="0" cc22="0" cc76="0" cc94="0" cc61="0" cc43="0" cc18="0" cc117="0" cc80="0" cc96="0" cc16="0" cc40="0" cc86="0" cc23="0" cc100="0" cc51="0" cc13="0" cc42="0" cc109="0" cc45="0" cc1="0" cc82="0" cc50="0" cc0="0" cc11="0" cc59="0" cc105="0" cc49="0" cc36="0" cc31="0" cc33="0" cc90="0" cc85="0" cc102="0" cc41="0" cc38="0" cc69="0" cc122="0" cc17="0" cc9="0" cc20="0" cc12="0" cc10="0" cc32="0" cc26="0" cc106="0" cc120="0" cc70="0" cc27="0" cc79="0" cc124="0" cc63="0" cc107="0" cc68="0" cc110="0" cc111="0" cc2="0" cc24="0" cc14="0" cc46="0" cc37="0" cc71="0" cc118="0" cc91="0" cc99="0" cc48="0" cc25="0" cc28="0" cc7="0" cc30="0" cc74="0" cc64="0" cc6="0" cc81="0" cc95="0" cc60="0" cc57="0" cc47="0" cc65="0" cc112="0" cc97="0" cc21="0" cc55="0" cc52="0" cc127="0" cc62="0" cc93="0" cc72="0" cc121="0" cc56="0" cc98="0" cc35="0" cc78="0" cc44="0" cc3="0" cc114="0" cc126="0" cc73="0" cc92="0" cc58="0" cc83="0" cc53="0" cc34="0" cc123="0" cc115="0" cc116="0" cc8="0" cc101="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" reverbDamping="0" src="usersoundfont:Touhou.sf2" chorusNum="3" chorusOn="0" reverbRoomSize="0.2" chorusLevel="2" reverbLevel="0.9" chorusDepth="8" patch="29" reverbWidth="0.5" bank="0" gain="1" chorusSpeed="0.3">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" ftype="0" fres="0.5" fcut="14000">
+            <elvol latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elcut latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elres latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arprange="1" arpmiss="0" arptime="200" arpdir="0" arptime_denominator="4" arpcycle="0" arp="0" arptime_syncmode="0" arpmode="0" arpskip="0" arp-enabled="0" arptime_numerator="4" arpgate="100" arprepeats="1"/>
+          <midiport outputchannel="1" writable="0" outputcontroller="0" readable="1" fixedoutputvelocity="-1" outputprogram="1" fixedoutputnote="-1" basevelocity="63" inputchannel="0" fixedinputvelocity="-1" inports="" inputcontroller="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" type="1" pos="0" muted="0" steps="16">
+          <note vol="100" len="96" key="69" pos="0" pan="0"/>
+          <note vol="100" len="96" key="64" pos="0" pan="0"/>
+          <note vol="100" len="96" key="60" pos="0" pan="0"/>
+          <note vol="100" len="96" key="66" pos="108" pan="0"/>
+          <note vol="100" len="96" key="62" pos="108" pan="0"/>
+          <note vol="100" len="96" key="60" pos="108" pan="0"/>
+          <note vol="100" len="96" key="64" pos="216" pan="0"/>
+          <note vol="100" len="96" key="60" pos="216" pan="0"/>
+          <note vol="100" len="96" key="58" pos="216" pan="0"/>
+          <note vol="100" len="144" key="60" pos="324" pan="0"/>
+          <note vol="100" len="144" key="57" pos="324" pan="0"/>
+          <note vol="100" len="144" key="53" pos="324" pan="0"/>
+          <note vol="100" len="276" key="57" pos="480" pan="0"/>
+          <note vol="100" len="276" key="52" pos="480" pan="0"/>
+          <note vol="100" len="276" key="48" pos="480" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="768" muted="0" steps="16">
+          <note vol="100" len="60" key="57" pos="0" pan="0"/>
+          <note vol="100" len="60" key="52" pos="0" pan="0"/>
+          <note vol="100" len="60" key="48" pos="0" pan="0"/>
+          <note vol="100" len="84" key="60" pos="72" pan="0"/>
+          <note vol="100" len="84" key="55" pos="72" pan="0"/>
+          <note vol="100" len="84" key="52" pos="72" pan="0"/>
+          <note vol="100" len="84" key="62" pos="168" pan="0"/>
+          <note vol="100" len="84" key="60" pos="168" pan="0"/>
+          <note vol="100" len="84" key="57" pos="168" pan="0"/>
+          <note vol="100" len="108" key="60" pos="264" pan="0"/>
+          <note vol="100" len="108" key="57" pos="264" pan="0"/>
+          <note vol="100" len="108" key="55" pos="264" pan="0"/>
+          <note vol="100" len="60" key="57" pos="384" pan="0"/>
+          <note vol="100" len="60" key="53" pos="384" pan="0"/>
+          <note vol="100" len="60" key="48" pos="384" pan="0"/>
+          <note vol="100" len="108" key="60" pos="456" pan="0"/>
+          <note vol="100" len="108" key="55" pos="456" pan="0"/>
+          <note vol="100" len="108" key="53" pos="456" pan="0"/>
+          <note vol="100" len="180" key="59" pos="576" pan="0"/>
+          <note vol="100" len="180" key="55" pos="576" pan="0"/>
+          <note vol="100" len="180" key="50" pos="576" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="1536" muted="0" steps="16">
+          <note vol="100" len="60" key="57" pos="0" pan="0"/>
+          <note vol="100" len="60" key="52" pos="0" pan="0"/>
+          <note vol="100" len="60" key="48" pos="0" pan="0"/>
+          <note vol="100" len="84" key="60" pos="72" pan="0"/>
+          <note vol="100" len="84" key="55" pos="72" pan="0"/>
+          <note vol="100" len="84" key="52" pos="72" pan="0"/>
+          <note vol="100" len="84" key="62" pos="168" pan="0"/>
+          <note vol="100" len="84" key="60" pos="168" pan="0"/>
+          <note vol="100" len="84" key="57" pos="168" pan="0"/>
+          <note vol="100" len="108" key="60" pos="264" pan="0"/>
+          <note vol="100" len="108" key="57" pos="264" pan="0"/>
+          <note vol="100" len="108" key="53" pos="264" pan="0"/>
+          <note vol="100" len="60" key="57" pos="384" pan="0"/>
+          <note vol="100" len="60" key="53" pos="384" pan="0"/>
+          <note vol="100" len="60" key="48" pos="384" pan="0"/>
+          <note vol="100" len="108" key="60" pos="456" pan="0"/>
+          <note vol="100" len="108" key="55" pos="456" pan="0"/>
+          <note vol="100" len="108" key="53" pos="456" pan="0"/>
+          <note vol="100" len="180" key="62" pos="576" pan="0"/>
+          <note vol="100" len="180" key="59" pos="576" pan="0"/>
+          <note vol="100" len="180" key="55" pos="576" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="2304" muted="0" steps="16">
+          <note vol="100" len="168" key="69" pos="0" pan="0"/>
+          <note vol="100" len="168" key="67" pos="0" pan="0"/>
+          <note vol="100" len="168" key="64" pos="0" pan="0"/>
+          <note vol="100" len="192" key="67" pos="168" pan="0"/>
+          <note vol="100" len="192" key="65" pos="168" pan="0"/>
+          <note vol="100" len="192" key="62" pos="168" pan="0"/>
+          <note vol="100" len="72" key="65" pos="384" pan="0"/>
+          <note vol="100" len="72" key="62" pos="384" pan="0"/>
+          <note vol="100" len="72" key="57" pos="384" pan="0"/>
+          <note vol="100" len="72" key="65" pos="456" pan="0"/>
+          <note vol="100" len="72" key="62" pos="456" pan="0"/>
+          <note vol="100" len="72" key="60" pos="456" pan="0"/>
+          <note vol="100" len="72" key="67" pos="576" pan="0"/>
+          <note vol="100" len="72" key="62" pos="576" pan="0"/>
+          <note vol="100" len="72" key="60" pos="576" pan="0"/>
+          <note vol="100" len="72" key="71" pos="648" pan="0"/>
+          <note vol="100" len="72" key="67" pos="648" pan="0"/>
+          <note vol="100" len="72" key="65" pos="648" pan="0"/>
+          <note vol="100" len="48" key="67" pos="720" pan="0"/>
+          <note vol="100" len="48" key="64" pos="720" pan="0"/>
+          <note vol="100" len="48" key="62" pos="720" pan="0"/>
+          <note vol="100" len="168" key="64" pos="768" pan="0"/>
+          <note vol="100" len="168" key="60" pos="768" pan="0"/>
+          <note vol="100" len="168" key="57" pos="768" pan="0"/>
+          <note vol="100" len="168" key="60" pos="960" pan="0"/>
+          <note vol="100" len="168" key="57" pos="960" pan="0"/>
+          <note vol="100" len="168" key="55" pos="960" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="SGM-V2" solo="0" mutedBeforeSolo="0" type="0" muted="0">
+        <instrumenttrack pitch="0" enablecc="0" vol="200" usemasterpitch="1" keymap="0" scale="0" range_import="1" basenote="69" firstkey="0" lastkey="127" pan="0" pitchrange="1" mixch="3" enabled="0">
+          <midicontrollers cc87="0" cc5="0" cc75="0" cc84="0" cc89="0" cc4="0" cc66="0" cc77="0" cc88="0" cc67="0" cc103="0" cc108="0" cc39="0" cc54="0" cc125="0" cc19="0" cc15="0" cc119="0" cc104="0" cc113="0" cc29="0" cc22="0" cc76="0" cc94="0" cc61="0" cc43="0" cc18="0" cc117="0" cc80="0" cc96="0" cc16="0" cc40="0" cc86="0" cc23="0" cc100="0" cc51="0" cc13="0" cc42="0" cc109="0" cc45="0" cc1="0" cc82="0" cc50="0" cc0="0" cc11="0" cc59="0" cc105="0" cc49="0" cc36="0" cc31="0" cc33="0" cc90="0" cc85="0" cc102="0" cc41="0" cc38="0" cc69="0" cc122="0" cc17="0" cc9="0" cc20="0" cc12="0" cc10="0" cc32="0" cc26="0" cc106="0" cc120="0" cc70="0" cc27="0" cc79="0" cc124="0" cc63="0" cc107="0" cc68="0" cc110="0" cc111="0" cc2="0" cc24="0" cc14="0" cc46="0" cc37="0" cc71="0" cc118="0" cc91="0" cc99="0" cc48="0" cc25="0" cc28="0" cc7="0" cc30="0" cc74="0" cc64="0" cc6="0" cc81="0" cc95="0" cc60="0" cc57="0" cc47="0" cc65="0" cc112="0" cc97="0" cc21="0" cc55="0" cc52="0" cc127="0" cc62="0" cc93="0" cc72="0" cc121="0" cc56="0" cc98="0" cc35="0" cc78="0" cc44="0" cc3="0" cc114="0" cc126="0" cc73="0" cc92="0" cc58="0" cc83="0" cc53="0" cc34="0" cc123="0" cc115="0" cc116="0" cc8="0" cc101="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" reverbDamping="0" src="usersoundfont:SGM-V2.01.sf2" chorusNum="3" chorusOn="0" reverbRoomSize="0.2" chorusLevel="2" reverbLevel="0.9" chorusDepth="8" patch="36" reverbWidth="0.5" bank="0" gain="1" chorusSpeed="0.3">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" ftype="0" fres="0.5" fcut="14000">
+            <elvol latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elcut latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elres latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arprange="1" arpmiss="0" arptime="200" arpdir="0" arptime_denominator="4" arpcycle="0" arp="0" arptime_syncmode="0" arpmode="0" arpskip="0" arp-enabled="0" arptime_numerator="4" arpgate="100" arprepeats="1"/>
+          <midiport outputchannel="1" writable="0" outputcontroller="0" readable="1" fixedoutputvelocity="-1" outputprogram="1" fixedoutputnote="-1" basevelocity="63" inputchannel="0" fixedinputvelocity="-1" inports="" inputcontroller="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" type="1" pos="0" muted="0" steps="16">
+          <note vol="100" len="36" key="45" pos="0" pan="0"/>
+          <note vol="100" len="36" key="40" pos="36" pan="0"/>
+          <note vol="100" len="36" key="45" pos="72" pan="0"/>
+          <note vol="100" len="36" key="42" pos="108" pan="0"/>
+          <note vol="100" len="36" key="38" pos="144" pan="0"/>
+          <note vol="100" len="36" key="42" pos="180" pan="0"/>
+          <note vol="100" len="36" key="40" pos="216" pan="0"/>
+          <note vol="100" len="36" key="36" pos="252" pan="0"/>
+          <note vol="100" len="36" key="40" pos="288" pan="0"/>
+          <note vol="100" len="108" key="38" pos="324" pan="0"/>
+          <note vol="100" len="48" key="40" pos="432" pan="0"/>
+          <note vol="100" len="288" key="33" pos="480" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="768" muted="0" steps="16">
+          <note vol="100" len="72" key="33" pos="0" pan="0"/>
+          <note vol="100" len="96" key="31" pos="72" pan="0"/>
+          <note vol="100" len="96" key="36" pos="168" pan="0"/>
+          <note vol="100" len="72" key="38" pos="264" pan="0"/>
+          <note vol="100" len="48" key="40" pos="336" pan="0"/>
+          <note vol="100" len="72" key="36" pos="384" pan="0"/>
+          <note vol="100" len="72" key="40" pos="456" pan="0"/>
+          <note vol="100" len="24" key="41" pos="528" pan="0"/>
+          <note vol="100" len="24" key="43" pos="552" pan="0"/>
+          <note vol="100" len="180" key="31" pos="576" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="1536" muted="0" steps="16">
+          <note vol="100" len="72" key="33" pos="0" pan="0"/>
+          <note vol="100" len="96" key="31" pos="72" pan="0"/>
+          <note vol="100" len="48" key="38" pos="168" pan="0"/>
+          <note vol="100" len="48" key="36" pos="216" pan="0"/>
+          <note vol="100" len="48" key="33" pos="264" pan="0"/>
+          <note vol="100" len="24" key="31" pos="312" pan="0"/>
+          <note vol="100" len="48" key="29" pos="336" pan="0"/>
+          <note vol="100" len="72" key="41" pos="384" pan="0"/>
+          <note vol="100" len="72" key="40" pos="456" pan="0"/>
+          <note vol="100" len="24" key="38" pos="528" pan="0"/>
+          <note vol="100" len="24" key="36" pos="552" pan="0"/>
+          <note vol="100" len="180" key="43" pos="576" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="2304" muted="0" steps="16">
+          <note vol="100" len="48" key="33" pos="0" pan="0"/>
+          <note vol="100" len="48" key="33" pos="48" pan="0"/>
+          <note vol="100" len="48" key="33" pos="96" pan="0"/>
+          <note vol="100" len="24" key="33" pos="144" pan="0"/>
+          <note vol="100" len="48" key="31" pos="168" pan="0"/>
+          <note vol="100" len="48" key="31" pos="216" pan="0"/>
+          <note vol="100" len="48" key="31" pos="264" pan="0"/>
+          <note vol="100" len="24" key="31" pos="312" pan="0"/>
+          <note vol="100" len="48" key="31" pos="336" pan="0"/>
+          <note vol="100" len="48" key="33" pos="384" pan="0"/>
+          <note vol="100" len="24" key="33" pos="432" pan="0"/>
+          <note vol="100" len="48" key="38" pos="456" pan="0"/>
+          <note vol="100" len="48" key="38" pos="504" pan="0"/>
+          <note vol="100" len="24" key="38" pos="552" pan="0"/>
+          <note vol="100" len="48" key="33" pos="576" pan="0"/>
+          <note vol="100" len="24" key="33" pos="624" pan="0"/>
+          <note vol="100" len="48" key="31" pos="648" pan="0"/>
+          <note vol="100" len="24" key="31" pos="696" pan="0"/>
+          <note vol="100" len="48" key="36" pos="720" pan="0"/>
+          <note vol="100" len="48" key="33" pos="768" pan="0"/>
+          <note vol="100" len="48" key="33" pos="816" pan="0"/>
+          <note vol="100" len="48" key="33" pos="864" pan="0"/>
+          <note vol="100" len="24" key="33" pos="912" pan="0"/>
+          <note vol="100" len="48" key="33" pos="936" pan="0"/>
+          <note vol="100" len="48" key="33" pos="984" pan="0"/>
+          <note vol="100" len="48" key="33" pos="1032" pan="0"/>
+          <note vol="100" len="24" key="33" pos="1080" pan="0"/>
+          <note vol="100" len="48" key="33" pos="1104" pan="0"/>
+        </midiclip>
+      </track>
+      <track name="drums_ken_ardency_mono" solo="0" mutedBeforeSolo="0" type="0" muted="0">
+        <instrumenttrack pitch="0" enablecc="0" vol="88.8" usemasterpitch="1" keymap="0" scale="0" range_import="1" basenote="69" firstkey="0" lastkey="127" pan="0" pitchrange="1" mixch="4" enabled="0">
+          <midicontrollers cc87="0" cc5="0" cc75="0" cc84="0" cc89="0" cc4="0" cc66="0" cc77="0" cc88="0" cc67="0" cc103="0" cc108="0" cc39="0" cc54="0" cc125="0" cc19="0" cc15="0" cc119="0" cc104="0" cc113="0" cc29="0" cc22="0" cc76="0" cc94="0" cc61="0" cc43="0" cc18="0" cc117="0" cc80="0" cc96="0" cc16="0" cc40="0" cc86="0" cc23="0" cc100="0" cc51="0" cc13="0" cc42="0" cc109="0" cc45="0" cc1="0" cc82="0" cc50="0" cc0="0" cc11="0" cc59="0" cc105="0" cc49="0" cc36="0" cc31="0" cc33="0" cc90="0" cc85="0" cc102="0" cc41="0" cc38="0" cc69="0" cc122="0" cc17="0" cc9="0" cc20="0" cc12="0" cc10="0" cc32="0" cc26="0" cc106="0" cc120="0" cc70="0" cc27="0" cc79="0" cc124="0" cc63="0" cc107="0" cc68="0" cc110="0" cc111="0" cc2="0" cc24="0" cc14="0" cc46="0" cc37="0" cc71="0" cc118="0" cc91="0" cc99="0" cc48="0" cc25="0" cc28="0" cc7="0" cc30="0" cc74="0" cc64="0" cc6="0" cc81="0" cc95="0" cc60="0" cc57="0" cc47="0" cc65="0" cc112="0" cc97="0" cc21="0" cc55="0" cc52="0" cc127="0" cc62="0" cc93="0" cc72="0" cc121="0" cc56="0" cc98="0" cc35="0" cc78="0" cc44="0" cc3="0" cc114="0" cc126="0" cc73="0" cc92="0" cc58="0" cc83="0" cc53="0" cc34="0" cc123="0" cc115="0" cc116="0" cc8="0" cc101="0"/>
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" reverbDamping="0" src="usersoundfont:drums_ken_ardency_mono.sf2" chorusNum="3" chorusOn="0" reverbRoomSize="0.2" chorusLevel="2" reverbLevel="0.9" chorusDepth="8" patch="0" reverbWidth="0.5" bank="128" gain="0.6" chorusSpeed="0.3">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fwet="0" ftype="0" fres="0.5" fcut="14000">
+            <elvol latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elcut latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+            <elres latt="0" lspd_syncmode="0" lamt="0" lshp="0" lpdel="0" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" lspd="0.1" att="0" dec="0.5" userwavefile="" hold="0.5" lspd_denominator="4" sustain="0.5" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arprange="1" arpmiss="0" arptime="200" arpdir="0" arptime_denominator="4" arpcycle="0" arp="0" arptime_syncmode="0" arpmode="0" arpskip="0" arp-enabled="0" arptime_numerator="4" arpgate="100" arprepeats="1"/>
+          <midiport outputchannel="1" writable="0" outputcontroller="0" readable="1" fixedoutputvelocity="-1" outputprogram="1" fixedoutputnote="-1" basevelocity="127" inputchannel="0" fixedinputvelocity="-1" inports="" inputcontroller="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <midiclip name="" type="1" pos="768" muted="0" steps="16">
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="51" pos="24" pan="0"/>
+          <note vol="100" len="12" key="42" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="60" pan="0"/>
+          <note vol="100" len="12" key="46" pos="72" pan="0"/>
+          <note vol="100" len="12" key="36" pos="72" pan="0"/>
+          <note vol="100" len="12" key="51" pos="96" pan="0"/>
+          <note vol="100" len="12" key="44" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="120" pan="0"/>
+          <note vol="100" len="12" key="38" pos="144" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="192" pan="0"/>
+          <note vol="100" len="12" key="51" pos="216" pan="0"/>
+          <note vol="100" len="12" key="39" pos="216" pan="0"/>
+          <note vol="100" len="12" key="42" pos="240" pan="0"/>
+          <note vol="100" len="12" key="44" pos="252" pan="0"/>
+          <note vol="100" len="12" key="46" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="51" pos="288" pan="0"/>
+          <note vol="100" len="12" key="44" pos="312" pan="0"/>
+          <note vol="100" len="12" key="51" pos="336" pan="0"/>
+          <note vol="100" len="12" key="46" pos="336" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+          <note vol="100" len="12" key="44" pos="360" pan="0"/>
+          <note vol="100" len="12" key="39" pos="360" pan="0"/>
+          <note vol="100" len="12" key="36" pos="360" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="1152" muted="0" steps="16">
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="51" pos="24" pan="0"/>
+          <note vol="100" len="12" key="42" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="60" pan="0"/>
+          <note vol="100" len="12" key="46" pos="72" pan="0"/>
+          <note vol="100" len="12" key="36" pos="72" pan="0"/>
+          <note vol="100" len="12" key="51" pos="96" pan="0"/>
+          <note vol="100" len="12" key="44" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="120" pan="0"/>
+          <note vol="100" len="12" key="38" pos="144" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="192" pan="0"/>
+          <note vol="100" len="12" key="51" pos="216" pan="0"/>
+          <note vol="100" len="12" key="39" pos="216" pan="0"/>
+          <note vol="100" len="12" key="42" pos="240" pan="0"/>
+          <note vol="100" len="12" key="44" pos="252" pan="0"/>
+          <note vol="100" len="12" key="46" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="51" pos="288" pan="0"/>
+          <note vol="100" len="12" key="44" pos="312" pan="0"/>
+          <note vol="100" len="12" key="51" pos="336" pan="0"/>
+          <note vol="100" len="12" key="46" pos="336" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+          <note vol="100" len="12" key="44" pos="360" pan="0"/>
+          <note vol="100" len="12" key="39" pos="360" pan="0"/>
+          <note vol="100" len="12" key="36" pos="360" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="1536" muted="0" steps="16">
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="51" pos="24" pan="0"/>
+          <note vol="100" len="12" key="42" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="60" pan="0"/>
+          <note vol="100" len="12" key="46" pos="72" pan="0"/>
+          <note vol="100" len="12" key="36" pos="72" pan="0"/>
+          <note vol="100" len="12" key="51" pos="96" pan="0"/>
+          <note vol="100" len="12" key="44" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="120" pan="0"/>
+          <note vol="100" len="12" key="38" pos="144" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="192" pan="0"/>
+          <note vol="100" len="12" key="51" pos="216" pan="0"/>
+          <note vol="100" len="12" key="39" pos="216" pan="0"/>
+          <note vol="100" len="12" key="42" pos="240" pan="0"/>
+          <note vol="100" len="12" key="44" pos="252" pan="0"/>
+          <note vol="100" len="12" key="46" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="51" pos="288" pan="0"/>
+          <note vol="100" len="12" key="44" pos="312" pan="0"/>
+          <note vol="100" len="12" key="51" pos="336" pan="0"/>
+          <note vol="100" len="12" key="46" pos="336" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+          <note vol="100" len="12" key="44" pos="360" pan="0"/>
+          <note vol="100" len="12" key="39" pos="360" pan="0"/>
+          <note vol="100" len="12" key="36" pos="360" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="1920" muted="0" steps="16">
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="51" pos="24" pan="0"/>
+          <note vol="100" len="12" key="42" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="60" pan="0"/>
+          <note vol="100" len="12" key="46" pos="72" pan="0"/>
+          <note vol="100" len="12" key="36" pos="72" pan="0"/>
+          <note vol="100" len="12" key="51" pos="96" pan="0"/>
+          <note vol="100" len="12" key="44" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="120" pan="0"/>
+          <note vol="100" len="12" key="38" pos="144" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="192" pan="0"/>
+          <note vol="100" len="12" key="51" pos="216" pan="0"/>
+          <note vol="100" len="12" key="39" pos="216" pan="0"/>
+          <note vol="100" len="12" key="42" pos="240" pan="0"/>
+          <note vol="100" len="12" key="44" pos="252" pan="0"/>
+          <note vol="100" len="12" key="46" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="51" pos="288" pan="0"/>
+          <note vol="100" len="12" key="44" pos="312" pan="0"/>
+          <note vol="100" len="12" key="51" pos="336" pan="0"/>
+          <note vol="100" len="12" key="46" pos="336" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+          <note vol="100" len="12" key="44" pos="360" pan="0"/>
+          <note vol="100" len="12" key="39" pos="360" pan="0"/>
+          <note vol="100" len="12" key="36" pos="360" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="2304" muted="0" steps="16">
+          <note vol="100" len="12" key="43" pos="0" pan="0"/>
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="46" pos="48" pan="0"/>
+          <note vol="100" len="12" key="36" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="96" pan="0"/>
+          <note vol="100" len="12" key="36" pos="96" pan="0"/>
+          <note vol="100" len="12" key="46" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="144" pan="0"/>
+          <note vol="100" len="12" key="44" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="41" pos="216" pan="0"/>
+          <note vol="100" len="12" key="36" pos="216" pan="0"/>
+          <note vol="100" len="12" key="40" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="39" pos="312" pan="0"/>
+          <note vol="100" len="12" key="36" pos="312" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="3072" muted="0" steps="16">
+          <note vol="100" len="12" key="43" pos="0" pan="0"/>
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="46" pos="48" pan="0"/>
+          <note vol="100" len="12" key="36" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="96" pan="0"/>
+          <note vol="100" len="12" key="36" pos="96" pan="0"/>
+          <note vol="100" len="12" key="46" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="144" pan="0"/>
+          <note vol="100" len="12" key="44" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="41" pos="216" pan="0"/>
+          <note vol="100" len="12" key="36" pos="216" pan="0"/>
+          <note vol="100" len="12" key="40" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="39" pos="312" pan="0"/>
+          <note vol="100" len="12" key="36" pos="312" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+        </midiclip>
+        <midiclip name="" type="1" pos="2688" muted="0" steps="16">
+          <note vol="100" len="12" key="43" pos="0" pan="0"/>
+          <note vol="100" len="12" key="36" pos="0" pan="0"/>
+          <note vol="100" len="12" key="46" pos="48" pan="0"/>
+          <note vol="100" len="12" key="36" pos="48" pan="0"/>
+          <note vol="100" len="12" key="44" pos="96" pan="0"/>
+          <note vol="100" len="12" key="36" pos="96" pan="0"/>
+          <note vol="100" len="12" key="46" pos="120" pan="0"/>
+          <note vol="100" len="12" key="36" pos="144" pan="0"/>
+          <note vol="100" len="12" key="44" pos="168" pan="0"/>
+          <note vol="100" len="12" key="36" pos="168" pan="0"/>
+          <note vol="100" len="12" key="41" pos="216" pan="0"/>
+          <note vol="100" len="12" key="36" pos="216" pan="0"/>
+          <note vol="100" len="12" key="40" pos="264" pan="0"/>
+          <note vol="100" len="12" key="36" pos="264" pan="0"/>
+          <note vol="100" len="12" key="39" pos="312" pan="0"/>
+          <note vol="100" len="12" key="36" pos="312" pan="0"/>
+          <note vol="100" len="12" key="38" pos="336" pan="0"/>
+          <note vol="100" len="12" key="36" pos="336" pan="0"/>
+        </midiclip>
+      </track>
+    </trackcontainer>
+    <track name="Automation track" solo="0" mutedBeforeSolo="0" type="6" muted="0">
+      <automationtrack/>
+      <automationclip len="192" name="Numerator" prog="0" tens="1" pos="0" mute="0"/>
+      <automationclip len="192" name="Denominator" prog="0" tens="1" pos="0" mute="0"/>
+      <automationclip len="192" name="Tempo" prog="0" tens="1" pos="0" mute="0"/>
+      <automationclip len="192" name="Master volume" prog="0" tens="1" pos="0" mute="0"/>
+      <automationclip len="192" name="Master pitch" prog="0" tens="1" pos="0" mute="0"/>
+    </track>
+    <mixer height="333" width="1893" maximized="0" visible="1" x="1" y="600" minimized="0">
+      <mixerchannel volume="1" soloed="0" num="0" name="Master" muted="0">
+        <fxchain numofeffects="0" enabled="0"/>
+      </mixerchannel>
+      <mixerchannel volume="1" soloed="0" num="1" name="GeneralUser GS v1" muted="0">
+        <fxchain numofeffects="1" enabled="1">
+          <effect autoquit="1" name="vsteffect" autoquit_denominator="4" autoquit_numerator="4" wet="1" autoquit_syncmode="0" gate="0" on="1">
+            <vsteffectcontrols plugin="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" chunk="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" guivisible="0" program="13"/>
+            <key>
+              <attribute value="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="1" channel="0"/>
+      </mixerchannel>
+      <mixerchannel volume="1" soloed="0" num="2" name="Touhou" muted="0">
+        <fxchain numofeffects="1" enabled="1">
+          <effect autoquit="1" name="vsteffect" autoquit_denominator="4" autoquit_numerator="4" wet="1" autoquit_syncmode="0" gate="0" on="1">
+            <vsteffectcontrols plugin="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" chunk="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" guivisible="0" program="13"/>
+            <key>
+              <attribute value="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="1" channel="0"/>
+      </mixerchannel>
+      <mixerchannel volume="1" soloed="0" num="3" name="SGM-V2" muted="0">
+        <fxchain numofeffects="1" enabled="1">
+          <effect autoquit="1" name="vsteffect" autoquit_denominator="4" autoquit_numerator="4" wet="1" autoquit_syncmode="0" gate="0" on="1">
+            <vsteffectcontrols plugin="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" chunk="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" guivisible="0" program="10"/>
+            <key>
+              <attribute value="Effects\Voxengo Boogex Amp Simulator\Voxengo Boogex Amp Simulator.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="1" channel="0"/>
+      </mixerchannel>
+      <mixerchannel volume="1" soloed="0" num="4" name="drums_ken_ardency_mono" muted="0">
+        <fxchain numofeffects="0" enabled="0"/>
+        <send amount="1" channel="0"/>
+      </mixerchannel>
+    </mixer>
+    <ControllerRackView height="200" width="350" maximized="0" visible="0" x="550" y="487" minimized="0"/>
+    <pianoroll height="597" width="970" maximized="0" visible="0" x="604" y="247" minimized="0"/>
+    <automationeditor height="400" width="860" maximized="0" visible="0" x="1" y="1" minimized="0"/>
+    <projectnotes height="400" width="686" maximized="0" visible="0" x="700" y="10" minimized="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">&lt;&lt;&lt;&lt;&lt;&lt;</span></p></body></html>]]></projectnotes>
+    <timeline lp0pos="0" stopbehaviour="1" lp1pos="3456" lpstate="1"/>
+    <controllers/>
+    <scales>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+    </scales>
+    <keymaps>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+      <keymap base_freq="440" middle_key="60" first_key="0" last_key="127" description="empty" base_key="69"/>
+    </keymaps>
+  </song>
+</lmms-project>

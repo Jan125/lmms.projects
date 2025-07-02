@@ -1,0 +1,1277 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" version="1.0" type="song" creatorversion="1.2.1">
+  <head timesig_numerator="4" masterpitch="0" timesig_denominator="4" mastervol="100">
+    <bpm id="3727289" value="120" scale_type="linear"/>
+  </head>
+  <song>
+    <trackcontainer x="5" height="734" y="5" width="1096" maximized="0" minimized="0" type="song" visible="1">
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="100" pitchrange="1" fxch="0">
+          <instrument name="tripleoscillator">
+            <tripleoscillator stphdetun2="0" finel0="0" finer1="0" vol1="33" coarse2="-24" stphdetun0="0" wavetype2="0" finel2="0" pan0="0" phoffset0="0" userwavefile0="" vol0="33" userwavefile2="" coarse1="-12" finer0="0" finel1="0" vol2="33" modalgo2="2" phoffset2="0" phoffset1="0" stphdetun1="0" pan1="0" coarse0="0" modalgo1="2" wavetype1="0" pan2="0" userwavefile1="" finer2="0" wavetype0="0" modalgo3="2"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track muted="0" type="2" name="Sample-Spur" solo="0">
+        <sampletrack pan="0" vol="100">
+          <fxchain enabled="0" numofeffects="0"/>
+        </sampletrack>
+      </track>
+      <track muted="0" type="1" name="Beat/Bassline 0" solo="0">
+        <bbtrack>
+          <trackcontainer x="610" height="300" y="5" width="700" maximized="0" minimized="0" type="bbtrackcontainer" visible="1">
+            <track muted="0" type="0" name="Standard-Preset" solo="0">
+              <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="100" pitchrange="1" fxch="0">
+                <instrument name="tripleoscillator">
+                  <tripleoscillator stphdetun2="0" finel0="0" finer1="0" vol1="33" coarse2="-24" stphdetun0="0" wavetype2="0" finel2="0" pan0="0" phoffset0="0" userwavefile0="" vol0="33" userwavefile2="" coarse1="-12" finer0="0" finel1="0" vol2="33" modalgo2="2" phoffset2="0" phoffset1="0" stphdetun1="0" pan1="0" coarse0="0" modalgo1="2" wavetype1="0" pan2="0" userwavefile1="" finer2="0" wavetype0="0" modalgo3="2"/>
+                </instrument>
+                <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+                  <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+                  <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+                  <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+                </eldata>
+                <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+                <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+                <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+                <fxchain enabled="0" numofeffects="0"/>
+              </instrumenttrack>
+              <pattern steps="16" muted="0" pos="0" type="0" name="Standard-Preset"/>
+            </track>
+          </trackcontainer>
+        </bbtrack>
+      </track>
+      <track muted="0" type="5" name="Automation track" solo="0">
+        <automationtrack/>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="52.8" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="62" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="49" len="48"/>
+          <note pan="0" vol="60" pos="0" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="12"/>
+          <note pan="0" vol="60" pos="48" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="49" len="48"/>
+          <note pan="0" vol="60" pos="0" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="42" len="12"/>
+          <note pan="0" vol="60" pos="48" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="49" len="48"/>
+          <note pan="0" vol="60" pos="0" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="42" len="12"/>
+          <note pan="0" vol="60" pos="48" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="49" len="48"/>
+          <note pan="0" vol="60" pos="0" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="42" len="12"/>
+          <note pan="0" vol="60" pos="48" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="49" len="48"/>
+          <note pan="0" vol="60" pos="0" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="42" len="12"/>
+          <note pan="0" vol="60" pos="48" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1920" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="49" len="48"/>
+          <note pan="0" vol="60" pos="0" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="42" len="12"/>
+          <note pan="0" vol="60" pos="48" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="336" key="42" len="48"/>
+          <note pan="0" vol="60" pos="336" key="49" len="48"/>
+          <note pan="0" vol="60" pos="384" key="52" len="192"/>
+          <note pan="0" vol="60" pos="384" key="45" len="192"/>
+          <note pan="0" vol="60" pos="576" key="43" len="96"/>
+          <note pan="0" vol="60" pos="576" key="50" len="192"/>
+          <note pan="0" vol="60" pos="672" key="40" len="96"/>
+          <note pan="0" vol="60" pos="768" key="49" len="120"/>
+          <note pan="0" vol="60" pos="768" key="42" len="120"/>
+          <note pan="0" vol="60" pos="888" key="40" len="12"/>
+          <note pan="0" vol="60" pos="888" key="47" len="12"/>
+          <note pan="0" vol="60" pos="912" key="42" len="12"/>
+          <note pan="0" vol="60" pos="912" key="49" len="12"/>
+          <note pan="0" vol="60" pos="936" key="42" len="12"/>
+          <note pan="0" vol="60" pos="936" key="49" len="12"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="29.1" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="62" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="49" len="48"/>
+          <note pan="0" vol="60" pos="24" key="42" len="48"/>
+          <note pan="0" vol="60" pos="72" key="42" len="12"/>
+          <note pan="0" vol="60" pos="72" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="42" len="48"/>
+          <note pan="0" vol="60" pos="24" key="49" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="12"/>
+          <note pan="0" vol="60" pos="72" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="42" len="48"/>
+          <note pan="0" vol="60" pos="24" key="49" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="12"/>
+          <note pan="0" vol="60" pos="72" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="42" len="48"/>
+          <note pan="0" vol="60" pos="24" key="49" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="12"/>
+          <note pan="0" vol="60" pos="72" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="42" len="48"/>
+          <note pan="0" vol="60" pos="24" key="49" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="12"/>
+          <note pan="0" vol="60" pos="72" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1920" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="42" len="48"/>
+          <note pan="0" vol="60" pos="24" key="49" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="12"/>
+          <note pan="0" vol="60" pos="72" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="360" key="42" len="48"/>
+          <note pan="0" vol="60" pos="360" key="49" len="48"/>
+          <note pan="0" vol="60" pos="408" key="45" len="192"/>
+          <note pan="0" vol="60" pos="408" key="52" len="192"/>
+          <note pan="0" vol="60" pos="600" key="50" len="192"/>
+          <note pan="0" vol="60" pos="600" key="43" len="96"/>
+          <note pan="0" vol="60" pos="696" key="40" len="96"/>
+          <note pan="0" vol="60" pos="792" key="42" len="120"/>
+          <note pan="0" vol="60" pos="792" key="49" len="120"/>
+          <note pan="0" vol="60" pos="912" key="40" len="12"/>
+          <note pan="0" vol="60" pos="912" key="47" len="12"/>
+          <note pan="0" vol="60" pos="936" key="42" len="12"/>
+          <note pan="0" vol="60" pos="936" key="49" len="12"/>
+          <note pan="0" vol="60" pos="960" key="42" len="12"/>
+          <note pan="0" vol="60" pos="960" key="49" len="12"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="11.8" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="39" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="48"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="216" key="49" len="12"/>
+          <note pan="0" vol="60" pos="216" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="48"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="216" key="49" len="12"/>
+          <note pan="0" vol="60" pos="216" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="48"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="216" key="49" len="12"/>
+          <note pan="0" vol="60" pos="216" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="48"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="216" key="49" len="12"/>
+          <note pan="0" vol="60" pos="216" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="48"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="216" key="49" len="12"/>
+          <note pan="0" vol="60" pos="216" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1920" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="42" len="48"/>
+          <note pan="0" vol="60" pos="48" key="49" len="48"/>
+          <note pan="0" vol="60" pos="96" key="49" len="12"/>
+          <note pan="0" vol="60" pos="96" key="42" len="12"/>
+          <note pan="0" vol="60" pos="144" key="49" len="12"/>
+          <note pan="0" vol="60" pos="144" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="216" key="49" len="12"/>
+          <note pan="0" vol="60" pos="216" key="42" len="12"/>
+          <note pan="0" vol="60" pos="384" key="42" len="48"/>
+          <note pan="0" vol="60" pos="384" key="49" len="48"/>
+          <note pan="0" vol="60" pos="432" key="45" len="192"/>
+          <note pan="0" vol="60" pos="432" key="52" len="192"/>
+          <note pan="0" vol="60" pos="624" key="50" len="192"/>
+          <note pan="0" vol="60" pos="624" key="43" len="96"/>
+          <note pan="0" vol="60" pos="720" key="40" len="96"/>
+          <note pan="0" vol="60" pos="816" key="42" len="120"/>
+          <note pan="0" vol="60" pos="816" key="49" len="120"/>
+          <note pan="0" vol="60" pos="936" key="40" len="12"/>
+          <note pan="0" vol="60" pos="936" key="47" len="12"/>
+          <note pan="0" vol="60" pos="960" key="42" len="12"/>
+          <note pan="0" vol="60" pos="960" key="49" len="12"/>
+          <note pan="0" vol="60" pos="984" key="42" len="12"/>
+          <note pan="0" vol="60" pos="984" key="49" len="12"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="5.5" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="39" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="72" key="49" len="48"/>
+          <note pan="0" vol="60" pos="72" key="42" len="48"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="72" key="42" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="48"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="72" key="42" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="48"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="72" key="42" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="48"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="72" key="42" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="48"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="42" len="12"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1920" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="72" key="42" len="48"/>
+          <note pan="0" vol="60" pos="72" key="49" len="48"/>
+          <note pan="0" vol="60" pos="120" key="49" len="12"/>
+          <note pan="0" vol="60" pos="120" key="42" len="12"/>
+          <note pan="0" vol="60" pos="168" key="49" len="12"/>
+          <note pan="0" vol="60" pos="168" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="42" len="12"/>
+          <note pan="0" vol="60" pos="192" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="49" len="12"/>
+          <note pan="0" vol="60" pos="240" key="42" len="12"/>
+          <note pan="0" vol="60" pos="408" key="42" len="48"/>
+          <note pan="0" vol="60" pos="408" key="49" len="48"/>
+          <note pan="0" vol="60" pos="456" key="45" len="192"/>
+          <note pan="0" vol="60" pos="456" key="52" len="192"/>
+          <note pan="0" vol="60" pos="648" key="50" len="192"/>
+          <note pan="0" vol="60" pos="648" key="43" len="96"/>
+          <note pan="0" vol="60" pos="744" key="40" len="96"/>
+          <note pan="0" vol="60" pos="840" key="42" len="120"/>
+          <note pan="0" vol="60" pos="840" key="49" len="120"/>
+          <note pan="0" vol="60" pos="960" key="40" len="12"/>
+          <note pan="0" vol="60" pos="960" key="47" len="12"/>
+          <note pan="0" vol="60" pos="984" key="42" len="12"/>
+          <note pan="0" vol="60" pos="984" key="49" len="12"/>
+          <note pan="0" vol="60" pos="1008" key="42" len="12"/>
+          <note pan="0" vol="60" pos="1008" key="49" len="12"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="73.2" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="27" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="960" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="54" len="11"/>
+          <note pan="0" vol="60" pos="12" key="49" len="11"/>
+          <note pan="0" vol="60" pos="24" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1344" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="54" len="11"/>
+          <note pan="0" vol="60" pos="12" key="49" len="11"/>
+          <note pan="0" vol="60" pos="24" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1728" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="54" len="11"/>
+          <note pan="0" vol="60" pos="12" key="49" len="11"/>
+          <note pan="0" vol="60" pos="24" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2112" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="54" len="11"/>
+          <note pan="0" vol="60" pos="12" key="49" len="11"/>
+          <note pan="0" vol="60" pos="24" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2880" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="54" len="11"/>
+          <note pan="0" vol="60" pos="12" key="49" len="11"/>
+          <note pan="0" vol="60" pos="24" key="42" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="-49.6" pitch="0" basenote="57" usemasterpitch="1" vol="45.7" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="27" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="960" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="54" len="11"/>
+          <note pan="0" vol="60" pos="60" key="49" len="11"/>
+          <note pan="0" vol="60" pos="72" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1344" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="54" len="11"/>
+          <note pan="0" vol="60" pos="60" key="49" len="11"/>
+          <note pan="0" vol="60" pos="72" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1728" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="54" len="11"/>
+          <note pan="0" vol="60" pos="60" key="49" len="11"/>
+          <note pan="0" vol="60" pos="72" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2112" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="54" len="11"/>
+          <note pan="0" vol="60" pos="60" key="49" len="11"/>
+          <note pan="0" vol="60" pos="72" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2880" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="48" key="54" len="11"/>
+          <note pan="0" vol="60" pos="60" key="49" len="11"/>
+          <note pan="0" vol="60" pos="72" key="42" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="49.6" pitch="0" basenote="57" usemasterpitch="1" vol="20.5" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="27" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="960" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="96" key="54" len="11"/>
+          <note pan="0" vol="60" pos="108" key="49" len="11"/>
+          <note pan="0" vol="60" pos="120" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1344" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="96" key="54" len="11"/>
+          <note pan="0" vol="60" pos="108" key="49" len="11"/>
+          <note pan="0" vol="60" pos="120" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1728" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="96" key="54" len="11"/>
+          <note pan="0" vol="60" pos="108" key="49" len="11"/>
+          <note pan="0" vol="60" pos="120" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2112" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="96" key="54" len="11"/>
+          <note pan="0" vol="60" pos="108" key="49" len="11"/>
+          <note pan="0" vol="60" pos="120" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2880" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="96" key="54" len="11"/>
+          <note pan="0" vol="60" pos="108" key="49" len="11"/>
+          <note pan="0" vol="60" pos="120" key="42" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="10.2" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="27" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="960" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="144" key="54" len="11"/>
+          <note pan="0" vol="60" pos="156" key="49" len="11"/>
+          <note pan="0" vol="60" pos="168" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1344" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="144" key="54" len="11"/>
+          <note pan="0" vol="60" pos="156" key="49" len="11"/>
+          <note pan="0" vol="60" pos="168" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1728" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="144" key="54" len="11"/>
+          <note pan="0" vol="60" pos="156" key="49" len="11"/>
+          <note pan="0" vol="60" pos="168" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2112" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="144" key="54" len="11"/>
+          <note pan="0" vol="60" pos="156" key="49" len="11"/>
+          <note pan="0" vol="60" pos="168" key="42" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="2880" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="144" key="54" len="11"/>
+          <note pan="0" vol="60" pos="156" key="49" len="11"/>
+          <note pan="0" vol="60" pos="168" key="42" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="96.9" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="38" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="18" len="11"/>
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="120" key="16" len="11"/>
+          <note pan="0" vol="60" pos="144" key="18" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="18" len="11"/>
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="120" key="16" len="11"/>
+          <note pan="0" vol="60" pos="144" key="18" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="18" len="11"/>
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="120" key="16" len="11"/>
+          <note pan="0" vol="60" pos="144" key="18" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="18" len="11"/>
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="120" key="16" len="11"/>
+          <note pan="0" vol="60" pos="144" key="18" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="18" len="11"/>
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="120" key="21" len="11"/>
+          <note pan="0" vol="60" pos="144" key="18" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+          <note pan="0" vol="60" pos="336" key="16" len="48"/>
+          <note pan="0" vol="60" pos="384" key="18" len="11"/>
+          <note pan="0" vol="60" pos="408" key="18" len="11"/>
+          <note pan="0" vol="60" pos="504" key="16" len="11"/>
+          <note pan="0" vol="60" pos="528" key="18" len="11"/>
+          <note pan="0" vol="60" pos="552" key="18" len="11"/>
+          <note pan="0" vol="60" pos="720" key="16" len="48"/>
+          <note pan="0" vol="60" pos="768" key="21" len="11"/>
+          <note pan="0" vol="60" pos="792" key="21" len="11"/>
+          <note pan="0" vol="60" pos="936" key="21" len="11"/>
+          <note pan="0" vol="60" pos="960" key="19" len="11"/>
+          <note pan="0" vol="60" pos="984" key="19" len="11"/>
+          <note pan="0" vol="60" pos="1104" key="16" len="48"/>
+          <note pan="0" vol="60" pos="1152" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1176" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1272" key="16" len="11"/>
+          <note pan="0" vol="60" pos="1296" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1320" key="18" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="tracknames" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="55.1" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="38" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="tracknames">
+          <note pan="0" vol="60" pos="12" key="18" len="11"/>
+          <note pan="0" vol="60" pos="36" key="18" len="11"/>
+          <note pan="0" vol="60" pos="132" key="16" len="11"/>
+          <note pan="0" vol="60" pos="156" key="18" len="11"/>
+          <note pan="0" vol="60" pos="180" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="tracknames">
+          <note pan="0" vol="60" pos="12" key="18" len="11"/>
+          <note pan="0" vol="60" pos="36" key="18" len="11"/>
+          <note pan="0" vol="60" pos="132" key="16" len="11"/>
+          <note pan="0" vol="60" pos="156" key="18" len="11"/>
+          <note pan="0" vol="60" pos="180" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="tracknames">
+          <note pan="0" vol="60" pos="12" key="18" len="11"/>
+          <note pan="0" vol="60" pos="36" key="18" len="11"/>
+          <note pan="0" vol="60" pos="132" key="16" len="11"/>
+          <note pan="0" vol="60" pos="156" key="18" len="11"/>
+          <note pan="0" vol="60" pos="180" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="tracknames">
+          <note pan="0" vol="60" pos="12" key="18" len="11"/>
+          <note pan="0" vol="60" pos="36" key="18" len="11"/>
+          <note pan="0" vol="60" pos="132" key="16" len="11"/>
+          <note pan="0" vol="60" pos="156" key="18" len="11"/>
+          <note pan="0" vol="60" pos="180" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="tracknames">
+          <note pan="0" vol="60" pos="12" key="18" len="11"/>
+          <note pan="0" vol="60" pos="36" key="18" len="11"/>
+          <note pan="0" vol="60" pos="132" key="21" len="11"/>
+          <note pan="0" vol="60" pos="156" key="18" len="11"/>
+          <note pan="0" vol="60" pos="180" key="18" len="11"/>
+          <note pan="0" vol="60" pos="348" key="16" len="48"/>
+          <note pan="0" vol="60" pos="396" key="18" len="11"/>
+          <note pan="0" vol="60" pos="420" key="18" len="11"/>
+          <note pan="0" vol="60" pos="516" key="16" len="11"/>
+          <note pan="0" vol="60" pos="540" key="18" len="11"/>
+          <note pan="0" vol="60" pos="564" key="18" len="11"/>
+          <note pan="0" vol="60" pos="732" key="16" len="48"/>
+          <note pan="0" vol="60" pos="780" key="21" len="11"/>
+          <note pan="0" vol="60" pos="804" key="21" len="11"/>
+          <note pan="0" vol="60" pos="948" key="21" len="11"/>
+          <note pan="0" vol="60" pos="972" key="19" len="11"/>
+          <note pan="0" vol="60" pos="996" key="19" len="11"/>
+          <note pan="0" vol="60" pos="1116" key="16" len="48"/>
+          <note pan="0" vol="60" pos="1164" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1188" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1284" key="16" len="11"/>
+          <note pan="0" vol="60" pos="1308" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1332" key="18" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="3.9" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="0" chorusNum="3" patch="38" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="48" key="18" len="11"/>
+          <note pan="0" vol="60" pos="144" key="16" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+          <note pan="0" vol="60" pos="192" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="384" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="48" key="18" len="11"/>
+          <note pan="0" vol="60" pos="144" key="16" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+          <note pan="0" vol="60" pos="192" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="768" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="48" key="18" len="11"/>
+          <note pan="0" vol="60" pos="144" key="16" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+          <note pan="0" vol="60" pos="192" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1152" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="48" key="18" len="11"/>
+          <note pan="0" vol="60" pos="144" key="16" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+          <note pan="0" vol="60" pos="192" key="18" len="11"/>
+        </pattern>
+        <pattern steps="16" muted="0" pos="1536" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="24" key="18" len="11"/>
+          <note pan="0" vol="60" pos="48" key="18" len="11"/>
+          <note pan="0" vol="60" pos="144" key="21" len="11"/>
+          <note pan="0" vol="60" pos="168" key="18" len="11"/>
+          <note pan="0" vol="60" pos="192" key="18" len="11"/>
+          <note pan="0" vol="60" pos="360" key="16" len="48"/>
+          <note pan="0" vol="60" pos="408" key="18" len="11"/>
+          <note pan="0" vol="60" pos="432" key="18" len="11"/>
+          <note pan="0" vol="60" pos="528" key="16" len="11"/>
+          <note pan="0" vol="60" pos="552" key="18" len="11"/>
+          <note pan="0" vol="60" pos="576" key="18" len="11"/>
+          <note pan="0" vol="60" pos="744" key="16" len="48"/>
+          <note pan="0" vol="60" pos="792" key="21" len="11"/>
+          <note pan="0" vol="60" pos="816" key="21" len="11"/>
+          <note pan="0" vol="60" pos="960" key="21" len="11"/>
+          <note pan="0" vol="60" pos="984" key="19" len="11"/>
+          <note pan="0" vol="60" pos="1008" key="19" len="11"/>
+          <note pan="0" vol="60" pos="1128" key="16" len="48"/>
+          <note pan="0" vol="60" pos="1176" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1200" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1296" key="16" len="11"/>
+          <note pan="0" vol="60" pos="1320" key="18" len="11"/>
+          <note pan="0" vol="60" pos="1344" key="18" len="11"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" name="Standard-Preset" solo="0">
+        <instrumenttrack pan="0" pitch="0" basenote="57" usemasterpitch="1" vol="93.7" pitchrange="1" fxch="0">
+          <instrument name="sf2player">
+            <sf2player src="C:\VST32\Soundfonts\SF2\GenesiSF.SF2" gain="1" reverbWidth="0.5" chorusOn="0" bank="128" chorusNum="3" patch="0" chorusDepth="8" reverbOn="0" reverbRoomSize="0.2" chorusSpeed="0.3" reverbDamping="0" chorusLevel="2" reverbLevel="0.9"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fres="0.5" fwet="0">
+            <elvol latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elcut latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+            <elres latt="0" hold="0.5" lspd_numerator="4" x100="0" lspd="0.1" att="0" lshp="0" userwavefile="" amt="0" sustain="0.5" lamt="0" dec="0.5" lspd_denominator="4" rel="0.1" lpdel="0" ctlenvamt="0" lspd_syncmode="0" pdel="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+          <arpeggiator arp-enabled="0" arptime="100" arpmiss="0" arpmode="0" arpgate="100" arp="0" arpcycle="0" arprange="1" arpskip="0" arpdir="0" arptime_syncmode="0" arptime_denominator="4" arptime_numerator="4"/>
+          <midiport fixedoutputnote="-1" readable="0" basevelocity="127" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" writable="0" outputchannel="1" inputcontroller="0" outputprogram="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern steps="16" muted="0" pos="0" type="1" name="Standard-Preset">
+          <note pan="0" vol="60" pos="0" key="23" len="11"/>
+          <note pan="0" vol="60" pos="48" key="23" len="11"/>
+          <note pan="0" vol="60" pos="48" key="26" len="11"/>
+          <note pan="0" vol="60" pos="96" key="23" len="11"/>
+          <note pan="0" vol="60" pos="120" key="23" len="11"/>
+          <note pan="0" vol="60" pos="144" key="23" len="11"/>
+          <note pan="0" vol="60" pos="144" key="26" len="11"/>
+          <note pan="0" vol="60" pos="192" key="23" len="11"/>
+          <note pan="0" vol="60" pos="240" key="26" len="11"/>
+          <note pan="0" vol="60" pos="240" key="23" len="11"/>
+          <note pan="0" vol="60" pos="288" key="23" len="11"/>
+          <note pan="0" vol="60" pos="312" key="23" len="11"/>
+          <note pan="0" vol="60" pos="336" key="26" len="11"/>
+          <note pan="0" vol="60" pos="336" key="23" len="11"/>
+          <note pan="0" vol="60" pos="360" key="26" len="11"/>
+          <note pan="0" vol="60" pos="372" key="26" len="11"/>
+          <note pan="0" vol="60" pos="384" key="23" len="11"/>
+          <note pan="0" vol="60" pos="432" key="26" len="11"/>
+          <note pan="0" vol="60" pos="432" key="23" len="11"/>
+          <note pan="0" vol="60" pos="480" key="23" len="11"/>
+          <note pan="0" vol="60" pos="504" key="23" len="11"/>
+          <note pan="0" vol="60" pos="528" key="26" len="11"/>
+          <note pan="0" vol="60" pos="528" key="23" len="11"/>
+          <note pan="0" vol="60" pos="576" key="23" len="11"/>
+          <note pan="0" vol="60" pos="624" key="26" len="11"/>
+          <note pan="0" vol="60" pos="624" key="23" len="11"/>
+          <note pan="0" vol="60" pos="672" key="23" len="11"/>
+          <note pan="0" vol="60" pos="696" key="23" len="11"/>
+          <note pan="0" vol="60" pos="720" key="26" len="11"/>
+          <note pan="0" vol="60" pos="720" key="23" len="11"/>
+          <note pan="0" vol="60" pos="744" key="26" len="11"/>
+          <note pan="0" vol="60" pos="756" key="26" len="11"/>
+          <note pan="0" vol="60" pos="768" key="23" len="11"/>
+          <note pan="0" vol="60" pos="816" key="26" len="11"/>
+          <note pan="0" vol="60" pos="816" key="23" len="11"/>
+          <note pan="0" vol="60" pos="864" key="23" len="11"/>
+          <note pan="0" vol="60" pos="888" key="23" len="11"/>
+          <note pan="0" vol="60" pos="912" key="26" len="11"/>
+          <note pan="0" vol="60" pos="912" key="23" len="11"/>
+          <note pan="0" vol="60" pos="960" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1008" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1008" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1056" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1080" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1104" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1104" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1128" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1140" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1152" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1200" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1200" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1248" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1272" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1296" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1296" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1344" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1392" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1392" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1440" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1464" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1488" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1488" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1512" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1524" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1536" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1584" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1584" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1632" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1656" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1680" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1680" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1728" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1776" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1776" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1824" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1848" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1872" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1872" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1896" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1908" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1920" key="23" len="11"/>
+          <note pan="0" vol="60" pos="1968" key="26" len="11"/>
+          <note pan="0" vol="60" pos="1968" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2016" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2040" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2064" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2064" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2112" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2160" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2160" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2208" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2232" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2256" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2256" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2280" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2292" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2304" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2352" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2352" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2400" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2424" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2448" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2448" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2496" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2544" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2544" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2592" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2616" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2640" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2640" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2664" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2676" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2688" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2736" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2736" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2784" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2808" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2832" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2832" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2880" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2928" key="26" len="11"/>
+          <note pan="0" vol="60" pos="2928" key="23" len="11"/>
+          <note pan="0" vol="60" pos="2976" key="23" len="11"/>
+          <note pan="0" vol="60" pos="3000" key="23" len="11"/>
+          <note pan="0" vol="60" pos="3024" key="26" len="11"/>
+          <note pan="0" vol="60" pos="3024" key="23" len="11"/>
+          <note pan="0" vol="60" pos="3048" key="26" len="11"/>
+          <note pan="0" vol="60" pos="3060" key="26" len="11"/>
+        </pattern>
+      </track>
+    </trackcontainer>
+    <track muted="0" type="6" name="Automation track" solo="0">
+      <automationtrack/>
+      <automationpattern pos="0" prog="0" tens="1" mute="0" name="Zähler" len="192">
+        <time value="4" pos="0"/>
+      </automationpattern>
+      <automationpattern pos="0" prog="0" tens="1" mute="0" name="Nenner" len="192">
+        <time value="4" pos="0"/>
+      </automationpattern>
+      <automationpattern pos="0" prog="0" tens="1" mute="0" name="Tempo" len="192">
+        <time value="120" pos="0"/>
+        <object id="3727289"/>
+      </automationpattern>
+      <automationpattern pos="0" prog="0" tens="1" mute="0" name="Master-Lautstärke" len="192">
+        <time value="100" pos="0"/>
+      </automationpattern>
+      <automationpattern pos="0" prog="0" tens="1" mute="0" name="Master-Tonhöhe" len="192">
+        <time value="0" pos="0"/>
+      </automationpattern>
+    </track>
+    <fxmixer x="5" height="333" y="310" width="864" maximized="0" minimized="0" visible="1">
+      <fxchannel muted="0" soloed="0" name="Master" num="0" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 1" num="1" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 2" num="2" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 3" num="3" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 4" num="4" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 5" num="5" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 6" num="6" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 7" num="7" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 8" num="8" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 9" num="9" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 10" num="10" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 11" num="11" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 12" num="12" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 13" num="13" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 14" num="14" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 15" num="15" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 16" num="16" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 17" num="17" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 18" num="18" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 19" num="19" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 20" num="20" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 21" num="21" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 22" num="22" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 23" num="23" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 24" num="24" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 25" num="25" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 26" num="26" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 27" num="27" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 28" num="28" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 29" num="29" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 30" num="30" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 31" num="31" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 32" num="32" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 33" num="33" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 34" num="34" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 35" num="35" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 36" num="36" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 37" num="37" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 38" num="38" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 39" num="39" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 40" num="40" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 41" num="41" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 42" num="42" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 43" num="43" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 44" num="44" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 45" num="45" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 46" num="46" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 47" num="47" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 48" num="48" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 49" num="49" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 50" num="50" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 51" num="51" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 52" num="52" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 53" num="53" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 54" num="54" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 55" num="55" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 56" num="56" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 57" num="57" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 58" num="58" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 59" num="59" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 60" num="60" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 61" num="61" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 62" num="62" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 63" num="63" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" soloed="0" name="FX 64" num="64" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView x="880" height="200" y="310" width="350" maximized="0" minimized="0" visible="1"/>
+    <pianoroll x="115" height="480" y="153" width="1135" maximized="0" minimized="0" visible="0"/>
+    <automationeditor x="510" height="480" y="153" width="860" maximized="0" minimized="0" visible="0"/>
+    <projectnotes x="700" height="300" y="10" width="631" maximized="0" minimized="0" visible="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Schreiben Sie hier Ihre Projekt-Notizen auf.</span></p></body></html>]]></projectnotes>
+    <timeline lp0pos="0" lpstate="1" lp1pos="3072"/>
+    <controllers/>
+  </song>
+</lmms-project>

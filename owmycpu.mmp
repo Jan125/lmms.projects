@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="20" creator="LMMS" creatorversion="1.3.0-alpha.1.102+g89fc6c960" type="song">
+  <head mastervol="100" timesig_numerator="4" timesig_denominator="4" masterpitch="0" bpm="120"/>
+  <song>
+    <trackcontainer visible="1" maximized="0" minimized="0" width="1033" height="600" x="1" y="1" type="song">
+      <track muted="0" solo="0" mutedBeforeSolo="0" name="BitInvader" type="0">
+        <instrumenttrack firstkey="0" lastkey="127" pan="0" usemasterpitch="1" pitch="0" basenote="69" enablecc="0" fxch="2" vol="100" pitchrange="1">
+          <midicontrollers cc57="0" cc108="0" cc62="0" cc14="0" cc97="0" cc67="0" cc31="0" cc82="0" cc43="0" cc47="0" cc54="0" cc0="0" cc25="0" cc87="0" cc124="0" cc121="0" cc37="0" cc39="0" cc18="0" cc30="0" cc71="0" cc13="0" cc73="0" cc95="0" cc72="0" cc5="0" cc10="0" cc126="0" cc9="0" cc125="0" cc88="0" cc28="0" cc24="0" cc74="0" cc3="0" cc79="0" cc38="0" cc68="0" cc59="0" cc63="0" cc41="0" cc104="0" cc70="0" cc48="0" cc102="0" cc36="0" cc60="0" cc92="0" cc29="0" cc103="0" cc27="0" cc69="0" cc100="0" cc123="0" cc26="0" cc56="0" cc90="0" cc65="0" cc110="0" cc75="0" cc22="0" cc33="0" cc105="0" cc40="0" cc99="0" cc77="0" cc101="0" cc12="0" cc15="0" cc17="0" cc81="0" cc96="0" cc1="0" cc85="0" cc20="0" cc66="0" cc8="0" cc49="0" cc80="0" cc44="0" cc120="0" cc91="0" cc45="0" cc113="0" cc116="0" cc119="0" cc16="0" cc109="0" cc127="0" cc21="0" cc89="0" cc23="0" cc58="0" cc94="0" cc53="0" cc46="0" cc19="0" cc2="0" cc52="0" cc122="0" cc4="0" cc98="0" cc115="0" cc50="0" cc55="0" cc114="0" cc118="0" cc6="0" cc51="0" cc86="0" cc32="0" cc111="0" cc76="0" cc7="0" cc11="0" cc117="0" cc61="0" cc112="0" cc34="0" cc42="0" cc83="0" cc78="0" cc107="0" cc84="0" cc93="0" cc106="0" cc64="0" cc35="0"/>
+          <instrument name="bitinvader">
+            <bitinvader normalize="0" interpolation="0" sampleLength="200" version="0.1" sampleShape="AAAAAJKoAD1RmIA93LvAPVtXAD5cMCA+4+A/PvFgXz6RqH4+7NeOPno3nj4Pb60+0nq8PvhWyz6+/9k+cnHoPmyo9j6KUAI/8isJP7LkDz8YeRY/euccPzkuIz+8Syk/ez4vP/MENT+xnTo/SAdAP1tART+ZR0o/vRtPP467Uz/gJVg/l1lcP6NVYD8BGWQ/v6JnP/jxaj/VBW4/kN1wP3F4cz/P1XU/EfV3P6/VeT8ud3s/Jdl8Pzv7fT8m3X4/rn5/P6nffz8AAIA/qd9/P65+fz8m3X4/Ovt9PyTZfD8td3s/rtV5PxH1dz/O1XU/cHhzP5DdcD/UBW4/9/FqP76iZz8AGWQ/oVVgP5ZZXD/fJVg/jLtTP70bTz+aR0o/W0BFP0gHQD+wnTo/8wQ1P3o+Lz+8Syk/Ny4jP3nnHD8XeRY/seQPP/ErCT+IUAI/Z6j2Pm1x6D66/9k+81bLPs16vD4Jb60+czeePu3Xjj6RqH4+8WBfPuLgPz5aMCA+WVcAPtW7wD1JmIA9fagAPS69u7OsqAC9YJiAve27wL1kVwC+ZTAgvu7gP779YF++nKh+vvPXjr6BN56+Dm+tvtJ6vL74Vsu+v//ZvnNx6L5sqPa+i1ACv/MrCb+05A+/GnkWv3znHL86LiO/vkspv30+L7/1BDW/sp06v0oHQL9dQEW/nEdKv78bT7+Qu1O/4iVYv5lZXL+lVWC/Axlkv8GiZ7/68Wq/1wVuv5LdcL9weHO/ztV1vxH1d7+u1Xm/LXd7vyTZfL87+32/Jt1+v65+f7+p33+/AACAv6nff7+ufn+/Jt1+vzv7fb8k2Xy/LXd7v67Veb8Q9Xe/ztV1v3B4c7+P3XC/1AVuv/bxar++ome//xhkv6FVYL+VWVy/3iVYv4u7U7+6G0+/lkdKv1hARb9EB0C/rJ06v+8ENb92Pi+/uEspvzMuI7915xy/E3kWv7PkD7/zKwm/ilACv2yo9r5ycei+vv/ZvvhWy77Sery+DW+tvng3nr7q146+i6h+vuxgX77d4D++VDAgvlNXAL7Ku8C9PZiAvWaoAL0=">
+              <key/>
+            </bitinvader>
+          </instrument>
+          <eldata ftype="0" fcut="14000" fres="0.5" fwet="0">
+            <elvol lshp="0" x100="0" att="0" pdel="0" lspd_numerator="4" sustain="0.5" dec="0.5" ctlenvamt="0" rel="0.1" userwavefile="" lamt="0" amt="0" latt="0" lpdel="0" lspd_denominator="4" hold="0.5" lspd="0.1" lspd_syncmode="0"/>
+            <elcut lshp="0" x100="0" att="0" pdel="0" lspd_numerator="4" sustain="0.5" dec="0.5" ctlenvamt="0" rel="0.1" userwavefile="" lamt="0" amt="0" latt="0" lpdel="0" lspd_denominator="4" hold="0.5" lspd="0.1" lspd_syncmode="0"/>
+            <elres lshp="0" x100="0" att="0" pdel="0" lspd_numerator="4" sustain="0.5" dec="0.5" ctlenvamt="0" rel="0.1" userwavefile="" lamt="0" amt="0" latt="0" lpdel="0" lspd_denominator="4" hold="0.5" lspd="0.1" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+          <arpeggiator arp-enabled="0" arpgate="100" arpmode="0" arpdir="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arptime="200" arp="0" arpmiss="0" arptime_denominator="4" arpcycle="0" arprepeats="1" arpskip="0"/>
+          <midiport fixedinputvelocity="-1" writable="0" fixedoutputvelocity="-1" fixedoutputnote="-1" inports="" basevelocity="63" inputchannel="0" outputcontroller="0" outputchannel="1" inputcontroller="0" outputprogram="1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern muted="0" name="" steps="16" pos="0" type="1">
+          <note pan="0" len="48" key="67" pos="0" vol="100"/>
+          <note pan="0" len="48" key="72" pos="48" vol="100"/>
+          <note pan="0" len="48" key="74" pos="96" vol="100"/>
+          <note pan="0" len="48" key="79" pos="144" vol="100"/>
+        </pattern>
+      </track>
+    </trackcontainer>
+    <track muted="0" solo="0" mutedBeforeSolo="0" name="Automation track" type="6">
+      <automationtrack/>
+      <automationpattern prog="0" tens="1" mute="0" len="192" name="Numerator" pos="0"/>
+      <automationpattern prog="0" tens="1" mute="0" len="192" name="Denominator" pos="0"/>
+      <automationpattern prog="0" tens="1" mute="0" len="192" name="Tempo" pos="0"/>
+      <automationpattern prog="0" tens="1" mute="0" len="192" name="Master volume" pos="0"/>
+      <automationpattern prog="0" tens="1" mute="0" len="192" name="Master pitch" pos="0"/>
+    </track>
+    <fxmixer visible="1" maximized="0" minimized="0" width="1505" height="333" x="1" y="600">
+      <fxchannel muted="0" num="0" name="Master" soloed="0" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+      </fxchannel>
+      <fxchannel muted="0" num="1" name="FX 1" soloed="0" volume="1">
+        <fxchain enabled="1" numofeffects="1">
+          <effect autoquit="1" autoquit_syncmode="0" gate="0" wet="1" autoquit_numerator="4" autoquit_denominator="4" name="stereomatrix" on="1">
+            <stereomatrixcontrols l-r="0" r-l="0" l-l="1" r-r="1"/>
+            <key/>
+          </effect>
+        </fxchain>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel muted="0" num="2" name="FX 2" soloed="0" volume="1">
+        <fxchain enabled="1" numofeffects="1">
+          <effect autoquit="1" autoquit_syncmode="0" gate="0" wet="1" autoquit_numerator="4" autoquit_denominator="4" name="eq" on="1">
+            <Eq Lowshelfactive="1" Peak4active="1" Peak4gain="0" Peak3active="1" LowShelfres="1.4" AnalyseOut="1" Peak4bw="0.3" Outputgain="0.01" Highshelfactive="1" HP="2" HighShelfres="1.4" Peak2active="1" LP12="0" LP="2" Lowshelfgain="-2.16" HP48="1" LPres="0.707" LP24="0" LP48="1" Peak3bw="0.3" HighShelfgain="0" Peak3gain="0" HP24="0" HPres="0.707" HPactive="0" Peak1active="1" Peak2gain="4.68" HP12="0" AnalyseIn="1" Peak1bw="0.3" LPactive="1" Peak2bw="0.3">
+              <Inputgain id="11000" value="-14.38" scale_type="log"/>
+              <Peak1gain id="32731" value="1.26" scale_type="log"/>
+              <HPfreq id="23178" value="31" scale_type="log"/>
+              <LowShelffreq id="27706" value="78.7813" scale_type="log"/>
+              <Peak1freq id="27369" value="121.856" scale_type="log"/>
+              <Peak2freq id="28056" value="250" scale_type="log"/>
+              <Peak3freq id="23448" value="2000" scale_type="log"/>
+              <Peak4freq id="6364" value="4000" scale_type="log"/>
+              <Highshelffreq id="20186" value="12000" scale_type="log"/>
+              <LPfreq id="6262" value="18000" scale_type="log"/>
+            </Eq>
+            <key/>
+          </effect>
+        </fxchain>
+        <send channel="1" amount="1"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView visible="0" maximized="0" minimized="0" width="350" height="200" x="550" y="487"/>
+    <pianoroll visible="1" maximized="0" minimized="0" width="970" height="600" x="1033" y="1"/>
+    <automationeditor visible="0" maximized="0" minimized="0" width="860" height="400" x="1" y="1"/>
+    <projectnotes visible="0" maximized="0" minimized="0" width="689" height="400" x="700" y="10"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">&lt;&lt;&lt;&lt;&lt;&lt;</span></p></body></html>]]></projectnotes>
+    <timeline stopbehaviour="1" lpstate="0" lp0pos="0" lp1pos="192"/>
+    <controllers/>
+  </song>
+</lmms-project>

@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.3.0-alpha.1.102+g89fc6c960" type="song" version="20" creator="LMMS">
+  <head bpm="80" mastervol="100" masterpitch="0" timesig_denominator="4" timesig_numerator="4"/>
+  <song>
+    <trackcontainer y="1" x="6" minimized="0" visible="1" type="song" height="576" width="1033" maximized="0">
+      <track solo="0" muted="0" type="0" name="SpectralHarp" mutedBeforeSolo="0">
+        <instrumenttrack basenote="69" lastkey="127" pitch="0" pitchrange="1" pan="0" firstkey="0" enablecc="0" fxch="1" usemasterpitch="1">
+          <vol scale_type="linear" value="70.3125" id="13134"/>
+          <midicontrollers cc86="0" cc101="0" cc10="0" cc57="0" cc58="0" cc59="0" cc32="0" cc78="0" cc94="0" cc19="0" cc87="0" cc79="0" cc88="0" cc106="0" cc114="0" cc99="0" cc0="0" cc5="0" cc93="0" cc95="0" cc119="0" cc60="0" cc73="0" cc14="0" cc52="0" cc23="0" cc70="0" cc74="0" cc12="0" cc69="0" cc30="0" cc42="0" cc85="0" cc111="0" cc13="0" cc124="0" cc44="0" cc127="0" cc75="0" cc50="0" cc81="0" cc20="0" cc21="0" cc18="0" cc29="0" cc68="0" cc34="0" cc118="0" cc89="0" cc28="0" cc6="0" cc83="0" cc104="0" cc3="0" cc110="0" cc117="0" cc115="0" cc9="0" cc72="0" cc24="0" cc46="0" cc27="0" cc61="0" cc7="0" cc105="0" cc121="0" cc123="0" cc62="0" cc63="0" cc36="0" cc45="0" cc56="0" cc49="0" cc96="0" cc64="0" cc90="0" cc8="0" cc125="0" cc53="0" cc80="0" cc91="0" cc98="0" cc76="0" cc66="0" cc47="0" cc126="0" cc67="0" cc40="0" cc39="0" cc33="0" cc103="0" cc108="0" cc82="0" cc97="0" cc120="0" cc48="0" cc51="0" cc22="0" cc71="0" cc43="0" cc92="0" cc65="0" cc122="0" cc11="0" cc37="0" cc2="0" cc107="0" cc25="0" cc77="0" cc109="0" cc16="0" cc1="0" cc4="0" cc26="0" cc31="0" cc55="0" cc15="0" cc112="0" cc116="0" cc54="0" cc84="0" cc113="0" cc41="0" cc102="0" cc17="0" cc35="0" cc100="0" cc38="0"/>
+          <instrument name="vestige">
+            <vestige plugin="uservst:Instruments/SpectralHarp/SpectralHarp.dll" numparams="12" param7="7:Last Band:1" program="0" param6="6:First Band:0" param3="3:Crush:0" param2="2:Decay:0" param0="0:Volume:0.723958" param8="8:Density:1" param9="9:Tuning:0" param1="1:Pitch:1" param5="5:Pluck Y:1" guivisible="0" param11="11:Brightness:0.283885" param10="10:Spread:0.472755" param4="4:Pluck X:0">
+              <param10 scale_type="linear" value="0.472755" id="11719"/>
+              <param11 scale_type="linear" value="0.283885" id="4916"/>
+              <key/>
+            </vestige>
+          </instrument>
+          <eldata ftype="0" fcut="14000" fwet="0" fres="0.5">
+            <elvol lspd_numerator="4" lspd_denominator="4" sustain="0.5" lamt="0" dec="0.5" latt="0" pdel="0" lpdel="0" lshp="0" x100="0" lspd="0.1" amt="0" userwavefile="" att="0" ctlenvamt="0" rel="0.1" hold="0.5" lspd_syncmode="0"/>
+            <elcut lspd_numerator="4" lspd_denominator="4" sustain="0.5" lamt="0" dec="0.5" latt="0" pdel="0" lpdel="0" lshp="0" x100="0" lspd="0.1" amt="0" userwavefile="" att="0" ctlenvamt="0" rel="0.1" hold="0.5" lspd_syncmode="0"/>
+            <elres lspd_numerator="4" lspd_denominator="4" sustain="0.5" lamt="0" dec="0.5" latt="0" pdel="0" lpdel="0" lshp="0" x100="0" lspd="0.1" amt="0" userwavefile="" att="0" ctlenvamt="0" rel="0.1" hold="0.5" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arprange="1" arptime_denominator="4" arpdir="0" arpgate="100" arp="0" arpmiss="0" arp-enabled="0" arptime_numerator="4" arptime="200" arprepeats="1" arptime_syncmode="0" arpcycle="0" arpskip="0" arpmode="0"/>
+          <midiport fixedoutputvelocity="-1" writable="0" outputcontroller="0" fixedinputvelocity="-1" fixedoutputnote="-1" inputcontroller="0" inputchannel="0" inports="" outputchannel="1" outputprogram="1" basevelocity="63" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern muted="0" type="1" steps="16" name="" pos="0">
+          <note key="103" pan="0" vol="100" len="564" pos="0"/>
+          <note key="99" pan="0" vol="100" len="564" pos="0"/>
+          <note key="96" pan="0" vol="100" len="564" pos="0"/>
+        </pattern>
+        <pattern muted="0" type="1" steps="16" name="" pos="576">
+          <note key="87" pan="0" vol="100" len="180" pos="0"/>
+          <note key="84" pan="0" vol="100" len="180" pos="0"/>
+          <note key="80" pan="0" vol="100" len="180" pos="0"/>
+        </pattern>
+      </track>
+      <track solo="0" muted="0" type="5" name="SpectralHarp>Volume" mutedBeforeSolo="0">
+        <automationtrack/>
+        <automationpattern mute="0" prog="1" name="SpectralHarp>Volume" pos="0" len="192" tens="0">
+          <time outValue="0" value="0" pos="0"/>
+          <time outValue="100" value="100" pos="192"/>
+          <object id="13134"/>
+        </automationpattern>
+      </track>
+      <track solo="0" muted="0" type="5" name="SpectralHarp>Spread" mutedBeforeSolo="0">
+        <automationtrack/>
+        <automationpattern mute="0" prog="2" name="SpectralHarp>10" pos="0" len="576" tens="0">
+          <time outValue="0" value="0" pos="0"/>
+          <time outValue="0.6" value="0.6" pos="192"/>
+          <time outValue="0.15" value="0.15" pos="384"/>
+          <time outValue="0" value="0" pos="576"/>
+          <object id="11719"/>
+        </automationpattern>
+        <automationpattern mute="0" prog="2" name="SpectralHarp>10" pos="576" len="192" tens="0">
+          <time outValue="0" value="0" pos="0"/>
+          <time outValue="0.16" value="0.16" pos="144"/>
+          <time outValue="0" value="0" pos="192"/>
+          <object id="11719"/>
+        </automationpattern>
+      </track>
+      <track solo="0" muted="0" type="5" name="SpectralHarp>Brightness" mutedBeforeSolo="0">
+        <automationtrack/>
+        <automationpattern mute="0" prog="2" name="SpectralHarp>11" pos="0" len="384" tens="0">
+          <time outValue="0" value="0" pos="0"/>
+          <time outValue="1" value="1" pos="384"/>
+          <object id="4916"/>
+        </automationpattern>
+        <automationpattern mute="0" prog="2" name="SpectralHarp>11" pos="576" len="192" tens="0">
+          <time outValue="0" value="0" pos="0"/>
+          <time outValue="0.5" value="0.5" pos="192"/>
+          <object id="4916"/>
+        </automationpattern>
+        <automationpattern mute="0" prog="2" name="SpectralHarp>11" pos="384" len="192" tens="0">
+          <time outValue="1" value="1" pos="0"/>
+          <time outValue="0" value="0" pos="192"/>
+          <object id="4916"/>
+        </automationpattern>
+      </track>
+    </trackcontainer>
+    <track solo="0" muted="0" type="6" name="Automation track" mutedBeforeSolo="0">
+      <automationtrack/>
+      <automationpattern mute="0" prog="0" name="Numerator" pos="0" len="192" tens="1"/>
+      <automationpattern mute="0" prog="0" name="Denominator" pos="0" len="192" tens="1"/>
+      <automationpattern mute="0" prog="0" name="Tempo" pos="0" len="192" tens="1"/>
+      <automationpattern mute="0" prog="0" name="Master volume" pos="0" len="192" tens="1"/>
+      <automationpattern mute="0" prog="0" name="Master pitch" pos="0" len="192" tens="1"/>
+    </track>
+    <fxmixer y="581" x="3" minimized="0" visible="1" height="333" width="1876" maximized="0">
+      <fxchannel num="0" volume="1" muted="0" soloed="0" name="Master">
+        <fxchain enabled="0" numofeffects="0"/>
+      </fxchannel>
+      <fxchannel num="1" volume="0.814" muted="0" soloed="0" name="SpectralHarp">
+        <fxchain enabled="1" numofeffects="1">
+          <effect on="1" autoquit_syncmode="0" autoquit="1" wet="1" autoquit_denominator="4" gate="0" name="vsteffect" autoquit_numerator="4">
+            <vsteffectcontrols plugin="Effects\Classic Reverb\Classic Reverb.dll" numparams="8" param7="7:Level:0.5" program="0" param6="6:Mix:0.66" param3="3:Hi Damp:0.18" param2="2:Predelay:0.5" param0="0:Size:1" param1="1:Damping:0.12" param5="5:Early Ref.:0" guivisible="0" param4="4:Lo Cut:0.3"/>
+            <key>
+              <attribute value="Effects\Classic Reverb\Classic Reverb.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="0.5" channel="2"/>
+        <send amount="1" channel="0"/>
+      </fxchannel>
+      <fxchannel num="2" volume="1" muted="0" soloed="0" name="HALL">
+        <fxchain enabled="1" numofeffects="1">
+          <effect on="1" autoquit_syncmode="0" autoquit="1" wet="1" autoquit_denominator="4" gate="0" name="vsteffect" autoquit_numerator="4">
+            <vsteffectcontrols plugin="Effects\Classic Reverb\Classic Reverb.dll" numparams="8" param7="7:Level:0.5" program="0" param6="6:Mix:1" param3="3:Hi Damp:0.01" param2="2:Predelay:0.5" param0="0:Size:0.83" param1="1:Damping:0.04" param5="5:Early Ref.:0" guivisible="0" param4="4:Lo Cut:0"/>
+            <key>
+              <attribute value="Effects\Classic Reverb\Classic Reverb.dll" name="file"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="0.8" channel="0"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView y="487" x="550" minimized="0" visible="0" height="200" width="350" maximized="0"/>
+    <pianoroll y="33" x="884" minimized="0" visible="0" height="603" width="970" maximized="0"/>
+    <automationeditor y="97" x="1025" minimized="0" visible="0" height="713" width="860" maximized="0"/>
+    <projectnotes y="2" x="1044" minimized="0" visible="1" height="576" width="832" maximized="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Greetings.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Please use this in LMMS 1.3 or higher. Previous versions require editing to load correctly.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Instruments:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">SpectralHarp: You can find it on itch.io for &quot;name your own price&quot;, from 0 to whatever your bank account allows.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Classic Reverb: Kjærhus Audio Classic Collection. Should be available even in the trial version of Acoustica's Mixcraft.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#e0e0e0;">Released as .mmp, adjust paths as desired.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Please note that the author explicitely wishes to have eventual derivates or redistributions distributed ONLY as .mmp files, not .mmpz.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">There is nothing the license can do from stopping you as saving it as .mmpz, except that the author will insult you severely.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Should you have received this file as an .mmpz, please insult its forwarder.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">To convert the file into .mmp, follow these steps:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">1.: Create a a file called &quot;Decompress.cmd&quot; in the LMMS directory. (Where lmms.exe is located.)</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">2.: Right click on file, click &quot;Edit&quot;.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">3.: Put the following line into the file:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&quot;%~dp0LMMS.exe&quot; -d &quot;%*&quot; &gt; &quot;%*.mmp&quot;</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This does the following:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">%~dp0 return the folder where the .cmd file is located.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">It then calls LMMS.exe inside that folder.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">-d is the decompress option for an .mmpz file.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">%* returns any parameters given to the .cmd file.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&gt; sends the output into a file.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">If you drag an .mmpz file onto the .cmd file, it will decompress it into &quot;[filename].mmpz.mmp&quot;, at the original location.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></projectnotes>
+    <timeline lpstate="1" stopbehaviour="1" lp0pos="0" lp1pos="1536"/>
+    <controllers/>
+  </song>
+</lmms-project>
