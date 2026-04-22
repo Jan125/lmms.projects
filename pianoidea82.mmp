@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" creatorplatform="linux" creatorplatformtype="fedora" creatorversion="1.3.0-alpha.1.926+f21b0db" type="song" version="31">
+  <head bpm="86" masterpitch="0" mastervol="100" timesig_denominator="4" timesig_numerator="4"/>
+  <song>
+    <trackcontainer height="300" maximized="0" minimized="0" type="song" visible="1" width="959" x="5" y="5">
+      <track muted="0" mutedBeforeSolo="1" name="Annotations" solo="0" type="1">
+        <patterntrack>
+          <trackcontainer height="400" maximized="0" minimized="0" type="patternstore" visible="0" width="736" x="610" y="5"/>
+        </patterntrack>
+      </track>
+      <track muted="0" mutedBeforeSolo="1" name="RealFont_2_1" solo="0" type="0">
+        <instrumenttrack basenote="69" enablecc="0" enabled="0" firstkey="0" keymap="0" lastkey="127" mixch="1" pan="0" pitch="0" pitchrange="1" range_import="1" scale="0" usemasterpitch="1" vol="100">
+          <midicontrollers cc0="0" cc1="0" cc10="0" cc100="0" cc101="0" cc102="0" cc103="0" cc104="0" cc105="0" cc106="0" cc107="0" cc108="0" cc109="0" cc11="0" cc110="0" cc111="0" cc112="0" cc113="0" cc114="0" cc115="0" cc116="0" cc117="0" cc118="0" cc119="0" cc12="0" cc120="0" cc121="0" cc122="0" cc123="0" cc124="0" cc125="0" cc126="0" cc127="0" cc13="0" cc14="0" cc15="0" cc16="0" cc17="0" cc18="0" cc19="0" cc2="0" cc20="0" cc21="0" cc22="0" cc23="0" cc24="0" cc25="0" cc26="0" cc27="0" cc28="0" cc29="0" cc3="0" cc30="0" cc31="0" cc32="0" cc33="0" cc34="0" cc35="0" cc36="0" cc37="0" cc38="0" cc39="0" cc4="0" cc40="0" cc41="0" cc42="0" cc43="0" cc44="0" cc45="0" cc46="0" cc47="0" cc48="0" cc49="0" cc5="0" cc50="0" cc51="0" cc52="0" cc53="0" cc54="0" cc55="0" cc56="0" cc57="0" cc58="0" cc59="0" cc6="0" cc60="0" cc61="0" cc62="0" cc63="0" cc64="0" cc65="0" cc66="0" cc67="0" cc68="0" cc69="0" cc7="0" cc70="0" cc71="0" cc72="0" cc73="0" cc74="0" cc75="0" cc76="0" cc77="0" cc78="0" cc79="0" cc8="0" cc80="0" cc81="0" cc82="0" cc83="0" cc84="0" cc85="0" cc86="0" cc87="0" cc88="0" cc89="0" cc9="0" cc90="0" cc91="0" cc92="0" cc93="0" cc94="0" cc95="0" cc96="0" cc97="0" cc98="0" cc99="0"/>
+          <instrument name="sf2player">
+            <sf2player bank="0" chorusDepth="8" chorusLevel="2" chorusNum="0.89999998" chorusOn="0" chorusSpeed="0.30000001" gain="0.71999997" patch="24" reverbDamping="0.2" reverbLevel="0.89999998" reverbOn="0" reverbRoomSize="0.2" reverbWidth="0.5" src="usersoundfont:RealFont_2_1.SF2">
+              <key/>
+            </sf2player>
+          </instrument>
+          <eldata fcut="14000" fres="0.5" ftype="0" fwet="0">
+            <elvol amt="0" att="0" ctlenvamt="0" dec="0.5" hold="0.5" lamt="0" latt="0" lpdel="0" lshp="0" lspd="0.1" lspd_denominator="4" lspd_numerator="4" lspd_syncmode="0" pdel="0" rel="0.1" sustain="0.5" userwavefile="" x100="0"/>
+            <elcut amt="0" att="0" ctlenvamt="0" dec="0.5" hold="0.5" lamt="0" latt="0" lpdel="0" lshp="0" lspd="0.1" lspd_denominator="4" lspd_numerator="4" lspd_syncmode="0" pdel="0" rel="0.1" sustain="0.5" userwavefile="" x100="0"/>
+            <elres amt="0" att="0" ctlenvamt="0" dec="0.5" hold="0.5" lamt="0" latt="0" lpdel="0" lshp="0" lspd="0.1" lspd_denominator="4" lspd_numerator="4" lspd_syncmode="0" pdel="0" rel="0.1" sustain="0.5" userwavefile="" x100="0"/>
+          </eldata>
+          <chordcreator chord="0" chord-enabled="0" chordrange="1"/>
+          <arpeggiator arp="0" arp-enabled="0" arpcycle="0" arpdir="0" arpgate="100" arpmiss="0" arpmode="0" arprange="1" arprepeats="1" arpskip="0" arptime="200" arptime_denominator="4" arptime_numerator="4" arptime_syncmode="0"/>
+          <midiport basevelocity="127" fixedinputvelocity="-1" fixedoutputnote="-1" fixedoutputvelocity="-1" inputchannel="0" inputcontroller="-1" outputchannel="1" outputcontroller="-1" outputprogram="1" readable="0" writable="0"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <midiclip autoresize="1" len="1920" muted="0" name="" off="0" pos="0" steps="16" type="1">
+          <note key="45" len="118" pan="0" pos="0" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="24" type="0" vol="100"/>
+          <note key="55" len="118" pan="0" pos="48" type="0" vol="100"/>
+          <note key="60" len="190" pan="0" pos="72" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="120" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="144" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="168" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="192" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="216" type="0" vol="100"/>
+          <note key="55" len="118" pan="0" pos="240" type="0" vol="100"/>
+          <note key="60" len="142" pan="0" pos="264" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="312" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="336" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="360" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="384" type="0" vol="100"/>
+          <note key="62" len="34" pan="0" pos="408" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="408" type="0" vol="100"/>
+          <note key="64" len="130" pan="0" pos="432" type="0" vol="100"/>
+          <note key="55" len="22" pan="0" pos="432" type="0" vol="100"/>
+          <note key="60" len="94" pan="0" pos="456" type="0" vol="100"/>
+          <note key="67" len="46" pan="0" pos="480" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="504" type="0" vol="100"/>
+          <note key="66" len="22" pan="0" pos="528" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="528" type="0" vol="100"/>
+          <note key="67" len="10" pan="0" pos="552" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="552" type="0" vol="100"/>
+          <note key="66" len="10" pan="0" pos="564" type="0" vol="100"/>
+          <note key="64" len="70" pan="0" pos="576" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="576" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="600" type="0" vol="100"/>
+          <note key="55" len="22" pan="0" pos="624" type="0" vol="100"/>
+          <note key="64" len="22" pan="0" pos="648" type="0" vol="100"/>
+          <note key="60" len="94" pan="0" pos="648" type="0" vol="100"/>
+          <note key="66" len="22" pan="0" pos="672" type="0" vol="100"/>
+          <note key="62" len="46" pan="0" pos="696" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="696" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="720" type="0" vol="100"/>
+          <note key="60" len="22" pan="0" pos="744" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="744" type="0" vol="100"/>
+          <note key="57" len="154" pan="0" pos="768" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="768" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="792" type="0" vol="100"/>
+          <note key="55" len="22" pan="0" pos="816" type="0" vol="100"/>
+          <note key="60" len="190" pan="0" pos="840" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="888" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="912" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="936" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="960" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="984" type="0" vol="100"/>
+          <note key="55" len="118" pan="0" pos="1008" type="0" vol="100"/>
+          <note key="60" len="190" pan="0" pos="1032" type="0" vol="100"/>
+          <note key="45" len="82" pan="0" pos="1080" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="1104" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="1128" type="0" vol="100"/>
+          <note key="48" len="118" pan="0" pos="1152" type="0" vol="100"/>
+          <note key="53" len="118" pan="0" pos="1176" type="0" vol="100"/>
+          <note key="57" len="118" pan="0" pos="1200" type="0" vol="100"/>
+          <note key="69" len="166" pan="0" pos="1224" type="0" vol="100"/>
+          <note key="48" len="70" pan="0" pos="1272" type="0" vol="100"/>
+          <note key="53" len="70" pan="0" pos="1296" type="0" vol="100"/>
+          <note key="60" len="70" pan="0" pos="1320" type="0" vol="100"/>
+          <note key="48" len="118" pan="0" pos="1344" type="0" vol="100"/>
+          <note key="53" len="46" pan="0" pos="1368" type="0" vol="100"/>
+          <note key="67" len="70" pan="0" pos="1392" type="0" vol="100"/>
+          <note key="57" len="118" pan="0" pos="1392" type="0" vol="100"/>
+          <note key="53" len="70" pan="0" pos="1416" type="0" vol="100"/>
+          <note key="67" len="22" pan="0" pos="1464" type="0" vol="100"/>
+          <note key="48" len="70" pan="0" pos="1464" type="0" vol="100"/>
+          <note key="65" len="46" pan="0" pos="1488" type="0" vol="100"/>
+          <note key="53" len="70" pan="0" pos="1488" type="0" vol="100"/>
+          <note key="60" len="70" pan="0" pos="1512" type="0" vol="100"/>
+          <note key="64" len="142" pan="0" pos="1536" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="1536" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="1560" type="0" vol="100"/>
+          <note key="55" len="22" pan="0" pos="1584" type="0" vol="100"/>
+          <note key="60" len="94" pan="0" pos="1608" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="1656" type="0" vol="100"/>
+          <note key="62" len="46" pan="0" pos="1680" type="0" vol="100"/>
+          <note key="50" len="70" pan="0" pos="1680" type="0" vol="100"/>
+          <note key="55" len="70" pan="0" pos="1704" type="0" vol="100"/>
+          <note key="57" len="70" pan="0" pos="1728" type="0" vol="100"/>
+          <note key="45" len="118" pan="0" pos="1728" type="0" vol="100"/>
+          <note key="52" len="118" pan="0" pos="1752" type="0" vol="100"/>
+          <note key="55" len="118" pan="0" pos="1776" type="0" vol="100"/>
+          <note key="60" len="118" pan="0" pos="1800" type="0" vol="100"/>
+          <note key="45" len="70" pan="0" pos="1848" type="0" vol="100"/>
+          <note key="50" len="46" pan="0" pos="1872" type="0" vol="100"/>
+          <note key="55" len="22" pan="0" pos="1896" type="0" vol="100"/>
+        </midiclip>
+      </track>
+    </trackcontainer>
+    <mixer height="389" maximized="0" minimized="0" visible="1" width="607" x="5" y="310">
+      <mixerchannel muted="0" name="Master" num="0" soloed="0" volume="1">
+        <fxchain enabled="1" numofeffects="2">
+          <effect autoquit="1" autoquit_denominator="4" autoquit_numerator="4" autoquit_syncmode="0" name="eq" on="1" wet="1">
+            <Eq AnalyseIn="1" AnalyseOut="1" HP="2" HP12="0" HP24="0" HP48="1" HPactive="1" HPres="0.70700002" HighShelfgain="0" HighShelfres="0.70700002" Highshelfactive="0" LP="2" LP12="0" LP24="0" LP48="1" LPactive="1" LPres="0.70700002" LowShelfres="0.70700002" Lowshelfactive="0" Lowshelfgain="0" Outputgain="0" Peak1active="0" Peak1bw="0.30000001" Peak2active="0" Peak2bw="0.30000001" Peak2gain="0" Peak3active="0" Peak3bw="0.30000001" Peak3gain="0" Peak4active="0" Peak4bw="0.30000001" Peak4gain="0">
+              <Inputgain id="19791" scale_type="log" value="0"/>
+              <Peak1gain id="8857" scale_type="log" value="0"/>
+              <HPfreq id="8250" scale_type="log" value="31"/>
+              <LowShelffreq id="7837" scale_type="log" value="80"/>
+              <Peak1freq id="19202" scale_type="log" value="120"/>
+              <Peak2freq id="25240" scale_type="log" value="250"/>
+              <Peak3freq id="19253" scale_type="log" value="2000"/>
+              <Peak4freq id="12849" scale_type="log" value="4000"/>
+              <Highshelffreq id="19957" scale_type="log" value="12000"/>
+              <LPfreq id="12020" scale_type="log" value="18000"/>
+            </Eq>
+            <key/>
+          </effect>
+          <effect autoquit="1" autoquit_denominator="4" autoquit_numerator="4" autoquit_syncmode="0" name="eq" on="1" wet="1">
+            <Eq AnalyseIn="1" AnalyseOut="1" HP="2" HP12="0" HP24="0" HP48="1" HPactive="1" HPres="0.70700002" HighShelfgain="0" HighShelfres="0.70700002" Highshelfactive="0" LP="2" LP12="0" LP24="0" LP48="1" LPactive="1" LPres="0.70700002" LowShelfres="0.70700002" Lowshelfactive="0" Lowshelfgain="0" Outputgain="0" Peak1active="0" Peak1bw="0.30000001" Peak2active="0" Peak2bw="0.30000001" Peak2gain="0" Peak3active="0" Peak3bw="0.30000001" Peak3gain="0" Peak4active="0" Peak4bw="0.30000001" Peak4gain="0">
+              <Inputgain id="23868" scale_type="log" value="0"/>
+              <Peak1gain id="21056" scale_type="log" value="0"/>
+              <HPfreq id="28107" scale_type="log" value="31"/>
+              <LowShelffreq id="26732" scale_type="log" value="80"/>
+              <Peak1freq id="26093" scale_type="log" value="120"/>
+              <Peak2freq id="31022" scale_type="log" value="250"/>
+              <Peak3freq id="24656" scale_type="log" value="2000"/>
+              <Peak4freq id="15272" scale_type="log" value="4000"/>
+              <Highshelffreq id="23833" scale_type="log" value="12000"/>
+              <LPfreq id="27990" scale_type="log" value="18000"/>
+            </Eq>
+            <key/>
+          </effect>
+        </fxchain>
+      </mixerchannel>
+      <mixerchannel muted="0" name="RealFont_2_1" num="1" soloed="0" volume="1">
+        <fxchain enabled="1" numofeffects="2">
+          <effect autoquit="1" autoquit_denominator="4" autoquit_numerator="4" autoquit_syncmode="0" name="vsteffect" on="1" wet="1">
+            <vsteffectcontrols guivisible="0" numparams="14" param0="0:Pan:0.5" param1="1:Mono:0" param10="10:Low Cut:1" param11="11:Hi Cut:0.57" param12="12:Mix:0.26" param13="13:Level:0.5" param2="2:Type:0.5" param3="3:Sync:1" param4="4:T.S.N.:0.15" param5="5:T.S.D.:0.16" param6="6:Time:0.5" param7="7:Feedback:0.7" param8="8:Ping-Pong:1" param9="9:Quality:1" plugin="Effects/Classic Delay/Classic Delay.dll" program="0"/>
+            <key>
+              <attribute name="file" value="Effects/Classic Delay/Classic Delay.dll"/>
+            </key>
+          </effect>
+          <effect autoquit="1" autoquit_denominator="4" autoquit_numerator="4" autoquit_syncmode="0" name="vsteffect" on="1" wet="1">
+            <vsteffectcontrols guivisible="0" numparams="8" param0="0:Size:0.89" param1="1:Damping:0.13" param2="2:Predelay:0.5" param3="3:Hi Damp:0.27" param4="4:Lo Cut:0.35" param5="5:Early Ref.:0" param6="6:Mix:0.33" param7="7:Level:0.5" plugin="Effects/Classic Reverb/Classic Reverb.dll" program="0"/>
+            <key>
+              <attribute name="file" value="Effects/Classic Reverb/Classic Reverb.dll"/>
+            </key>
+          </effect>
+        </fxchain>
+        <send amount="1" channel="0"/>
+      </mixerchannel>
+    </mixer>
+    <ControllerRackView height="386" maximized="0" minimized="0" visible="1" width="350" x="616" y="310"/>
+    <pianoroll height="480" maximized="1" minimized="0" stopbehaviour="1" visible="1" width="970" x="572" y="196"/>
+    <automationeditor height="400" maximized="0" minimized="0" visible="0" width="860" x="1" y="1"/>
+    <projectnotes height="696" maximized="0" minimized="0" visible="1" width="818" x="969" y="2"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta charset="utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: "\2610"; }
+li.checked::marker { content: "\2612"; }
+</style></head><body style=" font-family:'Noto Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Greetings.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Please use this in LMMS 1.3 or higher. Previous versions require editing to load correctly.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">____</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Settings:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">CATEGORY	SUBCAT. 1	SUBCAT. 2				VALUE</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Performance	Plugins	Keep effects running even without input		TRUE</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Audio	Sample rate					Sample Rate: 44100Hz</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">	Buffer size					Frames: 256 | Latency: 5.8 ms</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">____</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Instruments:</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Effects:</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">Released as .mmp, adjust paths as desired.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2'; color:#e0e0e0;">____</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2'; color:#e0e0e0;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">Please note that the author explicitely wishes to have eventual derivates or redistributions distributed ONLY as .mmp files, not .mmpz.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">There is nothing the license can do from stopping you as saving it as .mmpz, except that the author will insult you severely.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">Should you have received this file as an .mmpz, please insult its forwarder.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">To convert the file into .mmp, follow these steps:</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">On Windows:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">1.: Create a a file called &quot;Decompress.cmd&quot; in the LMMS directory. (Where lmms.exe is located.)</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">2.: Right click on file, click &quot;Edit&quot;.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">3.: Put the following line into the file:</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">&quot;%~dp0LMMS.exe&quot; -d &quot;%*&quot; &gt; &quot;%*.mmp&quot;</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">This does the following:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">%~dp0 return the folder where the .cmd file is located.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">It then calls LMMS.exe inside that folder.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">-d is the decompress option for an .mmpz file.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">%* returns any parameters given to the .cmd file.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">&gt; sends the output into a file.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">If you drag an .mmpz file onto the .cmd file, it will decompress it into &quot;[filename].mmpz.mmp&quot;, at the original location.</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">On Linux:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">1.: Open the terminal in your LMMS directory.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">2.: Type the following:</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'MS Shell Dlg 2';">./lmms -d [pathofmmpz].mmpz &gt;&gt; [pathofmmpz ].mmp</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'MS Shell Dlg 2';"><br /></p></body></html>]]></projectnotes>
+    <timeline lp0pos="0" lp1pos="192" lpstate="0" stopbehaviour="1"/>
+    <controllers/>
+    <scales>
+      <scale description="12-tone EDO (default)">
+        <interval den="1" num="1"/>
+        <interval cents="100"/>
+        <interval cents="200"/>
+        <interval cents="300"/>
+        <interval cents="400"/>
+        <interval cents="500"/>
+        <interval cents="600"/>
+        <interval cents="700"/>
+        <interval cents="800"/>
+        <interval cents="900"/>
+        <interval cents="1000"/>
+        <interval cents="1100"/>
+        <interval den="1" num="2"/>
+      </scale>
+      <scale description="24-tone EDO">
+        <interval den="1" num="1"/>
+        <interval cents="50"/>
+        <interval cents="100"/>
+        <interval cents="150"/>
+        <interval cents="200"/>
+        <interval cents="250"/>
+        <interval cents="300"/>
+        <interval cents="350"/>
+        <interval cents="400"/>
+        <interval cents="450"/>
+        <interval cents="500"/>
+        <interval cents="550"/>
+        <interval cents="600"/>
+        <interval cents="650"/>
+        <interval cents="700"/>
+        <interval cents="750"/>
+        <interval cents="800"/>
+        <interval cents="850"/>
+        <interval cents="900"/>
+        <interval cents="950"/>
+        <interval cents="1000"/>
+        <interval cents="1050"/>
+        <interval cents="1100"/>
+        <interval cents="1150"/>
+        <interval den="1" num="2"/>
+      </scale>
+      <scale description="7-tone JI C-major (Ptolemaic)">
+        <interval den="1" num="1"/>
+        <interval den="8" num="9"/>
+        <interval den="4" num="5"/>
+        <interval den="3" num="4"/>
+        <interval den="2" num="3"/>
+        <interval den="3" num="5"/>
+        <interval den="8" num="15"/>
+        <interval den="1" num="2"/>
+      </scale>
+      <scale description="12-tone JI (3-limit / Pythagorean)">
+        <interval den="1" num="1"/>
+        <interval den="243" num="256"/>
+        <interval den="8" num="9"/>
+        <interval den="27" num="32"/>
+        <interval den="64" num="81"/>
+        <interval den="3" num="4"/>
+        <interval den="512" num="729"/>
+        <interval den="2" num="3"/>
+        <interval den="81" num="128"/>
+        <interval den="16" num="27"/>
+        <interval den="9" num="16"/>
+        <interval den="128" num="243"/>
+        <interval den="1" num="2"/>
+      </scale>
+      <scale description="5-tone A-minor (3-limit / Pythagorean)">
+        <interval den="1" num="1"/>
+        <interval den="27" num="32"/>
+        <interval den="3" num="4"/>
+        <interval den="2" num="3"/>
+        <interval den="9" num="16"/>
+        <interval den="1" num="2"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+      <scale description="empty">
+        <interval den="1" num="1"/>
+      </scale>
+    </scales>
+    <keymaps>
+      <keymap base_freq="440" base_key="69" description="all keys 1:1 (default)" first_key="0" last_key="127" middle_key="0"/>
+      <keymap base_freq="440" base_key="69" description="white keys to 7 degrees" first_key="0" last_key="127" middle_key="60">
+        <degree value="0"/>
+        <degree value="-1"/>
+        <degree value="1"/>
+        <degree value="-1"/>
+        <degree value="2"/>
+        <degree value="3"/>
+        <degree value="-1"/>
+        <degree value="4"/>
+        <degree value="-1"/>
+        <degree value="5"/>
+        <degree value="-1"/>
+        <degree value="6"/>
+      </keymap>
+      <keymap base_freq="440" base_key="69" description="white keys to 12 degrees" first_key="0" last_key="127" middle_key="60">
+        <degree value="0"/>
+        <degree value="-1"/>
+        <degree value="2"/>
+        <degree value="-1"/>
+        <degree value="4"/>
+        <degree value="5"/>
+        <degree value="-1"/>
+        <degree value="7"/>
+        <degree value="-1"/>
+        <degree value="9"/>
+        <degree value="-1"/>
+        <degree value="11"/>
+      </keymap>
+      <keymap base_freq="440" base_key="69" description="white keys to 24 degrees" first_key="0" last_key="127" middle_key="60">
+        <degree value="0"/>
+        <degree value="-1"/>
+        <degree value="2"/>
+        <degree value="-1"/>
+        <degree value="4"/>
+        <degree value="5"/>
+        <degree value="-1"/>
+        <degree value="7"/>
+        <degree value="-1"/>
+        <degree value="9"/>
+        <degree value="-1"/>
+        <degree value="11"/>
+        <degree value="12"/>
+        <degree value="-1"/>
+        <degree value="14"/>
+        <degree value="-1"/>
+        <degree value="16"/>
+        <degree value="17"/>
+        <degree value="-1"/>
+        <degree value="19"/>
+        <degree value="-1"/>
+        <degree value="21"/>
+        <degree value="-1"/>
+        <degree value="23"/>
+      </keymap>
+      <keymap base_freq="440" base_key="61" description="black keys to 5 degrees" first_key="0" last_key="127" middle_key="60">
+        <degree value="-1"/>
+        <degree value="0"/>
+        <degree value="-1"/>
+        <degree value="1"/>
+        <degree value="-1"/>
+        <degree value="-1"/>
+        <degree value="2"/>
+        <degree value="-1"/>
+        <degree value="3"/>
+        <degree value="-1"/>
+        <degree value="4"/>
+        <degree value="-1"/>
+      </keymap>
+      <keymap base_freq="466.16501" base_key="70" description="black keys to 12 degrees" first_key="0" last_key="127" middle_key="60">
+        <degree value="-1"/>
+        <degree value="1"/>
+        <degree value="-1"/>
+        <degree value="3"/>
+        <degree value="-1"/>
+        <degree value="-1"/>
+        <degree value="6"/>
+        <degree value="-1"/>
+        <degree value="8"/>
+        <degree value="-1"/>
+        <degree value="10"/>
+        <degree value="-1"/>
+      </keymap>
+      <keymap base_freq="440" base_key="69" description="empty" first_key="0" last_key="127" middle_key="60"/>
+      <keymap base_freq="440" base_key="69" description="empty" first_key="0" last_key="127" middle_key="60"/>
+      <keymap base_freq="440" base_key="69" description="empty" first_key="0" last_key="127" middle_key="60"/>
+      <keymap base_freq="440" base_key="69" description="empty" first_key="0" last_key="127" middle_key="60"/>
+    </keymaps>
+  </song>
+</lmms-project>
